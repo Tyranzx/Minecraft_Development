@@ -1,5 +1,7 @@
 # Minecraft_Development
 
+⚠ NO CODES , NO BIG PROJECTS because I want to avoid kids steal me :) (I HAVE NO LICEMNSE AHAHAH)
+
 - ES: Os estaré compartiendo pequeñas ideas implementadas a mi proyecto personal más grande StellarCore
 - IT: Vi staró condividendo piccole idee implementate nel mio progetto personale piu grande StellarCore
 - EN: I'll sharing some ideas implemented in my personal biggest project StellarCore
