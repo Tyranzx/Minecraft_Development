@@ -96,7 +96,7 @@ public class PlayerManager extends StellarSource {
         this.lastplayed =  p.getLastPlayed();
     }
 
-    public void sendPlayerList(){
+    public void sendPlayerListMessage(){
         // EJ: Lista de jugadores (5): Juancito233, Tyranzx, ElBro__02, Ramss22_x, Nefruti.
         if (!p.hasPermission("essentials.staff")) {
             p.sendMessage(c("&cNo tienes permiso para ejecutar este comando."));
