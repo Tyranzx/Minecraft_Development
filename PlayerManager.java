@@ -292,7 +292,7 @@ public class PlayerManager extends StellarSource {
         return lastplayed;
     }
 
-    public void sendTitle(String msg, String title, String subtitulo, int fadeIn, int stay, int fadeOut){
+    public void sendTitle(String title, String subtitulo, int fadeIn, int stay, int fadeOut){
         HamsterAPI.getInstance().getHamsterPlayerManager().get(p).sendTitle(c(title), c(subtitulo), fadeIn, stay, fadeOut);
     }
 
