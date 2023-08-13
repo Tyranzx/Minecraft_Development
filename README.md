@@ -1,6 +1,6 @@
 # Minecraft_Development
 
-⚠ NO CODES , NO BIG PROJECTS because I want to avoid kids steal me :) (I HAVE NO LICENSE AHAHAH)
+⚠ NO BIG CODES , NO BIG PROJECTS because I want to avoid kids steal me :) (I HAVE NO LICENSE AHAHAH)
 
 - ES: Os estaré compartiendo pequeñas ideas implementadas a mi proyecto personal más grande StellarCore
 - IT: Vi staró condividendo piccole idee implementate nel mio progetto personale piu grande StellarCore
