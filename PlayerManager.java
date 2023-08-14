@@ -1,6 +1,5 @@
 package us.com.stellarsquad.stellarcraft.management.player;
 
-import dev._2lstudios.hamsterapi.HamsterAPI;
 import org.bukkit.Location;
 import org.bukkit.Server;
 import org.bukkit.World;
@@ -292,17 +291,8 @@ public class PlayerManager extends StellarSource {
         return lastplayed;
     }
 
-    public void sendTitle(String title, String subtitulo, int fadeIn, int stay, int fadeOut){
-        HamsterAPI.getInstance().getHamsterPlayerManager().get(p).sendTitle(c(title), c(subtitulo), fadeIn, stay, fadeOut);
-    }
-
     public void sendMessage(String text) { p.sendMessage(c(text)); }
-
-    public void throwSimpleVector(int mult){
-        final Vector v = p.getLocation().getDirection();
-        v.multiply(mult);
-        p.setVelocity(v);
-    }
+    
     public Location getPreviousLocations(){
         if (!previousLocations.containsKey(p)){
             p.sendMessage(c("&cNo existe una ubicacion anterior."));
