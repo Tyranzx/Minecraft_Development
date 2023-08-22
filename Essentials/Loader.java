@@ -25,12 +25,12 @@ public final class Loader extends JavaPlugin {
         // config files
         settings.setup(this);
 
-        //commands
+        // register commands
         defaultCommands = new DefaultCommands(this);
         personalCommands = new PersonalCommands(this);
         advancedCommands = new AdvancedCommands(this);
 
-        //register listeners through for
+        // register listeners through for
         registerListeners();
 
     }
