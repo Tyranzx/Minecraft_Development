@@ -36,6 +36,5 @@ public final class Loader extends JavaPlugin {
     }
 
     Listener[] listeners = {
-            new PlayerListener(this), new ChatListener(this), new EnderPearlRider(this), new ArraysListener(this),
-            new SpecialMobs(), new HookAPI(this), new ColoredSigns()
+            new PlayerListener(this), new ChatListener(this), new ArraysListener(this),
     };
