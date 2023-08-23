@@ -125,9 +125,9 @@ public class ConfigManager
             out.createNewFile();
         }
         FileConfiguration file = YamlConfiguration.loadConfiguration(out);
-        InputStreamReader reader = new InputStreamReader(in);
         if (in != null)
         {
+        InputStreamReader reader = new InputStreamReader(in);
             file.setDefaults(YamlConfiguration.loadConfiguration(reader));
             file.options().copyDefaults(true);
             file.save(out);
