@@ -16,7 +16,8 @@ import java.io.InputStreamReader;
 
 public class ConfigManager
 {
-    private ConfigManager() { }
+    private ConfigManager(
+    ) { }
 
     private File langDir;
     private Lang lang;
@@ -45,7 +46,8 @@ public class ConfigManager
 
     public static ConfigManager getInstance() { return instance; }
 
-    public void setup(@NotNull Loader core){
+    public void setup(@NotNull Loader core)
+    {
         if (!core.getDataFolder().exists())
         {
             core.getDataFolder().mkdir();
