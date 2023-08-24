@@ -43,7 +43,11 @@ public class ConfigManager
 
     private FileConfiguration en;
     private FileConfiguration esp;
-
+    private FileConfiguration fr;
+    private FileConfiguration it;
+    private FileConfiguration pr;
+    private FileConfiguration rs;
+    
     static ConfigManager instance = new ConfigManager();
 
     public static ConfigManager getInstance() { return instance; }
@@ -70,6 +74,10 @@ public class ConfigManager
 
         this.espfile = lang.createLangFile("es.yml");
         this.enfile = lang.createLangFile("en.yml");
+        this.frfile = lang.createLangFile("fr.yml");
+        this.itfile = lang.createLangFile("it.yml");
+        this.prpfile = lang.createLangFile("pr.yml");
+        this.rsfile = lang.createLangFile("rs.yml");
 
         config = core.getConfig();
         core.saveDefaultConfig();
@@ -93,6 +101,10 @@ public class ConfigManager
                 pfile.createNewFile();
                 createNewFile(core, "en.yml", lang.createLangFile("en.yml"));
                 createNewFile(core, "es.yml", lang.createLangFile("es.yml"));
+                createNewFile(core, "fr.yml", lang.createLangFile("fr.yml"));
+                createNewFile(core, "it.yml", lang.createLangFile("it.yml"));
+                createNewFile(core, "pr.yml", lang.createLangFile("pr.yml"));
+                createNewFile(core, "rs.yml", lang.createLangFile("rs.yml"));
             } catch
             (
                     IOException ex
@@ -102,15 +114,21 @@ public class ConfigManager
                 ex.printStackTrace();
             }
         }
-
+        
+        // OTHER CONFIGURATIONS
         locations = YamlConfiguration.loadConfiguration(lfile);
         homes = YamlConfiguration.loadConfiguration(hfile);
         warps = YamlConfiguration.loadConfiguration(wfile);
         jails = YamlConfiguration.loadConfiguration(jfile);
         players = YamlConfiguration.loadConfiguration(pfile);
 
+        // LANGUAGES
         esp = YamlConfiguration.loadConfiguration(espfile);
         en = YamlConfiguration.loadConfiguration(enfile);
+        fr = YamlConfiguration.loadConfiguration(frfile);
+        it = YamlConfiguration.loadConfiguration(itfile);
+        pr = YamlConfiguration.loadConfiguration(prfile);
+        rs = YamlConfiguration.loadConfiguration(rsfile);
 
     }
     public FileConfiguration createNewFile
@@ -147,13 +165,33 @@ public class ConfigManager
         {
             case "en":
                 {
-                en = YamlConfiguration.loadConfiguration(lang.createLangFile("en.yml"));
+                en = YamlConfiguration.loadConfiguration(lang.createLangFile("en_messages.yml"));
                 return en;
             }
             case "es": 
                 {
-                esp = YamlConfiguration.loadConfiguration(lang.createLangFile("es.yml"));
+                esp = YamlConfiguration.loadConfiguration(lang.createLangFile("es_messages.yml"));
                 return esp;
+            }
+            case "fr": 
+                {
+                fr = YamlConfiguration.loadConfiguration(lang.createLangFile("fr_messages.yml"));
+                return fr;
+            }
+            case "it": 
+                {
+                it = YamlConfiguration.loadConfiguration(lang.createLangFile("it_messages.yml"));
+                return it;
+            }
+            case "pr": 
+                {
+                pr = YamlConfiguration.loadConfiguration(lang.createLangFile("pr_messages.yml"));
+                return pr;
+            }
+            case "rs": 
+                {
+                rs = YamlConfiguration.loadConfiguration(lang.createLangFile("rs_messages.yml"));
+                return rs;
             }
             default: 
                 {
