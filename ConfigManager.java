@@ -141,18 +141,23 @@ public class ConfigManager
 
     public FileConfiguration getMessages() 
     {
-        if (
-                Loader.settings.getConfig().getString("lang").equalsIgnoreCase("en")
-        ) {
-            return en;
-        } else if (
-                Loader.settings.getConfig().getString("lang").equalsIgnoreCase("es")
-        ) {
-            return esp;
-        } else
+        switch (Loader.settings.getConfig().getString("lang")) 
         {
-            Bukkit.getConsoleSender().sendMessage(StellarSource.c("&cThe language was specified wrongly in configuration file config.yml!"));
-            return null;
+            case "en":
+                {
+                en = YamlConfiguration.loadConfiguration(new File(langDir.getPath()+System.getProperty("file.separator")+"en_messages.yml"));
+                return en;
+            }
+            case "es": 
+                {
+                esp = YamlConfiguration.loadConfiguration(new File(langDir.getPath()+System.getProperty("file.separator")+"es_messages.yml"));
+                return esp;
+            }
+            default: 
+                {
+                Bukkit.getConsoleSender().sendMessage(StellarSource.c("&cThe language has been specified wrongly."));
+                return en;
+            }
         }
     }
 
