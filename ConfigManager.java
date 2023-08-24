@@ -145,12 +145,12 @@ public class ConfigManager
         {
             case "en":
                 {
-                en = YamlConfiguration.loadConfiguration(new File(langDir.getPath()+System.getProperty("file.separator")+"en_messages.yml"));
+                en = YamlConfiguration.loadConfiguration(lang.createLangFile("en.yml"));
                 return en;
             }
             case "es": 
                 {
-                esp = YamlConfiguration.loadConfiguration(new File(langDir.getPath()+System.getProperty("file.separator")+"es_messages.yml"));
+                esp = YamlConfiguration.loadConfiguration(lang.createLangFile("es.yml"));
                 return esp;
             }
             default: 
