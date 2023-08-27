@@ -15,5 +15,5 @@
 ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/0336fe7b-415e-4b9b-87de-485976fa7a3d)
 
 # DISCORD SERVER WHERE WE HELP YOU TO SOLVE YOUR ERRORS! :D
-https://discord.gg/HsZtmcXQjN
+https://discord.com/invite/HsZtmcXQjN
 
