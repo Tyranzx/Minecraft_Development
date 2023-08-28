@@ -1,0 +1,9 @@
+name: '${project.name}'
+main: us.com.stellarsquad.stellarcraft.StellarCore
+author: "Jess"
+description: '${project.description}'
+prefix: StellarCraft
+softdepend: [PlaceholderAPI, Multiverse-Core]
+depend: [HamsterAPI]
+version: ${project.version}
+api-version: 1.20
