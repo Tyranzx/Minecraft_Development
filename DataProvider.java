@@ -21,8 +21,8 @@ public class DataProvider
     private DataProvider(
     ) { }
 
-    private File langDir;
-    private Lang lang;
+    private final File langDir;
+    private final Lang lang;
 
     private File cfile;
     private File lfile;
@@ -30,6 +30,8 @@ public class DataProvider
     private File wfile;
     private File jfile;
     private File pfile;
+    private File bfile;
+    private File tfile;
 
     private File enfile;
     private File espfile;
@@ -40,7 +42,9 @@ public class DataProvider
     private FileConfiguration warps;
     private FileConfiguration jails;
     private FileConfiguration players;
-
+    private FileConfiguration backpacks;
+    private FileConfiguration tablist;
+    
     private FileConfiguration en;
     private FileConfiguration esp;
     private FileConfiguration fr;
@@ -71,7 +75,9 @@ public class DataProvider
         this.wfile = new File(core.getDataFolder(), "warps.yml");
         this.jfile = new File(core.getDataFolder(), "jails.yml");
         this.pfile = new File(core.getDataFolder(), "players.yml");
-
+        this.bfile = new File(core.getDataFolder(), "backpacks.yml");
+        this.tfile = new File(core.getDataFolder(), "tablist.yml");
+        
         this.espfile = lang.createLangFile("es.yml");
         this.enfile = lang.createLangFile("en.yml");
         this.frfile = lang.createLangFile("fr.yml");
@@ -89,7 +95,9 @@ public class DataProvider
                 !wfile.exists() ||
                 !espfile.exists() ||
                 !enfile.exists() ||
-                !pfile.exists()        
+                !pfile.exists() ||
+                !bfile.exists() ||
+                !tfile.exists()
         )
         {
             try 
@@ -99,6 +107,8 @@ public class DataProvider
                 jfile.createNewFile();
                 wfile.createNewFile();
                 pfile.createNewFile();
+                bfile.createNewFile();
+                tfile.createNewFile();
                 createNewFile(core, "en.yml", lang.createLangFile("en.yml"));
                 createNewFile(core, "es.yml", lang.createLangFile("es.yml"));
                 createNewFile(core, "fr.yml", lang.createLangFile("fr.yml"));
@@ -121,6 +131,8 @@ public class DataProvider
         warps = YamlConfiguration.loadConfiguration(wfile);
         jails = YamlConfiguration.loadConfiguration(jfile);
         players = YamlConfiguration.loadConfiguration(pfile);
+        backpacks = YamlConfiguration.loadConfiguration(bfile);
+        tablist = YamlConfiguration.loadConfiguration(tfile);
 
         // LANGUAGES
         esp = YamlConfiguration.loadConfiguration(espfile);
@@ -287,5 +299,37 @@ public class DataProvider
     public void reloadHomes() 
     {
         homes = YamlConfiguration.loadConfiguration(hfile);
+    }
+        public FileConfiguration getTablist()
+    { 
+            return tablist; 
+    }
+    public void saveTablist()
+    {
+        try {
+            tablist.save(tfile);
+        } catch (IOException ex){
+            ex.printStackTrace();
+        }
+    }
+    public void reloadTablist() 
+    {
+        tablist = YamlConfiguration.loadConfiguration(tfile);
+    }
+    public void saveBackpacks() 
+    {
+        try {
+            backpacks.save(bfile);
+        } catch (IOException ex){
+            ex.printStackTrace();
+        }
+    }
+    public void reloadBackpacks() 
+    {
+        backpacks = YamlConfiguration.loadConfiguration(bfile);
+    }
+    public FileConfiguration getBackpacks()
+    {
+        return backpacks;
     }
 }
