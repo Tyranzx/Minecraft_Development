@@ -161,7 +161,7 @@ public class DataProvider
 
     public FileConfiguration getMessages() 
     {
-        switch (Loader.settings.getConfig().getString("lang")) 
+        switch (this.getConfig().getString("lang")) 
         {
             case "en":
                 {
