@@ -16,7 +16,8 @@ import us.com.stellarsquad.stellarcraft.management.ConfigManager;
 import us.com.stellarsquad.stellarcraft.objects.TitleObjects;
 import us.com.stellarsquad.stellarcraft.plugins.*;
 
-public final class Loader extends JavaPlugin {
+public final class Loader extends JavaPlugin 
+{
 
     private PersonalCommands personalCommands;
     private DefaultCommands defautCommands;
@@ -34,7 +35,8 @@ public final class Loader extends JavaPlugin {
     private PlaceholderAPI phapi;
     private SQLProvider sqlp = new SQLProvider(this);
 
-    private void registerCommands() {
+    private void registerCommands() 
+    {
 
         personalCommands = new PersonalCommands(this);
         defautCommands = new DefaultCommands(this);
@@ -42,13 +44,15 @@ public final class Loader extends JavaPlugin {
 
     }
 
-    Listener[] listeners = {
+    Listener[] listeners = 
+    {
             new PlayerListener(this), new ChatListener(this), new TitleObjects(), new Prevention(this), 
-            new StellarAPI(this), new StrengthFix(this), new Backpacks(this), new Chat(this), , new StellarBoard(this)
+            new StellarAPI(this), new StrengthFix(this), new Backpacks(this), new Chat(this), new StellarBoard(this)
     };
 
     @Override
-    public void onEnable() {
+    public void onEnable() 
+    {
 
         loggerInfo(StellarSource.c("&7&m----------------------------------"));
         loggerInfo(StellarSource.c("&dStellarCraft - Essentials"));
@@ -56,18 +60,21 @@ public final class Loader extends JavaPlugin {
         loggerInfo(StellarSource.c("&eDesc: &a") + getDescription().getDescription());
         loggerInfo(StellarSource.c("&eAutor: &aTyranzx"));
 
-        if (getVersion() <= 9) {
+        if (getVersion() <= 9) 
+        {
             loggerInfo("&eStellarCore es para la versión &61.20.1");
             loggerInfo("&c- StellarAPI 1.20.1 desactivado");
             loggerInfo("&7(Si no se instala en un servidor v1.20.1, varias opciones o funcionalidades serán desactivadas. Esto porque el core se pensó para 1.20.1 pero utilizable para 1.8.8).");
         }
       
         multiverseEnabled = getServer().getPluginManager().isPluginEnabled("Multiverse-Core");
-        if (multiverseEnabled) {
+        if (multiverseEnabled) 
+        {
             multiverseCore = (MultiverseCore) getServer().getPluginManager().getPlugin("Multiverse-Core");
         }
 
-        if (Bukkit.getPluginManager().getPlugin("PlaceholderAPI") != null) {
+        if (Bukkit.getPluginManager().getPlugin("PlaceholderAPI") != null) 
+        {
             placeholderAPIEnabled = true;
             new PlaceholderAPI(this).register();
         } else {
@@ -88,19 +95,23 @@ public final class Loader extends JavaPlugin {
         loggerInfo(StellarSource.c("&7&m----------------------------------"));
     }
 
-    public static Loader getInstance(){
+    public static Loader getInstance()
+    {
         return core;
     }
 
-     private void registerSQLManager() {
+     private void registerSQLManager() 
+    {
          sqlp.mysqlSetup();
      } 
 
-    private void registerAddons(){
+    private void registerAddons()
+    {
         updateFiles = new updateConfig(this);
         updateFiles.task();
     }
-    public void onDisable(){
+    public void onDisable()
+    {
         Backpacks.saveEntryMap();
         PlayerCache pc = new PlayerCache();
         pc.deletePlayerCache(this);
