@@ -41,9 +41,12 @@ public final class Loader extends JavaPlugin
     public void onEnable() 
     {
 
+        core = this;
+        this.settings = DataProvider.getInstance().setup(this);
+        
         loggerInfo(StellarSource.c("&7&m----------------------------------"));
         loggerInfo(StellarSource.c("&dStellarCraft - Essentials"));
-        getServer().getConsoleSender().sendMessage(StellarSource.c("&eVersion: &a") + getDescription().getVersion());
+        loggerInfo(StellarSource.c("&eVersion: &a") + getDescription().getVersion());
         loggerInfo(StellarSource.c("&eDesc: &a") + getDescription().getDescription());
         loggerInfo(StellarSource.c("&eAutor: &aTyranzx"));
 
@@ -68,10 +71,6 @@ public final class Loader extends JavaPlugin
             placeholderAPIEnabled = false;
             loggerInfo(StellarSource.c("&ePlacerHolderAPI no está activado!"));
         }
-
-        this.settings = DataProvider.getInstance().setup(this);
-
-        core = this;
 
         this.registerSQLManager();
         this.registerCommands();
