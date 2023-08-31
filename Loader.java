@@ -16,6 +16,9 @@ public final class Loader extends JavaPlugin
     private DefaultCommands defautCommands;
     private AdvancedCommands advancedCommands;
 
+    private PlaceholderAPI phapi;
+    private SQLProvider sqlp;
+    
     private boolean placeholderAPIEnabled;
     private boolean multiverseEnabled;
 
@@ -25,8 +28,6 @@ public final class Loader extends JavaPlugin
   
     public static DataProvider settings;
   
-    private PlaceholderAPI phapi;
-    private SQLProvider sqlp = new SQLProvider(this);
 
     private void registerCommands() 
     {
@@ -87,7 +88,7 @@ public final class Loader extends JavaPlugin
 
      private void registerSQLManager() 
     {
-         sqlp.mysqlSetup();
+        sqlp = new SQLProvider(this).mysqlSetup();
      } 
 
     private void registerAddons()
