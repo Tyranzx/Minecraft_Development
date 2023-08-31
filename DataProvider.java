@@ -51,20 +51,25 @@ public class DataProvider
     private FileConfiguration it;
     private FileConfiguration pr;
     private FileConfiguration rs;
+    private FileConfiguration[] languages;
     
     static DataProvider instance = new DataProvider();
 
     @NotNull
     public static DataProvider getInstance() { return instance; }
 
-    public void setup(@NotNull Loader core)
+    public void setup(
+        @NotNull Loader core
+    )
     {
         if (!core.getDataFolder().exists())
         {
             core.getDataFolder().mkdir();
         }
 
-       langDir = lang.getlangDir();
+        loadLanguages();
+        lang = new Lang();
+        langDir = lang.createLangDir("LangManager");
 
         if (!langDir.exists()){
             langDir.mkdir();
@@ -167,85 +172,66 @@ public class DataProvider
         }
         return file;
     }
-    @NotNull
-    public FileConfiguration getConfig()
-    {
-        return config;
+
+    private void loadLanguages()
+    { languages = new FileConfiguration[
+                ]{
+                esp = YamlConfiguration.loadConfiguration(lang.createFile("esp_messages.yml")),
+                en = YamlConfiguration.loadConfiguration(lang.createFile("en_messages.yml")),
+                fr = YamlConfiguration.loadConfiguration(lang.createFile("fr_messages.yml")),
+                it = YamlConfiguration.loadConfiguration(lang.createFile("it_messages.yml")),
+                pr = YamlConfiguration.loadConfiguration(lang.createFile("pr_messages.yml")),
+                rs = YamlConfiguration.loadConfiguration(lang.createFile("rs_messages.yml"))
+        };
     }
 
+    // getter methods
+    
     @NotNull
     public FileConfiguration getMessages() 
     {
-        switch (this.getConfig().getString("lang")) 
+        String selectedLang = this.getConfig().getString("lang");
+        for (FileConfiguration lang : languages)
         {
-            case "en":
-                {
-                en = YamlConfiguration.loadConfiguration(lang.createLangFile("en_messages.yml"));
-                return en;
-            }
-            case "es": 
-                {
-                esp = YamlConfiguration.loadConfiguration(lang.createLangFile("es_messages.yml"));
-                return esp;
-            }
-            case "fr": 
-                {
-                fr = YamlConfiguration.loadConfiguration(lang.createLangFile("fr_messages.yml"));
-                return fr;
-            }
-            case "it": 
-                {
-                it = YamlConfiguration.loadConfiguration(lang.createLangFile("it_messages.yml"));
-                return it;
-            }
-            case "pr": 
-                {
-                pr = YamlConfiguration.loadConfiguration(lang.createLangFile("pr_messages.yml"));
-                return pr;
-            }
-            case "rs": 
-                {
-                rs = YamlConfiguration.loadConfiguration(lang.createLangFile("rs_messages.yml"));
-                return rs;
-            }
-            default: 
-                {
-                Bukkit.getConsoleSender().sendMessage(StellarSource.c("&cThe language has been specified wrongly."));
-                return en;
+            String name = lang.getName().replace("_messages.yml", "");
+            if (name.equals(selectedLang))
+            {
+                return lang;
             }
         }
-    }
-
-    @NotNull
-    public FileConfiguration getLocations() 
-    {
-        return locations;
-    }
-
-    @NotNull
-    public FileConfiguration getHomes() 
-    {
-        return homes;
-    }
-
-    @NotNull
-    public ConfigurationSection getJails() 
-    {
-        return jails;
+        Bukkit.getConsoleSender().sendMessage(StellarSource.c("&cThe language has been specified wrongly."));
+        return en;
     }
     
-    @NotNull
-    public ConfigurationSection getWarps() 
+    @NotNull 
+    public FileConfiguration getConfig() { return config; }
+    @NotNull 
+    public FileConfiguration getLocations() { return locations; }
+    @NotNull 
+    public FileConfiguration getTablist() { return tablist; }
+    @NotNull 
+    public FileConfiguration getHomes() { return homes; }
+    @NotNull 
+    public FileConfiguration getPlayers() { return players; }
+    @NotNull 
+    public FileConfiguration getBackpacks() { return backpacks; }
+
+    @NotNull 
+    public ConfigurationSection getJails() { return jails; }
+    @NotNull 
+    public ConfigurationSection getWarps() { return warps; }
+    
+    // save methods
+        
+    public void saveBackpacks() 
     {
-        return warps;
+        try {
+            backpacks.save(bfile);
+        } catch (IOException ex){
+            ex.printStackTrace();
+        }
     }
     
-    @NotNull
-    public FileConfiguration getPlayers()
-    {
-        return players;
-    }
-
     public void saveLocations()
     {
         try 
@@ -289,7 +275,18 @@ public class DataProvider
             ex.printStackTrace();
         }
     }
-
+    
+    public void saveTablist()
+    {
+        try {
+            tablist.save(tfile);
+        } catch (IOException ex){
+            ex.printStackTrace();
+        }
+    }
+    
+    // reload methods
+    
     public void reloadConfig()
     {
         config = YamlConfiguration.loadConfiguration(cfile);
@@ -311,44 +308,13 @@ public class DataProvider
         homes = YamlConfiguration.loadConfiguration(hfile);
     }
     
-    @NotNull
-    public FileConfiguration getTablist()
-    { 
-            return tablist; 
-    }
-    
-    public void saveTablist()
-    {
-        try {
-            tablist.save(tfile);
-        } catch (IOException ex){
-            ex.printStackTrace();
-        }
-    }
-    
     public void reloadTablist() 
     {
         tablist = YamlConfiguration.loadConfiguration(tfile);
-    }
-    
-    public void saveBackpacks() 
-    {
-        try {
-            backpacks.save(bfile);
-        } catch (IOException ex){
-            ex.printStackTrace();
-        }
     }
     
     public void reloadBackpacks() 
     {
         backpacks = YamlConfiguration.loadConfiguration(bfile);
     }
-    
-    @NotNull
-    public FileConfiguration getBackpacks()
-    {
-        return backpacks;
-    }
-    
 }
