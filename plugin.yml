@@ -1,8 +1,8 @@
 name: '${project.name}'
 main: us.com.stellarsquad.stellarcraft.StellarCore
-author: "Jess"
+authors: ["Tyranzx", "Jess", "Lewysan", "iNety_x", "IM", "EVERYONE"]
 description: '${project.description}'
-prefix: StellarCraft
+prefix: StellarSquad
 softdepend: [PlaceholderAPI, Multiverse-Core]
 depend: [HamsterAPI]
 version: ${project.version}
