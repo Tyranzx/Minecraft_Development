@@ -15,29 +15,14 @@ public final class Loader extends JavaPlugin
     private PersonalCommands personalCommands;
     private DefaultCommands defautCommands;
     private AdvancedCommands advancedCommands;
-
     private PlaceholderAPI phapi;
     private SQLProvider sqlp;
-    
+    private updateConfig updateFiles;
     private boolean placeholderAPIEnabled;
     private boolean multiverseEnabled;
-
-    private updateConfig updateFiles;
-
-    private static Loader core;
-  
-    public static DataProvider settings;
-  
-
-    private void registerCommands() 
-    {
-
-        personalCommands = new PersonalCommands(this);
-        defautCommands = new DefaultCommands(this);
-        advancedCommands = new AdvancedCommands(this);
-
-    }
-
+    private DataProvider settings;
+    private Loader core;
+    
     @Override
     public void onEnable() 
     {
@@ -81,16 +66,25 @@ public final class Loader extends JavaPlugin
         loggerInfo(StellarSource.c("&7&m----------------------------------"));
     }
 
-    public static Loader getInstance()
+    private void registerCommands() 
     {
-        return core;
-    }
 
+        personalCommands = new PersonalCommands(this);
+        defautCommands = new DefaultCommands(this);
+        advancedCommands = new AdvancedCommands(this);
+
+    }
+    
      private void registerSQLManager() 
     {
         sqlp = new SQLProvider(this).mysqlSetup();
      } 
-
+    
+    public DataProvider getSettings()
+    {
+        return settings;
+    }
+    
     private void registerAddons()
     {
         updateFiles = new updateConfig(this);
@@ -102,7 +96,8 @@ public final class Loader extends JavaPlugin
         PlayerCache pc = new PlayerCache();
         pc.deletePlayerCache(this);
     }
-    private void registerEvents(){
+    private void registerEvents()
+    {
         EventListener.registerListeners(this);
     }
 }
