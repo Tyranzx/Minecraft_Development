@@ -45,12 +45,12 @@ public class DataProvider
     private FileConfiguration backpacks;
     private FileConfiguration tablist;
     
-    private FileConfiguration en;
-    private FileConfiguration esp;
-    private FileConfiguration fr;
-    private FileConfiguration it;
-    private FileConfiguration pr;
-    private FileConfiguration rs;
+    protected FileConfiguration en;
+    protected FileConfiguration esp;
+    protected FileConfiguration fr;
+    protected FileConfiguration it;
+    protected FileConfiguration pr;
+    protected FileConfiguration rs;
     private FileConfiguration[] languages;
     
     static DataProvider instance = new DataProvider();
@@ -174,6 +174,7 @@ public class DataProvider
     }
 
     private void loadLanguages()
+        lang = new Lang();
     { languages = new FileConfiguration[
                 ]{
                 esp = YamlConfiguration.loadConfiguration(lang.createFile("esp_messages.yml")),
