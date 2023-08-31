@@ -87,6 +87,7 @@ public final class Loader extends JavaPlugin
     {
         return sqlp;
     }
+    
     @NotNull
     public DataProvider getDataProvider()
     {
