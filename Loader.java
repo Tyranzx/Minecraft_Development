@@ -1,13 +1,18 @@
 // My default main class
 package us.com.stellarsquad.stellarcraft;
 
+import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
+import us.com.stellarsquad.stellarcraft.addons.config.updateConfig;
 import us.com.stellarsquad.stellarcraft.api.PlaceholderAPI;
 import us.com.stellarsquad.stellarcraft.cache.PlayerCache;
 import us.com.stellarsquad.stellarcraft.commands.AdvancedCommands;
 import us.com.stellarsquad.stellarcraft.commands.DefaultCommands;
 import us.com.stellarsquad.stellarcraft.commands.PersonalCommands;
 import us.com.stellarsquad.stellarcraft.providers.DataProvider;
+import us.com.stellarsquad.stellarcraft.providers.SQLProvider;
+import us.com.stellarsquad.stellarcraft.events.EventListener;
+import org.jetbrains.annotations.NotNull;
 
 public final class Loader extends JavaPlugin 
 {
@@ -101,11 +106,6 @@ public final class Loader extends JavaPlugin
     {
         sqlp = new SQLProvider(this).mysqlSetup();
      } 
-    
-    public DataProvider getDataProvider()
-    {
-        return dataprovider;
-    }
     
     private void registerAddons()
     {
