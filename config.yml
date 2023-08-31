@@ -1,0 +1,45 @@
+#
+#   author: Tyranzx
+#   us@stellarsquad
+#
+lang: en
+# DATABASE SETTINGS
+mysql:
+  host: 127.0.0.1
+  port: 3306
+  username: root@localhost
+  password: "123you_a_fool321"
+  ssl: false
+# SERVER SETTINGS
+settings:
+  board: false
+  personal_join_items: false
+  join_items: false
+  flying:
+    heartsparticles: false
+  tablist: false
+  prevention:
+    flintsteelItem: true
+    staffsocket: false
+    nobuild: true
+# SERVER INTEGRATED PLUGINS SETTINGS
+plugins:
+  enderpearlrider: true
+  luckyblocks: false
+  hookapi: true
+  backpacks:
+    enabled: true
+    size: 18
+  jumppad: true
+  one-punch-man: false
+  ThrowableTNT:
+    power: 3F
+    fuego: false
+    multiplicador: 2
+    drop: false
+# OBJECTS AND PACKETS SETTINGS
+packets:
+  joinTitle:
+    enabled: false
+    title: "&d&lSTELLAR NETWORK"
+    subtitle: "&bUsa /ayuda para mas información."
