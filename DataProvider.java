@@ -187,7 +187,32 @@ public class DataProvider
     @NotNull
     public FileConfiguration getMessages() 
     {
-        String selectedLang = this.getConfig().getString("lang");
+            switch (getConfig().getString("lang")){
+            case "en":{
+                return en;
+            }
+            case "es": {
+                return esp;
+            }
+            case "fr": {
+                return fr;
+            }
+            case "it": {
+                return it;
+            }
+            case "pr": {
+                return pr;
+            }
+            case "rs": {
+                return rs;
+            }
+            default: {
+                Bukkit.getConsoleSender().sendMessage(StellarSource.c("&cThe language has been specified wrongly."));
+                return en;
+            }
+        }
+    /*    
+     String selectedLang = this.getConfig().getString("lang");
         for (FileConfiguration lang : languages)
         {
             String name = lang.getName().replace("_messages.yml", "");
@@ -197,7 +222,7 @@ public class DataProvider
             }
         }
         Bukkit.getConsoleSender().sendMessage(StellarSource.c("&cThe language has been specified wrongly."));
-        return en;
+        return en; */
     }
     
     @NotNull 
