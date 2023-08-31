@@ -54,6 +54,7 @@ public class DataProvider
     
     static DataProvider instance = new DataProvider();
 
+    @NotNull
     public static DataProvider getInstance() { return instance; }
 
     public void setup(@NotNull Loader core)
@@ -166,11 +167,13 @@ public class DataProvider
         }
         return file;
     }
+    @NotNull
     public FileConfiguration getConfig()
     {
         return config;
     }
 
+    @NotNull
     public FileConfiguration getMessages() 
     {
         switch (this.getConfig().getString("lang")) 
@@ -213,24 +216,31 @@ public class DataProvider
         }
     }
 
+    @NotNull
     public FileConfiguration getLocations() 
     {
         return locations;
     }
 
+    @NotNull
     public FileConfiguration getHomes() 
     {
         return homes;
     }
 
+    @NotNull
     public ConfigurationSection getJails() 
     {
         return jails;
     }
+    
+    @NotNull
     public ConfigurationSection getWarps() 
     {
         return warps;
     }
+    
+    @NotNull
     public FileConfiguration getPlayers()
     {
         return players;
@@ -300,10 +310,13 @@ public class DataProvider
     {
         homes = YamlConfiguration.loadConfiguration(hfile);
     }
-        public FileConfiguration getTablist()
+    
+    @NotNull
+    public FileConfiguration getTablist()
     { 
             return tablist; 
     }
+    
     public void saveTablist()
     {
         try {
@@ -312,10 +325,12 @@ public class DataProvider
             ex.printStackTrace();
         }
     }
+    
     public void reloadTablist() 
     {
         tablist = YamlConfiguration.loadConfiguration(tfile);
     }
+    
     public void saveBackpacks() 
     {
         try {
@@ -324,12 +339,16 @@ public class DataProvider
             ex.printStackTrace();
         }
     }
+    
     public void reloadBackpacks() 
     {
         backpacks = YamlConfiguration.loadConfiguration(bfile);
     }
+    
+    @NotNull
     public FileConfiguration getBackpacks()
     {
         return backpacks;
     }
+    
 }
