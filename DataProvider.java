@@ -21,8 +21,8 @@ public class DataProvider
     private DataProvider(
     ) { }
 
-    private final File langDir;
-    private final Lang lang;
+    private File langDir;
+    private Lang lang;
 
     private File cfile;
     private File lfile;
@@ -45,12 +45,13 @@ public class DataProvider
     private FileConfiguration backpacks;
     private FileConfiguration tablist;
     
-    protected FileConfiguration en;
-    protected FileConfiguration esp;
-    protected FileConfiguration fr;
-    protected FileConfiguration it;
-    protected FileConfiguration pr;
-    protected FileConfiguration rs;
+    private FileConfiguration en;
+    private FileConfiguration esp;
+    private FileConfiguration fr;
+    private FileConfiguration it;
+    private FileConfiguration pr;
+    private FileConfiguration rs;
+    
     private FileConfiguration[] languages;
     
     static DataProvider instance = new DataProvider();
@@ -62,19 +63,23 @@ public class DataProvider
         @NotNull Loader core
     )
     {
+        lang = new Lang();
+        langDir = lang.getLangDir();
+        
         if (!core.getDataFolder().exists())
         {
             core.getDataFolder().mkdir();
         }
-
-        loadLanguages();
-        lang = new Lang();
-        langDir = lang.createLangDir("LangManager");
-
+        
         if (!langDir.exists()){
             langDir.mkdir();
         }
 
+        config = core.getConfig();
+        core.saveDefaultConfig();
+
+        loadLanguages();
+        
         this.cfile = new File(core.getDataFolder(), "config.yml");
         this.lfile = new File(core.getDataFolder(), "locations.yml");
         this.hfile = new File(core.getDataFolder(), "homes.yml");
@@ -83,16 +88,13 @@ public class DataProvider
         this.pfile = new File(core.getDataFolder(), "players.yml");
         this.bfile = new File(core.getDataFolder(), "backpacks.yml");
         this.tfile = new File(core.getDataFolder(), "tablist.yml");
-        
-        this.espfile = lang.createLangFile("es.yml");
-        this.enfile = lang.createLangFile("en.yml");
-        this.frfile = lang.createLangFile("fr.yml");
-        this.itfile = lang.createLangFile("it.yml");
-        this.prpfile = lang.createLangFile("pr.yml");
-        this.rsfile = lang.createLangFile("rs.yml");
 
-        config = core.getConfig();
-        core.saveDefaultConfig();
+        this.espfile = new File(getLangDir().getPath()+"es_messages.yml", "es_messages.yml");
+        this.enfile = new File(getLangDir().getPath()+"en_messages.yml", "en_messages.yml");
+        this.frfile = new File(getLangDir().getPath()+"fr_messages.yml", "fr_messages.yml");
+        this.itfile = new File(getLangDir().getPath()+"it_messages.yml", "it_messages.yml");
+        this.prfile = new File(getLangDir().getPath()+"pr_messages.yml", "pr_messages.yml");
+        this.rsfile = new File(getLangDir().getPath()+"rs_messages.yml", "rs_messages.yml");
 
         if (
                 !lfile.exists() ||
@@ -141,13 +143,7 @@ public class DataProvider
         tablist = YamlConfiguration.loadConfiguration(tfile);
 
         // LANGUAGES
-        esp = YamlConfiguration.loadConfiguration(espfile);
-        en = YamlConfiguration.loadConfiguration(enfile);
-        fr = YamlConfiguration.loadConfiguration(frfile);
-        it = YamlConfiguration.loadConfiguration(itfile);
-        pr = YamlConfiguration.loadConfiguration(prfile);
-        rs = YamlConfiguration.loadConfiguration(rsfile);
-
+        loadLanguages();
     }
     public FileConfiguration createNewFile
             (
@@ -222,6 +218,9 @@ public class DataProvider
     @NotNull 
     public ConfigurationSection getWarps() { return warps; }
     
+    @NotNull
+    public File getLangDir(){ return langDir; }
+    
     // save methods
         
     public void saveBackpacks() 
@@ -288,34 +287,20 @@ public class DataProvider
     
     // reload methods
     
-    public void reloadConfig()
-    {
-        config = YamlConfiguration.loadConfiguration(cfile);
-    }
-
+    public void reloadConfig() { config = YamlConfiguration.loadConfiguration(cfile); }
+    public void reloadLocations() { locations = YamlConfiguration.loadConfiguration(lfile); }
+    public void reloadHomes() { homes = YamlConfiguration.loadConfiguration(hfile); }
+    public void reloadTablist() { tablist = YamlConfiguration.loadConfiguration(tfile); } 
+    public void reloadBackpacks()  { backpacks = YamlConfiguration.loadConfiguration(bfile); }
+    
     public void reloadMessages() 
     {
         en = YamlConfiguration.loadConfiguration(enfile);
         esp = YamlConfiguration.loadConfiguration(espfile);
-    }
-
-    public void reloadLocations() 
-    {
-        locations = YamlConfiguration.loadConfiguration(lfile);
-    }
-
-    public void reloadHomes() 
-    {
-        homes = YamlConfiguration.loadConfiguration(hfile);
+        fr = YamlConfiguration.loadConfiguration(frfile);
+        it = YamlConfiguration.loadConfiguration(itfile);
+        pr = YamlConfiguration.loadConfiguration(prfile);
+        rs = YamlConfiguration.loadConfiguration(rsfile);
     }
     
-    public void reloadTablist() 
-    {
-        tablist = YamlConfiguration.loadConfiguration(tfile);
-    }
-    
-    public void reloadBackpacks() 
-    {
-        backpacks = YamlConfiguration.loadConfiguration(bfile);
-    }
 }
