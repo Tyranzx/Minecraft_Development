@@ -182,7 +182,7 @@ public class DataProvider
         };
     }
 
-    // getter methods
+    // getting methods
     
     @NotNull
     public FileConfiguration getMessages() 
@@ -246,7 +246,7 @@ public class DataProvider
     @NotNull
     public File getLangDir(){ return langDir; }
     
-    // save methods
+    // saving methods
         
     public void saveBackpacks() 
     {
