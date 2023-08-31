@@ -20,15 +20,19 @@ public final class Loader extends JavaPlugin
     private updateConfig updateFiles;
     private boolean placeholderAPIEnabled;
     private boolean multiverseEnabled;
-    private DataProvider settings;
+    private DataProvider dataprovider;
     private Loader core;
     
     @Override
     public void onEnable() 
-    {
-
+    { 
         core = this;
-        this.settings = DataProvider.getInstance().setup(this);
+        initializeCore();
+    }
+    
+    private void initializeCore()
+    {
+         this.dataprovider = DataProvider.getInstance().setup(this);
         
         loggerInfo(StellarSource.c("&7&m----------------------------------"));
         loggerInfo(StellarSource.c("&dStellarCraft - Essentials"));
@@ -66,6 +70,24 @@ public final class Loader extends JavaPlugin
         loggerInfo(StellarSource.c("&7&m----------------------------------"));
     }
 
+    
+    @NotNull 
+    public PlaceholderAPI getPHAPI()
+    {
+        return phapi;
+    }
+    
+    @NotNull
+    public SQLProvider getSQLProvider()
+    {
+        return sqlp;
+    }
+    @NotNull
+    public DataProvider getDataProvider()
+    {
+        return dataprovider;
+    }
+    
     private void registerCommands() 
     {
 
@@ -80,9 +102,9 @@ public final class Loader extends JavaPlugin
         sqlp = new SQLProvider(this).mysqlSetup();
      } 
     
-    public DataProvider getSettings()
+    public DataProvider getDataProvider()
     {
-        return settings;
+        return dataprovider;
     }
     
     private void registerAddons()
@@ -90,14 +112,17 @@ public final class Loader extends JavaPlugin
         updateFiles = new updateConfig(this);
         updateFiles.task();
     }
+    
     public void onDisable()
     {
         Backpacks.saveEntryMap();
         PlayerCache pc = new PlayerCache();
         pc.deletePlayerCache(this);
     }
+    
     private void registerEvents()
     {
         EventListener.registerListeners(this);
     }
+    
 }
