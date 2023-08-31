@@ -310,7 +310,7 @@ public class DataProvider
         }
     }
     
-    // reload methods
+    // reloading methods
     
     public void reloadConfig() { config = YamlConfiguration.loadConfiguration(cfile); }
     public void reloadLocations() { locations = YamlConfiguration.loadConfiguration(lfile); }
