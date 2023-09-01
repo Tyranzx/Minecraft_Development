@@ -22,6 +22,7 @@ public class DataProvider
 
     private File langDir;
     private Lang lang;
+    
     private File cfile;
     private File lfile;
     private File hfile;
@@ -32,12 +33,7 @@ public class DataProvider
     private File tfile;
     private File enfile;
     private File espfile;
-    private FileConfiguration en;
-    private FileConfiguration esp;
-    private FileConfiguration fr;
-    private FileConfiguration it;
-    private FileConfiguration pr;
-    private FileConfiguration rs;
+    
     private FileConfiguration config;
     private FileConfiguration locations;
     private FileConfiguration homes;
@@ -45,7 +41,14 @@ public class DataProvider
     private FileConfiguration jails;
     private FileConfiguration players;
     private FileConfiguration backpacks;
-    private FileConfiguration tablist;
+    private FileConfiguration tablist;    
+    
+    private FileConfiguration en;
+    private FileConfiguration esp;
+    private FileConfiguration fr;
+    private FileConfiguration it;
+    private FileConfiguration pr;
+    private FileConfiguration rs;
     
     private FileConfiguration[] languages;
     
@@ -164,10 +167,10 @@ public class DataProvider
         return file;
     }
 
-    private void loadLanguages()
+    private void loadLanguages(){
         lang = new Lang();
-    { languages = new FileConfiguration[
-                ]{
+        languages = new FileConfiguration[]
+        {
                 esp = YamlConfiguration.loadConfiguration(lang.createFile("esp_messages.yml")),
                 en = YamlConfiguration.loadConfiguration(lang.createFile("en_messages.yml")),
                 fr = YamlConfiguration.loadConfiguration(lang.createFile("fr_messages.yml")),
