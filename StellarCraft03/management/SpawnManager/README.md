@@ -1,6 +1,7 @@
 # SPAWN MANAGER
 
-Establece, elimina o teletransportate al spawn asignado! :D
+Establece, elimina o teletransportate al spawn asignado.
+https://www.spigotmc.org/resources/spawnmanager.111880/
 
 # COMMANDS:
 
