@@ -167,7 +167,8 @@ public class DataProvider
         return file;
     }
 
-    private void loadLanguages(){
+    private void loadLanguages()
+    {
         lang = new Lang();
         languages = new FileConfiguration[]
         {
