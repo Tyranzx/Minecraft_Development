@@ -186,26 +186,34 @@ public class DataProvider
     @NotNull
     public FileConfiguration getMessages() 
     {
-            switch (getConfig().getString("lang")){
-            case "en":{
+            switch (getConfig().getString("lang"))
+            {
+            case "en":
+                    {
                 return en;
             }
-            case "es": {
+            case "es": 
+                    {
                 return esp;
             }
-            case "fr": {
+            case "fr": 
+                    {
                 return fr;
             }
-            case "it": {
+            case "it": 
+                    {
                 return it;
             }
-            case "pr": {
+            case "pr": 
+                    {
                 return pr;
             }
-            case "rs": {
+            case "rs": 
+                    {
                 return rs;
             }
-            default: {
+            default: 
+                    {
                 Bukkit.getConsoleSender().sendMessage(StellarSource.c("&cThe language has been specified wrongly."));
                 return en;
             }
