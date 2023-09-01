@@ -18,8 +18,7 @@ import java.io.InputStreamReader;
 
 public class DataProvider
 {
-    private DataProvider(
-    ) { }
+    private DataProvider() { }
 
     private File langDir;
     private Lang lang;
