@@ -4,6 +4,7 @@ package us.com.stellarsquad.stellarcraft;
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
 import us.com.stellarsquad.stellarcraft.addons.config.updateConfig;
+import us.com.stellarsquad.stellarcraft.addons.HookAPI;
 import us.com.stellarsquad.stellarcraft.api.PlaceholderAPI;
 import us.com.stellarsquad.stellarcraft.cache.PlayerCache;
 import us.com.stellarsquad.stellarcraft.commands.AdvancedCommands;
@@ -12,6 +13,9 @@ import us.com.stellarsquad.stellarcraft.commands.PersonalCommands;
 import us.com.stellarsquad.stellarcraft.providers.DataProvider;
 import us.com.stellarsquad.stellarcraft.providers.SQLProvider;
 import us.com.stellarsquad.stellarcraft.events.EventListener;
+import us.com.stellarsquad.stellarcraft.events.player.ArraysListener;
+import us.com.stellarsquad.stellarcraft.player.PlayerListener;
+
 import org.jetbrains.annotations.NotNull;
 
 public final class Loader extends JavaPlugin 
@@ -27,6 +31,8 @@ public final class Loader extends JavaPlugin
     private boolean multiverseEnabled;
     private DataProvider dataprovider;
     private Loader core;
+
+    private final Class<?>[] listeners = { ArraysListener.class, PlayerListener.class, HookAPI.class };
     
     @Override
     public void onEnable() 
@@ -123,7 +129,7 @@ public final class Loader extends JavaPlugin
     
     private void registerEvents()
     {
-        EventListener.registerListeners(this);
+        EventListener.registerListeners(this, listeners);
     }
     
 }
