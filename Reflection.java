@@ -23,6 +23,14 @@ public class Reflection {
     classes and methods, as well as those from its plugins. It's used to explore the internal structure 
     of objects, such as Class<?> and Constructor<?>, and perform actions like invoking private methods or 
     modifying fields. It's valuable for creating flexible plugins and dynamically interacting with external code.
+    
+
+        Esto, por ejemplo, para evitar usar este importe:
+        Questo, per esempio, per evitare usare questo import:
+        This, for example, to avoid to use this import:
+        
+           "   import net.minecraft.server.v1_8_R3.IChatBaseComponent.ChatSerializer;   " 
+
         */
   }
 }
