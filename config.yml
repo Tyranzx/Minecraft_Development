@@ -13,10 +13,7 @@ mysql:
 # SERVER SETTINGS
 settings:
   board: false
-  personal_join_items: false
   join_items: false
-  flying:
-    heartsparticles: false
   tablist: false
   prevention:
     flintsteelItem: true
@@ -31,15 +28,8 @@ plugins:
     enabled: true
     size: 18
   jumppad: true
-  one-punch-man: false
-  ThrowableTNT:
+  throwable-tnt:
     power: 3F
     fuego: false
     multiplicador: 2
     drop: false
-# OBJECTS AND PACKETS SETTINGS
-packets:
-  joinTitle:
-    enabled: false
-    title: "&d&lSTELLAR NETWORK"
-    subtitle: "&bUsa /ayuda para mas información."
