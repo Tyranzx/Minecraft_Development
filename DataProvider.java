@@ -1,5 +1,10 @@
 package me.tyranzx.essentialsz.core.management;
+/*
 
+Default data provider by Tyranzx (Lewysan | Jess)
+us@stellarsquad
+
+*/
 import com.sun.istack.internal.NotNull;
 
 import me.tyranzx.essentialsz.core.Loader;
