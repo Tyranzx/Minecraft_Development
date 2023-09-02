@@ -316,12 +316,12 @@ public class PlayerManager extends StellarSource {
     
     @NotNull
     public Location getPreviousLocation(){
-        return StellarSource.getPreviousLocation(p);
+        return RestorePlayer.getPreviousLocation(p);
     }
 
     @NotNull
     public ItemStack[] getPreviousInventory(){
-        return StellarSource.getPreviousInventory(p);
+        return RestorePlayer.getPreviousInventory(p);
     }
 
     public void saveCurrentLocation(){
