@@ -1,6 +1,10 @@
-// My default main class
 package us.com.stellarsquad.stellarcraft;
+/*
 
+Loader class example by Tyranzx (Lewysan | Jess)
+us@stellarsquad
+
+*/
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
 import us.com.stellarsquad.stellarcraft.addons.config.updateConfig;
