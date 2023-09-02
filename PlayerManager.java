@@ -120,9 +120,10 @@ public class PlayerManager extends StellarSource {
         }
     }
 
+    @NotNull
     public String getIp() {
-     //   return p.getAddress(); WHAT IS THIS POOP? XD
-        return ip;
+     //   return p.getAddress(); WHAT IS THIS SHEET? XD
+        return ip; // <- Getting ip address from external player socket
     }
 
     public void addEfectos(PotionEffect[] effects) {
