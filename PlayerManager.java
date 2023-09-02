@@ -132,25 +132,32 @@ public class PlayerManager extends StellarSource {
         }
     }
 
+    @NotNull
     public Collection<PotionEffect> getPotionEffects() {
         return potionEffects;
     }
 
+    @NotNull
     public Player getPlayer() {
         return p;
     }
 
+    @NotNull
     public String getName() {
         return name;
     }
 
+    @NotNull
     public Set<String> getProxiesBlackList(){
         return proxiesblacklist;
     }
 
+    @NotNull
     public ItemStack[] getInvContent() {
         return inventoryContents;
     }
+    
+    @NotNull
     public World getWorld(){
         return world;
     }
@@ -162,18 +169,21 @@ public class PlayerManager extends StellarSource {
         return host;
     }
 
+    @NotNull
     public Server getServer() {
         return playerserver;
     }
 
-    public float getExperiencia() {
+    @NotNull
+    public float getExperience() {
         return experiencia;
     }
 
-    public void setExperiencia(float experiencia) {
+    public void setExperience(float experiencia) {
         p.setExp(experiencia);
     }
 
+    @NotNull
     public double getHambre() {
         return food;
     }
@@ -182,6 +192,7 @@ public class PlayerManager extends StellarSource {
         p.setFoodLevel(food);
     }
 
+    @NotNull
     public double getVida() {
         return health;
     }
@@ -190,6 +201,7 @@ public class PlayerManager extends StellarSource {
         p.setHealth(vida);
     }
 
+    @NotNull
     public double getVidamax() {
         return maxhealth;
     }
@@ -198,6 +210,7 @@ public class PlayerManager extends StellarSource {
         p.setMaxHealth(vidamax);
     }
 
+    @NotNull
     public double getX() {
         return x;
     }
@@ -206,6 +219,7 @@ public class PlayerManager extends StellarSource {
         p.getLocation().setX(x);
     }
 
+    @NotNull
     public double getY() {
         return y;
     }
@@ -214,6 +228,7 @@ public class PlayerManager extends StellarSource {
         p.getLocation().setY(y);
     }
 
+    @NotNull
     public double getZ() {
         return z;
     }
@@ -222,6 +237,7 @@ public class PlayerManager extends StellarSource {
         p.getLocation().setZ(z);
     }
 
+    @NotNull
     public float getYaw() {
         return yaw;
     }
@@ -230,6 +246,7 @@ public class PlayerManager extends StellarSource {
         p.getLocation().setYaw(yaw);
     }
 
+    @NotNull
     public float getPitch() {
         return pitch;
     }
@@ -238,6 +255,7 @@ public class PlayerManager extends StellarSource {
         p.getLocation().setPitch(pitch);
     }
 
+    @NotNull
     public Inventory getInventario() {
         return inventory;
     }
@@ -246,7 +264,8 @@ public class PlayerManager extends StellarSource {
         p.openInventory(inventario);
     }
 
-    public Location getUbicacion() {
+    @NotNull
+    public Location getLocation() {
         return location;
     }
 
@@ -254,6 +273,7 @@ public class PlayerManager extends StellarSource {
         p.teleport(loc);
     }
 
+    @NotNull
     public ItemStack getItemInHand() {
         return itemInHand;
     }
@@ -261,6 +281,7 @@ public class PlayerManager extends StellarSource {
     public void setItemInHand(ItemStack itemInHand) {
         p.getInventory().setItemInHand(itemInHand);
     }
+    
     public void addItem(ItemStack item) {
         if (inventory.firstEmpty() == -1){
             p.sendMessage(c("&cTienes el inventario lleno."));
@@ -268,14 +289,12 @@ public class PlayerManager extends StellarSource {
         inventory.addItem(item);
     }
 
+    @NotNull
     public Player getPlayerKiller(){
-        return killer;
+        return (Player) killer;
     }
 
-    public Entity getEntityKiller(){
-        return entitykiller;
-    }
-
+    @NotNull
     public long getTiempoVivo(){
         return timeAlived;
     }
@@ -284,6 +303,7 @@ public class PlayerManager extends StellarSource {
         return p.hasPermission(permiso);
     }
 
+    @NotNull
     public UUID getUUID(){
         return uuid;
     }
@@ -294,18 +314,14 @@ public class PlayerManager extends StellarSource {
 
     public void sendMessage(String text) { p.sendMessage(c(text)); }
     
-    public Location getPreviousLocations(){
-        if (!previousLocations.containsKey(p)){
-            p.sendMessage(c("&cNo existe una ubicacion anterior."));
-        }
-        return previousLocations.get(p);
+    @NotNull
+    public Location getPreviousLocation(){
+        return StellarSource.getPreviousLocation(p);
     }
 
+    @NotNull
     public ItemStack[] getPreviousInventory(){
-        if (!previousInventories.containsKey(p)){
-            p.sendMessage(c("&cNo existe una ubicacion anterior."));
-        }
-        return previousInventories.get(p);
+        return StellarSource.getPreviousInventory(p);
     }
 
     public void saveCurrentLocation(){
