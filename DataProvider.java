@@ -21,7 +21,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 
-public class DataProvider
+public class DataProvider extends FilesManager
 {
     private DataProvider() { }
 
@@ -147,29 +147,6 @@ public class DataProvider
 
         // LANGUAGES
         loadLanguages();
-    }
-    public FileConfiguration createNewFile
-            (
-            @NotNull final Loader core, 
-            @NotNull String resource,
-            @NotNull File out
-            ) 
-            throws IOException 
-    {
-        InputStream in = core.getResource(resource);
-        if (!out.exists()) 
-        {
-            out.createNewFile();
-        }
-        FileConfiguration file = YamlConfiguration.loadConfiguration(out);
-        if (in != null)
-        {
-        InputStreamReader reader = new InputStreamReader(in);
-            file.setDefaults(YamlConfiguration.loadConfiguration(reader));
-            file.options().copyDefaults(true);
-            file.save(out);
-        }
-        return file;
     }
 
     private void loadLanguages()
