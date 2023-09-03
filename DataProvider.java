@@ -9,6 +9,7 @@ import com.sun.istack.internal.NotNull;
 
 import me.tyranzx.essentialsz.core.Loader;
 import me.tyranzx.essentialsz.core.objects.Lang;
+import me.tyranzx.essentialsz.core.management.FilesManager;
 import me.tyranzx.essentialsz.core.utils.StellarSource;
 
 import org.bukkit.Bukkit;
@@ -21,7 +22,8 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 
-public class DataProvider extends FilesManager
+public class DataProvider 
+    extends FilesManager
 {
     private DataProvider() { }
 
