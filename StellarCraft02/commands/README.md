@@ -4,6 +4,7 @@
 - /restoreplayer
 - /prevention
 - /brute
+- /lang
 - /randomteleport
 - /randomspawn ( to random locations from config :) )
 - /register & /login
