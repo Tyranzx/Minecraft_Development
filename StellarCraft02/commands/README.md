@@ -6,5 +6,5 @@
 - /brute
 - /randomteleport
 - /randomspawn ( to random locations from config :) )
-- /register & /login (HashMap only)
+- /register & /login
 - /tpa, /tpaccept, /tpadeny, /tpacancel, /tp, /tphere, /tpall
