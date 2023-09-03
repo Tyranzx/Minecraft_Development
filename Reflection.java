@@ -1,8 +1,8 @@
 package empty;
 
-public class Reflection {
+public interface Reflection {
 
-  public static void main(String[] asd){
+  default Class<?> getNMSClass(String name){
     /*
     Español:
     La Reflection es una técnica que permite acceder y manipular dinámicamente las clases 
@@ -32,5 +32,8 @@ public class Reflection {
            "   import net.minecraft.server.v1_8_R3.IChatBaseComponent.ChatSerializer;   " 
 
         */
+  }
+  default void sendPacket(Player p, Object packet){
+
   }
 }
