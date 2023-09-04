@@ -23,7 +23,7 @@ import java.util.Set;
 import java.util.Collection;
 import java.util.UUID;
 
-public class PlayerManager extends StellarSource {
+public class PlayerManager extends Reflection {
 
     private final StellarCore core;
 
@@ -98,14 +98,14 @@ public class PlayerManager extends StellarSource {
     public void sendPlayerListMessage(){
         // EJ: Lista de jugadores (5): Juancito233, Tyranzx, ElBro__02, Ramss22_x, Nefruti.
         if (!p.hasPermission("essentials.staff")) {
-            p.sendMessage(c("&cNo tienes permiso para ejecutar este comando."));
+            p.sendMessage(StellarSource.c("&cNo tienes permiso para ejecutar este comando."));
         }
-        p.sendMessage(c("&7Lista de jugadores &e("+online_players_size+"): &f")+name_for_each_player+".");
+        p.sendMessage(StellarSource.c("&7Lista de jugadores &e("+StellarSource.online_players_size+"): &f")+StellarSource.name_for_each_player+".");
     }
 
     public void setNickname(String nick){   // NO TESTED
         pfile = new File(core.getDataFolder(), "players.yml");
-        ConfigManager settings = ConfigManager.getInstance();
+        DataProvider settings = DataProvider.getInstance();
 
         if (!pfile.exists()){
             settings.createNewConfig(core, "players.yml", new File(core.getDataFolder(), "players.yml"));
@@ -124,6 +124,11 @@ public class PlayerManager extends StellarSource {
     public String getIp() {
      //   return p.getAddress(); WHAT IS THIS SHEET? XD
         return ip; // <- Getting ip address from external player socket
+    }
+
+    @NotNull
+    public Object getPing(Player p){
+        return getPing(p);
     }
 
     public void addEfectos(PotionEffect[] effects) {
