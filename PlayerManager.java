@@ -59,7 +59,7 @@ public class PlayerManager extends Reflection {
     private final Set<String> proxiesblacklist;
     private final ItemStack[] inventoryContents;
 
-    private final PlayerSocket ps = new PlayerSocket();
+    private final PlayerSocket ps;
 
     private File pfile;
     private FileConfiguration players;
@@ -93,6 +93,7 @@ public class PlayerManager extends Reflection {
         this.timeAlived = p.getTicksLived();
         this.uuid = p.getUniqueId();
         this.lastplayed =  p.getLastPlayed();
+        this.ps = new PlayerSocket();
     }
 
     public void sendPlayerListMessage(){
