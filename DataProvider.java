@@ -235,7 +235,7 @@ public class DataProvider
     public ConfigurationSection getWarps() { return warps; }
     
     @NotNull
-    public File getLangDir(){ return langDir; }
+    public File getLangDir() { return langDir; }
     
     // saving methods
         
