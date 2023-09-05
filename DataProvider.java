@@ -128,10 +128,8 @@ public class DataProvider
                 createNewFile(core, "it.yml", lang.createLangFile("it.yml"));
                 createNewFile(core, "pr.yml", lang.createLangFile("pr.yml"));
                 createNewFile(core, "rs.yml", lang.createLangFile("rs.yml"));
-            } catch
-            (
-                    IOException ex
-            )
+            } 
+            catch (IOException ex)
             {
                 Bukkit.getConsoleSender().sendMessage(StellarSource.c("&cError: &fThere were an error during creating config files:"));
                 ex.printStackTrace();
