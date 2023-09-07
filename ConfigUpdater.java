@@ -26,8 +26,4 @@ public class ConfigUpdater
                 : YamlConfiguration.loadConfiguration(new InputStreamReader(core.getResource(resource), StandardCharsets.UTF_8));
 
     }
-    /* @NotNull
-    private static int getVersion() {
-        return Integer.parseInt(Bukkit.getBukkitVersion().split("-")[0].split("\\.")[1]);
-    } */
 }
