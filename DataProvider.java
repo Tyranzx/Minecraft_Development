@@ -38,8 +38,6 @@ public class DataProvider
     private File pfile;
     private File bfile;
     private File tfile;
-    private File enfile;
-    private File espfile;
     
     private FileConfiguration config;
     private FileConfiguration locations;
@@ -49,6 +47,14 @@ public class DataProvider
     private FileConfiguration players;
     private FileConfiguration backpacks;
     private FileConfiguration tablist;    
+
+    
+    private File enfile;
+    private File espfile;
+    private File frfile;
+    private File itfile;
+    private File prfile;
+    private File rsfile;
     
     private FileConfiguration en;
     private FileConfiguration esp;
