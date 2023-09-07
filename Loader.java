@@ -35,8 +35,6 @@ public final class Loader extends JavaPlugin
     private boolean multiverseEnabled;
     private DataProvider dataprovider;
     private Loader core;
-
-    private final Class<?>[] listeners = { ArraysListener.class, PlayerListener.class, HookAPI.class };
     
     @Override
     public void onEnable() 
@@ -133,7 +131,7 @@ public final class Loader extends JavaPlugin
     
     private void registerEvents()
     {
-        EventListener.registerListeners(this, listeners);
+        EventListener.registerListeners(this /*Class<?>*/);
     }
     
 }
