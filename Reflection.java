@@ -40,4 +40,7 @@ public interface Reflection {
   default void sendPacket(Player p, Object packet){
 
   }
+  default void sendYourPacket(String value, String value){
+
+  }
 }
