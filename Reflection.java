@@ -2,6 +2,10 @@ package empty;
 
 public interface Reflection {
 
+  default int getVersion(){
+      return 0;
+  }
+  
   default Class<?> getNMSClass(String name){
     /*
     Español:
