@@ -1,7 +1,7 @@
 package us.com.stellarsquad.stellarcraft;
 /*
 
-Loader class example by Tyranzx (Lewysan | Jess)
+Main class example by Tyranzx (Lewysan | Jess)
 us@stellarsquad
 
 */
