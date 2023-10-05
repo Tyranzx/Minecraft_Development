@@ -131,7 +131,7 @@ public final class Loader extends JavaPlugin
     
     private void registerEvents()
     {
-        EventListener.registerListeners(this /*Class<?>*/);
+        EventListener.registerListeners(this /*and specify Class<?>*/);
     }
     
 }
