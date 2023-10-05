@@ -17,7 +17,3 @@ settings:
   board: false
   join_items: false
   tablist: false
-  prevention:
-    flintsteelItem: true
-    staffsocket: false
-    nobuild: true
