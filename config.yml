@@ -12,6 +12,8 @@ mysql:
   ssl: false
 # SERVER SETTINGS
 settings:
+  staffmode:
+    staffboard: true
   board: false
   join_items: false
   tablist: false
@@ -19,17 +21,3 @@ settings:
     flintsteelItem: true
     staffsocket: false
     nobuild: true
-# SERVER INTEGRATED PLUGINS SETTINGS
-plugins:
-  enderpearlrider: true
-  luckyblocks: false
-  hookapi: true
-  backpacks:
-    enabled: true
-    size: 18
-  jumppad: true
-  throwable-tnt:
-    power: 3F
-    fuego: false
-    multiplicador: 2
-    drop: false
