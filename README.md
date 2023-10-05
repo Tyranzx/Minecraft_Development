@@ -17,3 +17,4 @@
 
 # DISCORD:
 Jessia#1557
+   ~ us@stellarsquad
