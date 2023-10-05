@@ -104,23 +104,6 @@ public class PlayerManager extends Reflection {
         p.sendMessage(StellarSource.c("&7Lista de jugadores &e("+StellarSource.online_players_size+"): &f")+StellarSource.name_for_each_player+".");
     }
 
-    public void setNickname(String nick){   // NO TESTED
-        pfile = new File(core.getDataFolder(), "players.yml");
-        DataProvider settings = DataProvider.getInstance();
-
-        if (!pfile.exists()){
-            settings.createNewConfig(core, "players.yml", new File(core.getDataFolder(), "players.yml"));
-        }
-        players = YamlConfiguration.loadConfiguration(pfile);
-
-        players.set("Nicknames."+p.getName()+".nickname", nick);
-        try {
-            players.save(pfile);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-    }
-
     @NotNull
     public String getIp() {
      //   return p.getAddress(); WHAT IS THIS SHEET? XD
@@ -289,9 +272,6 @@ public class PlayerManager extends Reflection {
     }
     
     public void addItem(ItemStack item) {
-        if (inventory.firstEmpty() == -1){
-            p.sendMessage(c("&cTienes el inventario lleno."));
-        }
         inventory.addItem(item);
     }
 
