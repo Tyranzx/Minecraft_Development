@@ -3,17 +3,24 @@
 #   us@stellarsquad
 #
 lang: en
-# DATABASE SETTINGS
-mysql:
+#
+redis:
+  enabled: false
+  host: 127.0.0.1
+  port: 7777
+  database: StellarCore
+  username: root
+  password: password
+mysql: 
   host: 127.0.0.1
   port: 3306
-  username: root@localhost
-  password: "123you_a_fool321"
+  username: root
+  password: "you_a_fool_123"
   ssl: false
-# SERVER SETTINGS
+#
 settings:
   staffmode:
     staffboard: true
-  board: false
+  scoreboard: false
   join_items: false
   tablist: false
