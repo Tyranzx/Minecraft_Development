@@ -33,6 +33,7 @@ Concludendo un intenso periodo di sviluppo, sono entusiasta di presentarvi un be
 # 🌟 Ringraziamenti e Invito
    - Apprezzerei i commenti positivi del plugin, l'ho creato con passione e amore per tutta la comunitá di ShynoMC. Spero che questa esperienza porti entusiasmo e divertimento a terzi. Invita i tuoi amici a unirsi nel nostro server discord e a noi , cosi da condividere esperienze piacevoli!
 
+### Riassunto:
 				- Kits (Menu kit, default kit)
 				- Sistema di statistiche -> coins, morti, kills, streak, kdr, challenge/eventi completati
 				- Entitá (Mob) interagibili per questi menu (senza AI)
