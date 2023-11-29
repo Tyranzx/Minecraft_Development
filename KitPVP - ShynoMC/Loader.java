@@ -101,7 +101,7 @@ public final class Loader extends JavaPlugin {
         titleLegacy = new TitleLegacy(this);
         actionBarLegacy = new ActionBarLegacy(this);
 
-        PlayerAnimations.hitDelay = "1.8.9";
+        PlayerAnimations.playerHit = "1.8.9";
       
         spawnManager.startdoDaylightCycle();
         spawnManager.startDownFallControl();
