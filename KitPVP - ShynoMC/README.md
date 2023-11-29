@@ -26,7 +26,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   	 -  ![kpvp1](https://github.com/Lewysan/Minecraft_Development/assets/70720366/b3c6d1a5-d7ed-469d-9ba4-535b11d1fe6c)
 # 📊 Sistema di Statistiche
   ### Soldi accumulati, morti, uccisioni, serie di uccisioni (Kill Streak), rapporto uccisioni/morti (KDR) e il completamento di sfide ed eventi speciali.
-	- ![MoneySystem](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f1217297-83cf-4b09-ade6-0211814e1440)
+  - ![MoneySystem](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f1217297-83cf-4b09-ade6-0211814e1440)
 # 🦴 Entitá Interattive
   - Ho aggiunto un'opportunitá per aggiungere mob custom da cliccare e successivamente aprire un menu.
 	- ![XD](https://github.com/Lewysan/Minecraft_Development/assets/70720366/5ec4f7fb-f51d-4d28-985c-d11c38c06250)
