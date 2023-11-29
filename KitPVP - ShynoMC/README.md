@@ -1,5 +1,6 @@
 # [⚔] KitPVP
 		by xJess - Contributors: StellarSquad | 1.8 - 1.20 
+  	    SpigotMC: https://www.spigotmc.org/members/jessia.1858326/
     
 Concludendo un intenso periodo di sviluppo, sono entusiasta di presentarvi un bel plugin di funzionalità e opzioni pensate per rendere l'esperienza di PvP unica e coinvolgente wazaaaaa 👻👻👻👻.
 
