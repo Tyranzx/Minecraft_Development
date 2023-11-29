@@ -121,8 +121,8 @@ public final class Loader extends JavaPlugin {
             if (!jugador.hasPermission("stellarsquad.staff")) return;
             jugador.sendMessage(StellarSource.c("&c[&fStellarSquad&c] &fStellar KitPVP enabled."));
         }), 10L);
-            /*               K R Y P T O N              */
         
+            /*               K R Y P T O N              */
       //--------------------------------------------------------------\\
       //--------------------------------------------------------------\\
 
