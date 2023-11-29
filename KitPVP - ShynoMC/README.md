@@ -39,15 +39,15 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   - Sistema di **Kill Streak** e assistenza. 
 # 🛍️ Negozio e Aste
   - Non so, c'é qualcosa che vorresti vendere? Ti mancano dei soldi per prendere qualcosa dallo shop? Utilizza le **Aste** per vendere i tuoi oggetti e guardagnare soldi! :D
-	- ![itemsac](https://github.com/Lewysan/Minecraft_Development/assets/70720366/e790c038-ac70-4227-acd2-da946a73ce89)
- 	- ![xdxadc3w](https://github.com/Lewysan/Minecraft_Development/assets/70720366/473f569d-47b1-46ed-a165-7d6915e764d5)
+	    - ![itemsac](https://github.com/Lewysan/Minecraft_Development/assets/70720366/e790c038-ac70-4227-acd2-da946a73ce89)
+            - ![xdxadc3w](https://github.com/Lewysan/Minecraft_Development/assets/70720366/473f569d-47b1-46ed-a165-7d6915e764d5)
   - Puoi pure acquistare gli oggetti giá venduti da altri giocatori.
 - ![shopsd](https://github.com/Lewysan/Minecraft_Development/assets/70720366/16507b61-15fb-412d-8f95-0684137b184c)
 - ![Aste](https://github.com/Lewysan/Minecraft_Development/assets/70720366/8b506d2d-9682-431c-ae1a-4c78b120e880)
 # ⚔️ Combattimento Tattico
   - Ho implementato il **CombatLog**, impedendo i giocatori di uscire durante il combattimento e richiedendo un tempo di attesa di 15 secondi. La punizione é un'elliminazione completa del giocatore.
-    	- ![combact](https://github.com/Lewysan/Minecraft_Development/assets/70720366/afc3c498-3faf-43f3-9a15-ea02ba8b7543)
-	- ![nomore](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f113c097-c60b-459a-88cb-caa4bc963daa)
+    	    - ![combact](https://github.com/Lewysan/Minecraft_Development/assets/70720366/afc3c498-3faf-43f3-9a15-ea02ba8b7543)
+	    - ![nomore](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f113c097-c60b-459a-88cb-caa4bc963daa)
   - Le **Taglie** sono importanti, diventa il piú forte del server uccidendo tutti e raggiungendo una taglia pesante.
 # 👥 Gangs
    - Entra nel mondo sociale del PvP con le gang. Collabora con altri giocatori, forma alleanze strategiche e conquista insieme la battaglia. State attenti, non sempre puoi fidarti di chi hai avanti!
