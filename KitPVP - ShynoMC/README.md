@@ -15,7 +15,6 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 # Caratteristiche Dettagliate:
 ![leaderboard](https://github.com/Lewysan/Minecraft_Development/assets/70720366/40684339-2838-480d-a93b-09d9a97ad445)
 ![TrashCest](https://github.com/Lewysan/Minecraft_Development/assets/70720366/fa233c2f-3196-4c05-ac6c-1944edeb77c7)
-![gangs](https://github.com/Lewysan/Minecraft_Development/assets/70720366/cbbed390-b358-4eb8-b0af-59349606ff42)
 ![LogocXD](https://github.com/Lewysan/Minecraft_Development/assets/70720366/7b8d443c-c556-465f-b7d3-d16aa76ef11a)
 
 # 🛡️ Kits organizzati
@@ -51,6 +50,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   - Le **Taglie** sono importanti, diventa il piú forte del server uccidendo tutti e raggiungendo una taglia pesante.
 # 👥 Gangs
    - Entra nel mondo sociale del PvP con le gang. Collabora con altri giocatori, forma alleanze strategiche e conquista insieme la battaglia. State attenti, non sempre puoi fidarti di chi hai avanti!
+          	- ![gangs](https://github.com/Lewysan/Minecraft_Development/assets/70720366/cbbed390-b358-4eb8-b0af-59349606ff42)
 # 🔄 Compatibilità Estesa
    - Goditi l'esperienza su diverse versioni **(1.8 - 1.20)** e sperimenta il nostro impegno per rendere il KitPVP accessibile a un'ampia comunità di giocatori. Aggiunti complementi **Legacy (< 1.13)**
 # 🚀 Personalizzazione
