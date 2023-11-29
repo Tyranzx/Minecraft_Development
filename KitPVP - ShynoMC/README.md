@@ -4,7 +4,8 @@
     
 Concludendo un intenso periodo di sviluppo, sono entusiasta di presentarvi un bel plugin di funzionalità e opzioni pensate per rendere l'esperienza di PvP unica e coinvolgente wazaaaaa 👻👻👻👻.
 
-Ringrazio ShynoMC per darmi l'opportunitá di dare il mio massimo di conoscenze ed imparare un sacco di cose durante sto percorso di creazione del plugin.
+Ringrazio **ShynoMC** per darmi l'opportunitá di dare il mio massimo di conoscenze ed imparare un sacco di cose durante sto percorso di creazione del plugin.
+Riferenza: https://discord.gg/BHAwgrBAC6
 
 Il plugin l'ho fatto da sola per 2 mesi, sono riuscita pure a creare delle API pronte per i miei membri di StellarSquad e, ripeto, ad imparare nuove cose importanti.
 Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del giocatore, ecc. Il plugin é stato fatto pensando a server di versioni 1.8 e 1.20.
