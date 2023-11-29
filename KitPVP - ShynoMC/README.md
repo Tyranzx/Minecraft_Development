@@ -31,7 +31,6 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### [✅] Ho aggiunto l'opportunitá di aggiungere mob custom da cliccare e successivamente aprire un menu.
   - ![XD](https://github.com/Lewysan/Minecraft_Development/assets/70720366/5ec4f7fb-f51d-4d28-985c-d11c38c06250)
   - ![entitiesClickablili](https://github.com/Lewysan/Minecraft_Development/assets/70720366/3e2762d4-b00a-4cb3-b278-2f7b46fb9368)
-  - ![TrashCest](https://github.com/Lewysan/Minecraft_Development/assets/70720366/fa233c2f-3196-4c05-ac6c-1944edeb77c7)
 # 📈 Scoreboard e Tablist
   ### [✅] **Scoreboard** e **Tablist** personalizzate, offrono una panoramica immediata delle tue statistiche piú importanti.
   - ![Tablist](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f50ce6ae-00d0-4a42-a6a7-cc2509b0bf74)
@@ -51,6 +50,8 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### [✅] Puoi pure acquistare gli oggetti giá venduti da altri giocatori.
   - ![Aste](https://github.com/Lewysan/Minecraft_Development/assets/70720366/8b506d2d-9682-431c-ae1a-4c78b120e880)
   ### [✅] Private chests
+  ### [✅] Cestino tattico
+  - ![TrashCest](https://github.com/Lewysan/Minecraft_Development/assets/70720366/fa233c2f-3196-4c05-ac6c-1944edeb77c7)
 # ⚔️ Combattimento Tattico
   ### [✅] Ho implementato il **CombatLog**, impedendo i giocatori di uscire durante il combattimento e richiedendo un tempo di attesa di 15 secondi. La punizione é un'elliminazione completa del giocatore.
   - ![combact](https://github.com/Lewysan/Minecraft_Development/assets/70720366/afc3c498-3faf-43f3-9a15-ea02ba8b7543)
