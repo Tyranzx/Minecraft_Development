@@ -10,6 +10,8 @@ Riferenza: https://discord.gg/BHAwgrBAC6
 Il plugin l'ho fatto da sola in meno di due mesi, sono riuscita pure a creare delle API pronte per i miei membri di StellarSquad e, ripeto, ad imparare nuove cose importanti.
 Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del giocatore, ecc. Il plugin é stato fatto per server di versioni superiori a 1.8
 
+ 	(!) Per i bambini vanitosi: Ho lasciato un 1% del progetto, la classe principale, cosi date un'occhiata e non so, forse rubate qualcosa :P.
+
 	⭐ Special mentions: AfreCito,  Warmiz,  SkizZeR,  Dark_Overlord,  NekuSempai,  Joshet18💖
 
 ![LogocXD](https://github.com/Lewysan/Minecraft_Development/assets/70720366/7b8d443c-c556-465f-b7d3-d16aa76ef11a)
