@@ -13,7 +13,6 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 	⭐ Special mentions: AfreCito,  Warmiz,  SkizZeR,  Dark_Overlord,  NekuSempai,  Joshet18💖
 
 # Caratteristiche Dettagliate:
-![TrashCest](https://github.com/Lewysan/Minecraft_Development/assets/70720366/fa233c2f-3196-4c05-ac6c-1944edeb77c7)
 ![LogocXD](https://github.com/Lewysan/Minecraft_Development/assets/70720366/7b8d443c-c556-465f-b7d3-d16aa76ef11a)
 
 # 🛡️ Kits organizzati
@@ -25,8 +24,9 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 - ![MoneySystem](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f1217297-83cf-4b09-ade6-0211814e1440)
 # 🦴 Entità Interattive
   - Ho aggiunto un'opportunitá per aggiungere mob custom da cliccare e successivamente aprire un menu.
-- ![XD](https://github.com/Lewysan/Minecraft_Development/assets/70720366/5ec4f7fb-f51d-4d28-985c-d11c38c06250)
-- ![entitiesClickablili](https://github.com/Lewysan/Minecraft_Development/assets/70720366/3e2762d4-b00a-4cb3-b278-2f7b46fb9368)
+  	- ![TrashCest](https://github.com/Lewysan/Minecraft_Development/assets/70720366/fa233c2f-3196-4c05-ac6c-1944edeb77c7)
+	- ![XD](https://github.com/Lewysan/Minecraft_Development/assets/70720366/5ec4f7fb-f51d-4d28-985c-d11c38c06250)
+	- ![entitiesClickablili](https://github.com/Lewysan/Minecraft_Development/assets/70720366/3e2762d4-b00a-4cb3-b278-2f7b46fb9368)
 # 📈 Scoreboard e Tablist
   - **Scoreboard** e **Tablist** personalizzate, offrono una panoramica/informazione immediata delle tue statistiche piú importanti.
 - ![Tablist](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f50ce6ae-00d0-4a42-a6a7-cc2509b0bf74)
