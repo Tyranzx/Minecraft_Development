@@ -42,6 +42,7 @@ public final class Loader extends JavaPlugin {
     private DefaultGangCommands defaultGangCommands;
     private PersonalGangCommands personalGangCommands;
     private SpawnManager spawnManager;
+    
     public PlayerBoard playerBoard;
     public Tablist tablist;
     public PlayerBoardManager playerBoardManager;
