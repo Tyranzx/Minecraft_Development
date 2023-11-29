@@ -31,7 +31,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 
 # 🛡️ Kits organizzati
   - Menu di kit separati per rank e permessi, alcuni piu op di altri.
-  - ![kitspvp](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f43a8eec-76b2-4a0d-bca2-1a6421351d0d)
+  ### ![kitspvp](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f43a8eec-76b2-4a0d-bca2-1a6421351d0d)
 # 📊 Sistema di Statistiche
   - Soldi accumulati, morti, uccisioni, serie di uccisioni (Kill Streak), rapporto uccisioni/morti (KDR) e il completamento di sfide ed eventi speciali.
 # 🦴 Entità Interattive
