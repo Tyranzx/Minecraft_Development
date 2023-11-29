@@ -13,9 +13,25 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 	⭐ Special mentions: AfreCito,  Warmiz,  SkizZeR,  Dark_Overlord,  NekuSempai,  Joshet18💖
 
 # Caratteristiche Dettagliate:
+![kpvp1](https://github.com/Lewysan/Minecraft_Development/assets/70720366/b3c6d1a5-d7ed-469d-9ba4-535b11d1fe6c)
+![shopsd](https://github.com/Lewysan/Minecraft_Development/assets/70720366/16507b61-15fb-412d-8f95-0684137b184c)
+![XD](https://github.com/Lewysan/Minecraft_Development/assets/70720366/5ec4f7fb-f51d-4d28-985c-d11c38c06250)
+![entitiesClickablili](https://github.com/Lewysan/Minecraft_Development/assets/70720366/3e2762d4-b00a-4cb3-b278-2f7b46fb9368)
+![MoneySystem](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f1217297-83cf-4b09-ade6-0211814e1440)
+![Aste](https://github.com/Lewysan/Minecraft_Development/assets/70720366/8b506d2d-9682-431c-ae1a-4c78b120e880)
+![itemsac](https://github.com/Lewysan/Minecraft_Development/assets/70720366/e790c038-ac70-4227-acd2-da946a73ce89)
+![xdxadc3w](https://github.com/Lewysan/Minecraft_Development/assets/70720366/473f569d-47b1-46ed-a165-7d6915e764d5)
+![nomore](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f113c097-c60b-459a-88cb-caa4bc963daa)
+![combact](https://github.com/Lewysan/Minecraft_Development/assets/70720366/afc3c498-3faf-43f3-9a15-ea02ba8b7543)
+![leaderboard](https://github.com/Lewysan/Minecraft_Development/assets/70720366/40684339-2838-480d-a93b-09d9a97ad445)
+![TrashCest](https://github.com/Lewysan/Minecraft_Development/assets/70720366/fa233c2f-3196-4c05-ac6c-1944edeb77c7)
+![gangs](https://github.com/Lewysan/Minecraft_Development/assets/70720366/cbbed390-b358-4eb8-b0af-59349606ff42)
+![LogocXD](https://github.com/Lewysan/Minecraft_Development/assets/70720366/7b8d443c-c556-465f-b7d3-d16aa76ef11a)
+![Tablist](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f50ce6ae-00d0-4a42-a6a7-cc2509b0bf74)
 
 # 🛡️ Kits organizzati
   - Menu di kit separati per rank e permessi, alcuni piu op di altri.
+![kitspvp](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f43a8eec-76b2-4a0d-bca2-1a6421351d0d)
 # 📊 Sistema di Statistiche
   - Soldi accumulati, morti, uccisioni, serie di uccisioni (Kill Streak), rapporto uccisioni/morti (KDR) e il completamento di sfide ed eventi speciali.
 # 🦴 Entità Interattive
