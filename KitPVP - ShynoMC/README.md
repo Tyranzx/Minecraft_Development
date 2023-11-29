@@ -21,48 +21,48 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 # Caratteristiche Dettagliate:
 
 # 🛡️ Kits organizzati
-  - Menu di kit separati per rank e permessi, alcuni piu op di altri.
- 	  -  ![kitspvp](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f43a8eec-76b2-4a0d-bca2-1a6421351d0d)
-  	 -  ![kpvp1](https://github.com/Lewysan/Minecraft_Development/assets/70720366/b3c6d1a5-d7ed-469d-9ba4-535b11d1fe6c)
+  ### Menu di kit separati per rank e permessi, alcuni piu op di altri.
+  -  ![kitspvp](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f43a8eec-76b2-4a0d-bca2-1a6421351d0d)
+  -  ![kpvp1](https://github.com/Lewysan/Minecraft_Development/assets/70720366/b3c6d1a5-d7ed-469d-9ba4-535b11d1fe6c)
 # 📊 Sistema di Statistiche
   ### Soldi accumulati, morti, uccisioni, serie di uccisioni (Kill Streak), rapporto uccisioni/morti (KDR) e il completamento di sfide ed eventi speciali.
   - ![MoneySystem](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f1217297-83cf-4b09-ade6-0211814e1440)
 # 🦴 Entitá Interattive
-  - Ho aggiunto un'opportunitá per aggiungere mob custom da cliccare e successivamente aprire un menu.
-	- ![XD](https://github.com/Lewysan/Minecraft_Development/assets/70720366/5ec4f7fb-f51d-4d28-985c-d11c38c06250)
-	- ![entitiesClickablili](https://github.com/Lewysan/Minecraft_Development/assets/70720366/3e2762d4-b00a-4cb3-b278-2f7b46fb9368)
-    	- ![TrashCest](https://github.com/Lewysan/Minecraft_Development/assets/70720366/fa233c2f-3196-4c05-ac6c-1944edeb77c7)
+  ### Ho aggiunto un'opportunitá per aggiungere mob custom da cliccare e successivamente aprire un menu.
+  - ![XD](https://github.com/Lewysan/Minecraft_Development/assets/70720366/5ec4f7fb-f51d-4d28-985c-d11c38c06250)
+  - ![entitiesClickablili](https://github.com/Lewysan/Minecraft_Development/assets/70720366/3e2762d4-b00a-4cb3-b278-2f7b46fb9368)
+  - ![TrashCest](https://github.com/Lewysan/Minecraft_Development/assets/70720366/fa233c2f-3196-4c05-ac6c-1944edeb77c7)
 # 📈 Scoreboard e Tablist
-  - **Scoreboard** e **Tablist** personalizzate, offrono una panoramica immediata delle tue statistiche piú importanti.
-	- ![Tablist](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f50ce6ae-00d0-4a42-a6a7-cc2509b0bf74)
-    	- ![scoreboard](https://github.com/Lewysan/Minecraft_Development/assets/70720366/523639c1-5347-46d5-9c1b-d11bce35b85c)
+  ### **Scoreboard** e **Tablist** personalizzate, offrono una panoramica immediata delle tue statistiche piú importanti.
+  - ![Tablist](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f50ce6ae-00d0-4a42-a6a7-cc2509b0bf74)
+  - ![scoreboard](https://github.com/Lewysan/Minecraft_Development/assets/70720366/523639c1-5347-46d5-9c1b-d11bce35b85c)
 # 📦 Crates e Ricompense
-  - Oggetti random?
+  ### Oggetti random?
 # 🏆 Classifiche e Streak
-  - Le vostre abilitá mostrate nella leaderboard - **Top di uccisioni, morti, soldi, kdr, ecc**.
-	- ![leaderboard](https://github.com/Lewysan/Minecraft_Development/assets/70720366/40684339-2838-480d-a93b-09d9a97ad445)
+  ### Le vostre abilitá mostrate nella leaderboard - **Top di uccisioni, morti, soldi, kdr, ecc**.
+  - ![leaderboard](https://github.com/Lewysan/Minecraft_Development/assets/70720366/40684339-2838-480d-a93b-09d9a97ad445)
   - Sistema di **Kill Streak** e assistenza. 
 # 🛍️ Negozio, aste e altri menu
-  - Shop: pozioni, libri, generali(Gapple notch, ecc..)
-	- ![shopsd](https://github.com/Lewysan/Minecraft_Development/assets/70720366/16507b61-15fb-412d-8f95-0684137b184c)
-  - E le aste... non so, c'é qualcosa che vorresti vendere? Ti mancano dei soldi per prendere qualcosa dallo shop? Utilizza le **Aste** per vendere i tuoi oggetti e guardagnare soldi! :D
+  ### Shop: pozioni, libri, generali(Gapple notch, ecc..)
+  - ![shopsd](https://github.com/Lewysan/Minecraft_Development/assets/70720366/16507b61-15fb-412d-8f95-0684137b184c)
+  ### E le aste... non so, c'é qualcosa che vorresti vendere? Ti mancano dei soldi per prendere qualcosa dallo shop? Utilizza le **Aste** per vendere i tuoi oggetti e guardagnare soldi! :D
   - ![itemsac](https://github.com/Lewysan/Minecraft_Development/assets/70720366/e790c038-ac70-4227-acd2-da946a73ce89)
   - ![xdxadc3w](https://github.com/Lewysan/Minecraft_Development/assets/70720366/473f569d-47b1-46ed-a165-7d6915e764d5)
-  - Puoi pure acquistare gli oggetti giá venduti da altri giocatori.
-	- ![Aste](https://github.com/Lewysan/Minecraft_Development/assets/70720366/8b506d2d-9682-431c-ae1a-4c78b120e880)
-  - Private chests
+  ### Puoi pure acquistare gli oggetti giá venduti da altri giocatori.
+  - ![Aste](https://github.com/Lewysan/Minecraft_Development/assets/70720366/8b506d2d-9682-431c-ae1a-4c78b120e880)
+  ### Private chests
 # ⚔️ Combattimento Tattico
-  - Ho implementato il **CombatLog**, impedendo i giocatori di uscire durante il combattimento e richiedendo un tempo di attesa di 15 secondi. La punizione é un'elliminazione completa del giocatore.
-    	    - ![combact](https://github.com/Lewysan/Minecraft_Development/assets/70720366/afc3c498-3faf-43f3-9a15-ea02ba8b7543)
-	    - ![nomore](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f113c097-c60b-459a-88cb-caa4bc963daa)
-  - Le **Taglie** sono importanti, diventa il piú forte del server uccidendo tutti e raggiungendo una taglia pesante.
-    	- ![Taglie](https://github.com/Lewysan/Minecraft_Development/assets/70720366/181889a5-fa6f-4e30-b617-a394d35208f1)
-  - Hit della 1.8 in 1.20
-  - Vettori utili per certi oggetti con i quali potrebbe interagire i giocatori
-  - Smooth AutoRespawn
+  ### Ho implementato il **CombatLog**, impedendo i giocatori di uscire durante il combattimento e richiedendo un tempo di attesa di 15 secondi. La punizione é un'elliminazione completa del giocatore.
+  - ![combact](https://github.com/Lewysan/Minecraft_Development/assets/70720366/afc3c498-3faf-43f3-9a15-ea02ba8b7543)
+  - ![nomore](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f113c097-c60b-459a-88cb-caa4bc963daa)
+  ### Le **Taglie** sono importanti, diventa il piú forte del server uccidendo tutti e raggiungendo una taglia pesante.
+  - ![Taglie](https://github.com/Lewysan/Minecraft_Development/assets/70720366/181889a5-fa6f-4e30-b617-a394d35208f1)
+  ### Hit della 1.8 in 1.20
+  ### Vettori utili per certi oggetti con i quali potrebbe interagire i giocatori
+  ### Smooth AutoRespawn
 # 👥 Gangs
-   - Entra nel mondo sociale del PvP con le gang. Collabora con altri giocatori, forma alleanze strategiche e conquista insieme la battaglia. State attenti, non sempre puoi fidarti di chi hai avanti!
-          	- ![gangs](https://github.com/Lewysan/Minecraft_Development/assets/70720366/cbbed390-b358-4eb8-b0af-59349606ff42)
+   ### Entra nel mondo sociale del PvP con le gang. Collabora con altri giocatori, forma alleanze strategiche e conquista insieme la battaglia. State attenti, non sempre puoi fidarti di chi hai avanti!
+   - ![gangs](https://github.com/Lewysan/Minecraft_Development/assets/70720366/cbbed390-b358-4eb8-b0af-59349606ff42)
 # 🔄 Compatibilità Estesa
    - Goditi l'esperienza su diverse versioni **(1.8 - 1.20)** e sperimenta il nostro impegno per rendere il KitPVP accessibile a un'ampia comunità di giocatori. Aggiunti complementi **Legacy (< 1.13)**
 # 🚀 Personalizzazione
