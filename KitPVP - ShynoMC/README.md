@@ -31,6 +31,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 # 📈 Scoreboard e Tablist
   - **Scoreboard** e **Tablist** personalizzate, offrono una panoramica/informazione immediata delle tue statistiche piú importanti.
 	- ![Tablist](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f50ce6ae-00d0-4a42-a6a7-cc2509b0bf74)
+    	- ![scoreboard](https://github.com/Lewysan/Minecraft_Development/assets/70720366/523639c1-5347-46d5-9c1b-d11bce35b85c)
 # 📦 Crates e Ricompense
   - Oggetti random?
 # 🏆 Classifiche e Racha di Uccisioni
@@ -50,6 +51,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
     	    - ![combact](https://github.com/Lewysan/Minecraft_Development/assets/70720366/afc3c498-3faf-43f3-9a15-ea02ba8b7543)
 	    - ![nomore](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f113c097-c60b-459a-88cb-caa4bc963daa)
   - Le **Taglie** sono importanti, diventa il piú forte del server uccidendo tutti e raggiungendo una taglia pesante.
+    	- ![Taglie](https://github.com/Lewysan/Minecraft_Development/assets/70720366/181889a5-fa6f-4e30-b617-a394d35208f1)
   - Hit della 1.8 in 1.20
   - Vettori utili per certi oggetti con i quali potrebbe interagire i giocatori
   - Smooth AutoRespawn
