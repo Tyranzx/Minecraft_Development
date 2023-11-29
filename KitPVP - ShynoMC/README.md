@@ -1,6 +1,6 @@
 # [⚔] KitPVP
-		by xJess - Contributors: StellarSquad | 1.8 - 1.20 
-  	    SpigotMC: https://www.spigotmc.org/members/jessia.1858326/
+		by xJess - Contributors: StellarSquad 🎲 | 1.8 - 1.20 
+  	      SpigotMC: https://www.spigotmc.org/members/jessia.1858326/
     
 Concludendo un intenso periodo di sviluppo, sono entusiasta di presentarvi un bel plugin di funzionalità e opzioni pensate per rendere l'esperienza di PvP unica e coinvolgente wazaaaaa 👻👻👻👻.
 
@@ -10,7 +10,7 @@ Riferenza: https://discord.gg/BHAwgrBAC6
 Il plugin l'ho fatto da sola in meno di due mesi, sono riuscita pure a creare delle API pronte per i miei membri di StellarSquad e, ripeto, ad imparare nuove cose importanti.
 Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del giocatore, ecc. Il plugin é stato fatto per server di versioni superiori a 1.8
 
-	Special mentions: AfreCito,  Warmiz,  SkizZeR,  Dark_Overlord,  NekuSempai,  Joshet18💖
+	⭐ Special mentions: AfreCito,  Warmiz,  SkizZeR,  Dark_Overlord,  NekuSempai,  Joshet18💖
 
 # Caratteristiche Dettagliate:
 
