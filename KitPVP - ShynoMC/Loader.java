@@ -113,11 +113,20 @@ public final class Loader extends JavaPlugin {
 
         Bukkit.getServer().getScheduler().scheduleSyncDelayedTask(this, () -> online.forEach(jugador -> {
 
-        if (StellarChronos.krypton().isPluginEnabled()){
+      //--------------------------------------------------------------\\
+      //--------------------------------------------------------------\\
+            /*               K R Y P T O N              */
+            
+      if (StellarChronos.krypton().isPluginEnabled()){
             if (!jugador.hasPermission("stellarsquad.staff")) return;
             jugador.sendMessage(StellarSource.c("&c[&fStellarSquad&c] &fStellar KitPVP enabled."));
         }), 10L);
+            /*               K R Y P T O N              */
+        
+      //--------------------------------------------------------------\\
+      //--------------------------------------------------------------\\
 
+        
       if (Bukkit.getServer().getOnlinePlayers().size() == 0) return;
             online.forEach(playerBoard::sendScoreboard);
     }
