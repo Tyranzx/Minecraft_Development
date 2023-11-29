@@ -29,7 +29,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 	- ![entitiesClickablili](https://github.com/Lewysan/Minecraft_Development/assets/70720366/3e2762d4-b00a-4cb3-b278-2f7b46fb9368)
     	- ![TrashCest](https://github.com/Lewysan/Minecraft_Development/assets/70720366/fa233c2f-3196-4c05-ac6c-1944edeb77c7)
 # 📈 Scoreboard e Tablist
-  - **Scoreboard** e **Tablist** personalizzate, offrono una panoramica/informazione immediata delle tue statistiche piú importanti.
+  - **Scoreboard** e **Tablist** personalizzate, offrono una panoramica immediata delle tue statistiche piú importanti.
 	- ![Tablist](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f50ce6ae-00d0-4a42-a6a7-cc2509b0bf74)
     	- ![scoreboard](https://github.com/Lewysan/Minecraft_Development/assets/70720366/523639c1-5347-46d5-9c1b-d11bce35b85c)
 # 📦 Crates e Ricompense
