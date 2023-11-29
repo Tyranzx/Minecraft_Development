@@ -1,5 +1,6 @@
-L'intenzione di questo progetto su Github é presentare un mio nuovo progetto "KitPvP", non per lasciare il plugin da utilizzare o renderlo pubblico.
-Il dettaglio curioso di questo plugin é che solo io posso attivarlo, quindi é inutile pretendere di rubarlo.
-  Se é tutto chiaro, grazie per l'attenzione e spero vi piaccia. :D
+L'intenzione di questo progetto su Github é presentare un mio nuovo progetto "KitPvP", non per lasciare qualche link simbolico dal quale scaricarlo.
+Il progetto lo posso attivare solo io per una questione etica.
+
+Se tutto é chiaro, grazie mille per l'attenzione.
 
 us@stellarsquad
