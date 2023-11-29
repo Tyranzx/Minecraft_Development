@@ -1,6 +1,5 @@
 # [*] KitPVP (PaperMC API ~ Java)
-		by xJess - Contributors: nope
-    1.8 - 1.20
+		by xJess - Contributors: nope | 1.8 - 1.20
     
 Concludendo un intenso periodo di sviluppo, sono entusiasta di presentarvi un bel plugin di funzionalità e opzioni pensate per rendere l'esperienza di PvP unica e coinvolgente wazaaaaa 👻👻👻👻.
 
