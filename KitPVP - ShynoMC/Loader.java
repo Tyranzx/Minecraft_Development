@@ -60,16 +60,11 @@ public final class Loader extends JavaPlugin {
     public void initializeK() {
 
         if (StellarAPI.getVersion() < 8) disableKPVP();
-      
-        settings.setup(this);
-
-        for (Player online : Bukkit.getServer().getOnlinePlayers()){
-            PlayerManager.checkforPlayer(online);
-        }
 
       //--------------------------------------------------------------\\
         /* Management */
       
+        settings.setup(this);
         EventListener.registerListeners(this);
       
         kits = new Kits(this);
