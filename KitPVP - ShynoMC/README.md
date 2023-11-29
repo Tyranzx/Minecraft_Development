@@ -41,7 +41,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 # 🏆 Classifiche e Streak
   ### Le vostre abilitá mostrate nella leaderboard - **Top di uccisioni, morti, soldi, kdr, ecc**.
   - ![leaderboard](https://github.com/Lewysan/Minecraft_Development/assets/70720366/40684339-2838-480d-a93b-09d9a97ad445)
-  - Sistema di **Kill Streak** e assistenza. 
+  ### Sistema di **Kill Streak** e assistenza. 
 # 🛍️ Negozio, aste e altri menu
   ### Shop: pozioni, libri, generali(Gapple notch, ecc..)
   - ![shopsd](https://github.com/Lewysan/Minecraft_Development/assets/70720366/16507b61-15fb-412d-8f95-0684137b184c)
@@ -64,11 +64,11 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
    ### Entra nel mondo sociale del PvP con le gang. Collabora con altri giocatori, forma alleanze strategiche e conquista insieme la battaglia. State attenti, non sempre puoi fidarti di chi hai avanti!
    - ![gangs](https://github.com/Lewysan/Minecraft_Development/assets/70720366/cbbed390-b358-4eb8-b0af-59349606ff42)
 # 🔄 Compatibilità Estesa
-   - Goditi l'esperienza su diverse versioni **(1.8 - 1.20)** e sperimenta il nostro impegno per rendere il KitPVP accessibile a un'ampia comunità di giocatori. Aggiunti complementi **Legacy (< 1.13)**
+   ### Goditi l'esperienza su diverse versioni **(1.8 - 1.20)** e sperimenta il nostro impegno per rendere il KitPVP accessibile a un'ampia comunità di giocatori. Aggiunti complementi **Legacy (< 1.13)**
 # 🚀 Personalizzazione
-   - L'idea di questo KitPVP é stata renderlo il più custom possibile, evitando l'uso di plugin di terze parti e offrendo un'esperienza unica nel suo genere.
+   ### L'idea di questo KitPVP é stata renderlo il più custom possibile, evitando l'uso di plugin di terze parti e offrendo un'esperienza unica nel suo genere.
 # 🌟 Ringraziamenti e Invito
-   - Apprezzerei i commenti positivi del plugin, l'ho creato con passione e amore per tutta la comunitá di ShynoMC. Spero che questa esperienza porti entusiasmo e divertimento a terzi. Invita i tuoi amici a unirsi nel nostro server discord e a noi , cosi da condividere esperienze piacevoli!
+   ### Apprezzerei i commenti positivi del plugin, l'ho creato con passione e amore per tutta la comunitá di ShynoMC. Spero che questa esperienza porti entusiasmo e divertimento a terzi. Invita i tuoi amici a unirsi nel nostro server discord e a noi , cosi da condividere esperienze piacevoli!
 
 ### Riassunto:
 				- Kits (Menu kit, default kit)
