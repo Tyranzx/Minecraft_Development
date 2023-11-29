@@ -2,7 +2,7 @@
 		by xJess - Contributors: StellarSquad 🎲 | 1.8 - 1.20 
   	      SpigotMC: https://www.spigotmc.org/members/jessia.1858326/
     
-Concludendo un intenso periodo di sviluppo, sono entusiasta di presentarvi un bel plugin di funzionalità e opzioni pensate per rendere l'esperienza di PvP unica e coinvolgente wazaaaaa 👻👻👻👻.
+Concludendo un intenso periodo di sviluppo, sono ansiosa di presentarvi un mio progetto speciale di kitpvp per rendere l'esperienza di combattimento unica e coinvolgente wazaaaaa 👻👻👻👻.
 
 Ringrazio **ShynoMC** per darmi l'opportunitá di dare il mio massimo di conoscenze ed imparare un sacco di cose durante sto percorso di creazione del plugin.
 Riferenza: https://discord.gg/BHAwgrBAC6
