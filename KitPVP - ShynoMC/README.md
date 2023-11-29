@@ -13,7 +13,6 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 	⭐ Special mentions: AfreCito,  Warmiz,  SkizZeR,  Dark_Overlord,  NekuSempai,  Joshet18💖
 
 # Caratteristiche Dettagliate:
-![leaderboard](https://github.com/Lewysan/Minecraft_Development/assets/70720366/40684339-2838-480d-a93b-09d9a97ad445)
 ![TrashCest](https://github.com/Lewysan/Minecraft_Development/assets/70720366/fa233c2f-3196-4c05-ac6c-1944edeb77c7)
 ![LogocXD](https://github.com/Lewysan/Minecraft_Development/assets/70720366/7b8d443c-c556-465f-b7d3-d16aa76ef11a)
 
@@ -35,6 +34,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   - Oggetti random?
 # 🏆 Classifiche e Racha di Uccisioni
   - Le vostre abilitá mostrate nella leaderboard - **Top di uccisioni, morti, soldi, kdr, ecc**.
+	- ![leaderboard](https://github.com/Lewysan/Minecraft_Development/assets/70720366/40684339-2838-480d-a93b-09d9a97ad445)
   - Sistema di **Kill Streak** e assistenza. 
 # 🛍️ Negozio e Aste
   - Non so, c'é qualcosa che vorresti vendere? Ti mancano dei soldi per prendere qualcosa dallo shop? Utilizza le **Aste** per vendere i tuoi oggetti e guardagnare soldi! :D
