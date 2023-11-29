@@ -8,7 +8,7 @@ Ringrazio **ShynoMC** per darmi l'opportunitá di dare il mio massimo di conosce
 Riferenza: https://discord.gg/BHAwgrBAC6
 
 Il plugin l'ho fatto da sola in meno di due mesi, sono riuscita pure a creare delle API pronte per i miei membri di StellarSquad e, ripeto, ad imparare nuove cose importanti.
-Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del giocatore, ecc. Il plugin é stato fatto per server di versioni superiori a 1.8
+Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del giocatore e per altre tante cose. Il plugin é stato fatto per server di versioni superiori a 1.8
 
  	(!) Per i bambini vanitosi: Ho lasciato un 1% del progetto, la classe principale, cosi date un'occhiata e non so, forse rubate qualcosa :P.
 
