@@ -69,7 +69,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 # 🚀 Personalizzazione
    ### [✅] L'idea di questo KitPVP é stata renderlo il più custom possibile, evitando l'uso di plugin di terze parti e offrendo un'esperienza unica nel suo genere.
 # 🌟 Ringraziamenti e Invito
-   ### [✅] Apprezzerei i commenti positivi del plugin, l'ho creato con passione e amore per tutta la comunitá di ShynoMC. Spero che questa esperienza porti entusiasmo e divertimento a terzi. Invita i tuoi amici a unirsi nel nostro server discord e a noi , cosi da condividere esperienze piacevoli!
+   ### [✅] Apprezzo molto i commenti positivi riguardanti al plugin, l'ho fatto con passione e amore per tutta la comunitá di ShynoMC. Spero che questa esperienza porti entusiasmo e divertimento a terzi. Invita i tuoi amici a unirsi nel nostro server discord e a noi , cosi da condividere esperienze piacevoli!
 
 ### Riassunto:
 				- Kits (Menu kit, default kit)
