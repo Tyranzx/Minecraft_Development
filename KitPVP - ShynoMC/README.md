@@ -6,6 +6,8 @@ Concludendo un intenso periodo di sviluppo, sono ansiosa ma sopratutto contenta 
 
 Ringrazio **ShynoMC** per darmi l'opportunitá di dare il mio massimo di conoscenze ed imparare un sacco di cose durante sto percorso di creazione del plugin.
 Riferenza: https://discord.gg/BHAwgrBAC6
+![final Fondo 2](https://github.com/Lewysan/Minecraft_Development/assets/70720366/17eeec2a-ea0d-4da0-b867-04a755ab3061)
+
 
 Il plugin l'ho fatto da sola in meno di due mesi, sono riuscita pure a creare delle API pronte per i miei membri di StellarSquad e, ripeto, ad imparare nuove cose importanti.
 Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del giocatore e per altre tante cose. Il plugin é stato fatto per server di versioni superiori a 1.8
