@@ -39,7 +39,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### [✅] Oggetti random?
 # 🏆 Classifiche e Streak
   ### [✅] Le vostre abilitá saranno riconosciute e rappresentate a tutti in diverse leaderboard - **Top uccisioni, morti, soldi, kdr, ecc**.
-  - ![leaderboard](https://github.com/Lewysan/Minecraft_Development/assets/70720366/40684339-2838-480d-a93b-09d9a97ad445)
+  - ![XD](https://github.com/Lewysan/Minecraft_Development/assets/70720366/09cbdc0e-df6f-4b14-a629-a1494566b37c)
   ### [✅] Sistema di **Kill Streak** e assistenza. 
 # 🛍️ Negozio, aste e altri menu
   ### [✅] Shop: pozioni, libri, generali(Gapple notch, ecc..)
