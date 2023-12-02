@@ -5,7 +5,8 @@
 Concludendo un intenso periodo di sviluppo, sono ansiosa ma sopratutto contenta di presentarvi un mio progetto speciale di kitpvp per rendere l'esperienza di combattimento unica e coinvolgente wazaaaaa 👻👻👻👻.
 
 Ringrazio **ShynoMC** per darmi l'opportunitá di dare il mio massimo di conoscenze ed imparare un sacco di cose durante sto percorso di creazione del plugin.
-Riferenza: https://discord.gg/BHAwgrBAC6
+**Riferenza:**
+https://discord.gg/BHAwgrBAC6
 ![final Fondo 2](https://github.com/Lewysan/Minecraft_Development/assets/70720366/17eeec2a-ea0d-4da0-b867-04a755ab3061)
 
 
