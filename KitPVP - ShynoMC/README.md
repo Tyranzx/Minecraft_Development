@@ -48,10 +48,12 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### [✅] Sistema di **Kill Streak** e assistenza. 
 # 🛍️ Negozio, aste e altri menu
   ### [✅] Shop: pozioni, libri, generali(Gapple notch, ecc..)
+  - ![AgregarEscreita](https://github.com/Lewysan/Minecraft_Development/assets/70720366/e1affae2-7026-469a-b4a8-93655c0c4868)
   - ![shopsd](https://github.com/Lewysan/Minecraft_Development/assets/70720366/16507b61-15fb-412d-8f95-0684137b184c)
   ### [✅] E le aste... non so, c'é qualcosa che vorresti vendere? Ti mancano dei soldi per prendere qualcosa dallo shop? Utilizza le **Aste** per vendere i tuoi oggetti e guardagnare soldi! :D.
   - ![xdxadc3w](https://github.com/Lewysan/Minecraft_Development/assets/70720366/473f569d-47b1-46ed-a165-7d6915e764d5)
   - ![Aste](https://github.com/Lewysan/Minecraft_Development/assets/70720366/8b506d2d-9682-431c-ae1a-4c78b120e880)
+  - ![aste](https://github.com/Lewysan/Minecraft_Development/assets/70720366/0263e619-d921-47ac-860a-efa5cbc52ca8)
   ### [✅] Puoi pure acquistare gli oggetti giá venduti da altri giocatori.
   - ![itemsac](https://github.com/Lewysan/Minecraft_Development/assets/70720366/e790c038-ac70-4227-acd2-da946a73ce89)
   ### [✅] Private chests.
