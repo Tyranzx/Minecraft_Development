@@ -29,6 +29,9 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 # 📊 Sistema di Statistiche
   ### [✅] Soldi accumulati, morti, uccisioni, serie di uccisioni (Kill Streak), rapporto uccisioni/morti (KDR) e il completamento di sfide ed eventi speciali.
   - ![MoneySystem](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f1217297-83cf-4b09-ade6-0211814e1440)
+  ### [✅] Potete vedere le statistiche e quelle altrui.
+  - ![State personali](https://github.com/Lewysan/Minecraft_Development/assets/70720366/b286c6b7-35e4-4c5d-96b3-75458cc114c4)
+  - ![Stat di giocatori](https://github.com/Lewysan/Minecraft_Development/assets/70720366/df758555-493e-4e54-ae08-97961eda42ea)
 # 🦴 Entitá Interattive
   ### [✅] Ho aggiunto l'opportunitá di aggiungere mob custom da cliccare e successivamente aprire un menu.
   - ![XD](https://github.com/Lewysan/Minecraft_Development/assets/70720366/5ec4f7fb-f51d-4d28-985c-d11c38c06250)
@@ -41,7 +44,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### [✅] Oggetti random?
 # 🏆 Classifiche e Streak
   ### [✅] Le vostre abilitá saranno riconosciute e rappresentate a tutti in diverse leaderboard - **Top uccisioni, morti, soldi, kdr, ecc**.
-  - ![XD](https://github.com/Lewysan/Minecraft_Development/assets/70720366/09cbdc0e-df6f-4b14-a629-a1494566b37c)
+  - ![finalLeaderboards](https://github.com/Lewysan/Minecraft_Development/assets/70720366/2bd8d5ad-12d0-414d-b182-cd3fafbe9481)
   ### [✅] Sistema di **Kill Streak** e assistenza. 
 # 🛍️ Negozio, aste e altri menu
   ### [✅] Shop: pozioni, libri, generali(Gapple notch, ecc..)
