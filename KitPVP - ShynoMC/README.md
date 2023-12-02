@@ -4,6 +4,8 @@
     
 Concludendo un intenso periodo di sviluppo, sono ansiosa ma sopratutto contenta di presentarvi un mio progetto speciale di kitpvp per rendere l'esperienza di combattimento unica e coinvolgente wazaaaaa 👻👻👻👻.
 
+⚠ Ho prove veridiche della creazione di questo plugin. É stato fatto da 0 e ogni singolo successo del plugin é stato registrato/fatto screenshot.
+
 Ringrazio **ShynoMC** per darmi l'opportunitá di dare il mio massimo di conoscenze ed imparare un sacco di cose durante sto percorso di creazione del plugin.
 **Riferenza:**
 https://discord.gg/BHAwgrBAC6
@@ -80,7 +82,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### [✅] Smooth AutoRespawn.
 # 👥 Gangs
    ### [✅] Entra nel mondo sociale del PvP con le gang. Collabora con altri giocatori, forma alleanze strategiche e conquista insieme la battaglia. State attenti, non sempre puoi fidarti di chi hai avanti!
-   ### Stessa cosa dei tags qui, i tags rappresenteranno la tua gang come prefix. É importante menzionare che solo si puó essere membro di una gang. Pensiamola cosi: che senso ha essere membro di vari gruppi in cui non sei sicuro di dove andrai a finire? di chi sará il colpevole della tua morte?
+   ### Stessa cosa dei tags qui, i tags rappresenteranno la tua gang come prefix in questo caso. É importante menzionare che solo si puó essere membro di una gang. Pensiamola cosi: che senso ha essere membro di vari gruppi in cui non sei sicuro di dove andrai a finire? di chi sará il colpevole della tua morte?
    - ![gangs](https://github.com/Lewysan/Minecraft_Development/assets/70720366/cbbed390-b358-4eb8-b0af-59349606ff42)
 # 🔄 Compatibilità Estesa
    ### [✅] Goditi l'esperienza su diverse versioni **(1.8 - 1.20)** e sperimenta il nostro impegno per rendere il KitPVP accessibile ad un'ampia comunità di giocatori. Sono stati aggiunti complementi **Legacy (< 1.13)** a proposito.
