@@ -8,7 +8,7 @@ Concludendo un intenso periodo di sviluppo, sono ansiosa ma sopratutto contenta 
 ## [**⚠**] Ho le sufficienti prove veridiche della creazione di questo plugin. É stato fatto da 0 e ogni singolo successo del plugin é stato registrato/fatto screenshot.
 
 
-#### Ringrazio **ShynoMC** per darmi l'opportunitá di dare il mio massimo di conoscenze ed imparare un sacco di cose durante sto percorso di creazione del plugin.
+Ringrazio **ShynoMC** per darmi l'opportunitá di dare il mio massimo di conoscenze ed imparare un sacco di cose durante sto percorso di creazione del plugin.
 **Riferenza:**
 https://discord.gg/BHAwgrBAC6
 ![final Fondo 2](https://github.com/Lewysan/Minecraft_Development/assets/70720366/17eeec2a-ea0d-4da0-b867-04a755ab3061)
