@@ -75,6 +75,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### [✅] Fix delle hit 1.20.
   ### In realtá, per questo curioso fix delle hit, ho dovuto pensare al mondo reale, le forze, le spinte, ecc. Ho utilizzato tecniche reali di fisica per renderle molto piu uniche come hit fixate.
   ### Ovviamente puó essere cambiato, io l'ho diviso in 3 modi, **SLOWNESS**, **NORMAL**, **COMBO**
+  ### A un certo punto, mentre cambiavo versione da 1.20 a 1.8, quando le hit del kit erano attive, sembravano quelle hit normali della 1.8, poi é da decidere e modificare in caso non sia quella giusta. In ogni caso, é pensata per fare CPS (Click per second).
   - ![hitfixñ](https://github.com/Lewysan/Minecraft_Development/assets/70720366/1748c2a2-830f-466f-a31f-377b9bd41026)
   ### [✅] Vettori utili per certi oggetti con i quali i giocatori potrebbero interagire.
   ### [✅] Smooth AutoRespawn.
