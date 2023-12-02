@@ -8,6 +8,7 @@ Concludendo un intenso periodo di sviluppo, sono ansiosa ma sopratutto contenta 
 ## [**⚠**] Ho sufficienti prove veridiche della creazione di questo plugin. É stato fatto da 0 e ogni singolo successo del plugin é stato registrato/fatto screenshot.
 
 
+
 Ringrazio **ShynoMC** per darmi l'opportunitá di dare il mio massimo di conoscenze ed imparare un sacco di cose durante sto percorso di creazione del plugin.
 **Riferenza:**
 https://discord.gg/BHAwgrBAC6
