@@ -31,7 +31,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### [✅] Soldi accumulati, morti, uccisioni, serie di uccisioni (Kill Streak), rapporto uccisioni/morti (KDR) e il completamento di sfide ed eventi speciali e in piú, oggetti acquistati.
   ### Cercheró di aggiungere piu statistiche possibili :)!
   - ![MoneySystem](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f1217297-83cf-4b09-ade6-0211814e1440)
-  ### [✅] Potete vedere le statistiche e quelle altrui.
+  ### [✅] Potete vedere le vostre statistiche e quelle altrui.
   - ![State personali](https://github.com/Lewysan/Minecraft_Development/assets/70720366/b286c6b7-35e4-4c5d-96b3-75458cc114c4)
   - ![Stat di giocatori](https://github.com/Lewysan/Minecraft_Development/assets/70720366/df758555-493e-4e54-ae08-97961eda42ea)
 # 🦴 Entitá Interattive
