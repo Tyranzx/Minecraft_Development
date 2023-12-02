@@ -35,23 +35,26 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   - ![Stat di giocatori](https://github.com/Lewysan/Minecraft_Development/assets/70720366/df758555-493e-4e54-ae08-97961eda42ea)
 # 🦴 Entitá Interattive
   ### [✅] Ho aggiunto l'opportunitá di aggiungere mob custom da cliccare e successivamente aprire un menu.
-  - ![XD](https://github.com/Lewysan/Minecraft_Development/assets/70720366/5ec4f7fb-f51d-4d28-985c-d11c38c06250)
   - ![entitiesClickablili](https://github.com/Lewysan/Minecraft_Development/assets/70720366/3e2762d4-b00a-4cb3-b278-2f7b46fb9368)
 # 📈 Scoreboard e Tablist
   ### [✅] **Scoreboard** e **Tablist** personalizzate, offrono una panoramica immediata delle tue statistiche piú importanti.
-  - ![Tablist](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f50ce6ae-00d0-4a42-a6a7-cc2509b0bf74)
+  ### Scoreboard fatto con strumenti utili e ottimi per rendere il server piu ottimizzato possibile e rendere la esperienza del giocatore comoda.
   - ![scoreboard](https://github.com/Lewysan/Minecraft_Development/assets/70720366/523639c1-5347-46d5-9c1b-d11bce35b85c)
+  ### Per la **Tablist** invece, sono state utilizzazte tecniche di costruzione di ogni singolo carattere che non sará per niente un problema di ottimizzazione.
+  - ![Tablist](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f50ce6ae-00d0-4a42-a6a7-cc2509b0bf74)
 # 📦 Crates e Ricompense
-  ### [✅] Oggetti random?
+  ### [✅] Oggetti random? (Tra poco posteró degli screenshot, pazienza :D)
 # 🏆 Classifiche e Streak
   ### [✅] Le vostre abilitá saranno riconosciute e rappresentate a tutti in diverse leaderboard - **Top uccisioni, morti, soldi, kdr, ecc**.
+  ### Ripeto un'informazione importante: Questo mio pprogetto come tutti gli altri, non é compromesso con plugin di terzi, il plugin é unico e **NON** dipende da altri plugin.
   - ![finalLeaderboards](https://github.com/Lewysan/Minecraft_Development/assets/70720366/2bd8d5ad-12d0-414d-b182-cd3fafbe9481)
   ### [✅] Sistema di **Kill Streak** e assistenza. 
 # 🛍️ Negozio, aste e altri menu
   ### [✅] Shop: pozioni, libri, generali(Gapple notch, ecc..)
   - ![AgregarEscreita](https://github.com/Lewysan/Minecraft_Development/assets/70720366/e1affae2-7026-469a-b4a8-93655c0c4868)
-  - ![shopsd](https://github.com/Lewysan/Minecraft_Development/assets/70720366/16507b61-15fb-412d-8f95-0684137b184c)
+  - ![XD](https://github.com/Lewysan/Minecraft_Development/assets/70720366/5ec4f7fb-f51d-4d28-985c-d11c38c06250)
   ### [✅] E le aste... non so, c'é qualcosa che vorresti vendere? Ti mancano dei soldi per prendere qualcosa dallo shop? Utilizza le **Aste** per vendere i tuoi oggetti e guardagnare soldi! :D.
+  ### Aste organizzate in modo da rendere sicuro l'acquisto e transazione di soldi di tutti gli oggetti presenti in questo menu.
   - ![xdxadc3w](https://github.com/Lewysan/Minecraft_Development/assets/70720366/473f569d-47b1-46ed-a165-7d6915e764d5)
   - ![Aste](https://github.com/Lewysan/Minecraft_Development/assets/70720366/8b506d2d-9682-431c-ae1a-4c78b120e880)
   - ![aste](https://github.com/Lewysan/Minecraft_Development/assets/70720366/0263e619-d921-47ac-860a-efa5cbc52ca8)
@@ -62,19 +65,24 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   - ![TrashCest](https://github.com/Lewysan/Minecraft_Development/assets/70720366/fa233c2f-3196-4c05-ac6c-1944edeb77c7)
 # ⚔️ Combattimento Tattico
   ### [✅] Ho implementato il **CombatLog**, impedendo i giocatori di uscire durante il combattimento e richiedendo un tempo di attesa di 15 secondi. La punizione é un'elliminazione completa del giocatore.
+  ### La scoreboard aggiungerá un'etichetta per sapere quando finirá il tempo di pvp attuale, quando arriva a 0, il giocatore sará avvertito dalla chat.
   - ![combact](https://github.com/Lewysan/Minecraft_Development/assets/70720366/afc3c498-3faf-43f3-9a15-ea02ba8b7543)
   - ![nomore](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f113c097-c60b-459a-88cb-caa4bc963daa)
   ### [✅] Le **Taglie** sono importanti, diventa il piú forte del server uccidendo tutti e raggiungendo una taglia pesante.
+  ### Le taglie vengono rappresentate con ricompense e tags, tags diversi dagli altri, con scritta la ricompensa per colui che riesce a uccidere questo giocatore.
   - ![Taglie](https://github.com/Lewysan/Minecraft_Development/assets/70720366/195b4726-d5b5-4adb-b8df-f95ce8655ef5)
   ### [✅] Fix delle hit 1.20.
+  ### In realtá, per questo curioso fix delle hit, ho dovuto pensare al mondo reale, le forze, le spinte, ecc. Ho utilizzato tecniche reali di fisica per renderle molto piu uniche come hit fixate.
+  ### Ovviamente puó essere cambiato, io l'ho diviso in 3 modi, **SLOWNESS**, **NORMAL**, **COMBO**
   - ![hitfixñ](https://github.com/Lewysan/Minecraft_Development/assets/70720366/1748c2a2-830f-466f-a31f-377b9bd41026)
   ### [✅] Vettori utili per certi oggetti con i quali i giocatori potrebbero interagire.
   ### [✅] Smooth AutoRespawn.
 # 👥 Gangs
    ### [✅] Entra nel mondo sociale del PvP con le gang. Collabora con altri giocatori, forma alleanze strategiche e conquista insieme la battaglia. State attenti, non sempre puoi fidarti di chi hai avanti!
+   ### Stessa cosa dei tags qui, i tags rappresenteranno la tua gang come prefix. É importante menzionare che solo si puó essere membro di una gang. Pensiamola cosi: che senso ha essere membro di vari gruppi in cui non sei sicuro di dove andrai a finire? di chi sará il colpevole della tua morte?
    - ![gangs](https://github.com/Lewysan/Minecraft_Development/assets/70720366/cbbed390-b358-4eb8-b0af-59349606ff42)
 # 🔄 Compatibilità Estesa
-   ### [✅] Goditi l'esperienza su diverse versioni **(1.8 - 1.20)** e sperimenta il nostro impegno per rendere il KitPVP accessibile a un'ampia comunità di giocatori. Aggiunti complementi **Legacy (< 1.13)**.
+   ### [✅] Goditi l'esperienza su diverse versioni **(1.8 - 1.20)** e sperimenta il nostro impegno per rendere il KitPVP accessibile ad un'ampia comunità di giocatori. Sono stati aggiunti complementi **Legacy (< 1.13)** a proposito.
 # 🚀 Personalizzazione
    ### [✅] L'idea di questo KitPVP é stata renderlo il più custom possibile, evitando l'uso di plugin di terze parti e offrendo un'esperienza unica nel suo genere.
 # 🌟 Ringraziamenti e Invito
