@@ -61,6 +61,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### [✅] Le **Taglie** sono importanti, diventa il piú forte del server uccidendo tutti e raggiungendo una taglia pesante.
   - ![Taglie](https://github.com/Lewysan/Minecraft_Development/assets/70720366/195b4726-d5b5-4adb-b8df-f95ce8655ef5)
   ### [✅] Fix delle hit 1.20.
+  - ![hitfixñ](https://github.com/Lewysan/Minecraft_Development/assets/70720366/1748c2a2-830f-466f-a31f-377b9bd41026)
   ### [✅] Vettori utili per certi oggetti con i quali i giocatori potrebbero interagire.
   ### [✅] Smooth AutoRespawn.
 # 👥 Gangs
