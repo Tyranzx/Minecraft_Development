@@ -70,7 +70,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   - ![combact](https://github.com/Lewysan/Minecraft_Development/assets/70720366/afc3c498-3faf-43f3-9a15-ea02ba8b7543)
   - ![nomore](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f113c097-c60b-459a-88cb-caa4bc963daa)
   ### [✅] Le **Taglie** sono importanti, diventa il piú forte del server uccidendo tutti e raggiungendo una taglia pesante.
-  ### Le taglie vengono rappresentate con i tags, questi diversi dagli altri, messa come suffix e con scritta la ricompensa per colui che riesce a uccidere questo giocatore.
+  ### Le taglie vengono rappresentate con i tags, questi diversi dagli altri, messa come suffix e con scritta la ricompensa per colui che riesce ad uccidere il giocatore con "x" taglia.
   - ![Taglie](https://github.com/Lewysan/Minecraft_Development/assets/70720366/195b4726-d5b5-4adb-b8df-f95ce8655ef5)
   ### [✅] Fix delle hit 1.20.
   ### In realtá, per questo curioso fix delle hit, ho dovuto pensare al mondo reale, le forze, le spinte, ecc. Ho utilizzato tecniche reali di fisica per renderle molto piu uniche come hit fixate.
