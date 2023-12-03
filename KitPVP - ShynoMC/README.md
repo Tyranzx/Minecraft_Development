@@ -54,6 +54,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### **Ripeto un'informazione importante:** Questo mio progetto come tutti gli altri, non é compromesso con plugin di terzi, il plugin é unico e **NON** dipende da altri plugin.
   - ![finalLeaderboards](https://github.com/Lewysan/Minecraft_Development/assets/70720366/2bd8d5ad-12d0-414d-b182-cd3fafbe9481)
   ### [✅] Sistema di **Kill Streak** e assistenza. 
+  ### Uccidi sempre 10 persone per raggiungere una nuova streak (Alla 10 streak ti sará data una taglia). O aiuti ad uccidere qualcuno e prendi la ricompensa di assistenza.
 # 🛍️ Negozio, aste e altri menu
   ### [✅] Shop: pozioni, libri, generali
   - ![AgregarEscreita](https://github.com/Lewysan/Minecraft_Development/assets/70720366/e1affae2-7026-469a-b4a8-93655c0c4868)
@@ -87,7 +88,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
    ### Stessa cosa dei tags qui, i tags rappresenteranno la tua gang come prefix in questo caso. É importante menzionare che solo si puó essere membro di una gang. Pensiamola cosi: che senso ha essere membro di vari gruppi in cui non sei sicuro di dove andrai a finire? di chi sará il colpevole della tua morte?
    - ![gangs](https://github.com/Lewysan/Minecraft_Development/assets/70720366/cbbed390-b358-4eb8-b0af-59349606ff42)
 # 🔄 Compatibilitá Estesa
-   ### [✅] Goditi l'esperienza su diverse versioni **(1.8 - 1.20)** e sperimenta il nostro impegno per rendere il KitPVP accessibile ad un'ampia comunità di giocatori. Sono stati aggiunti complementi **Legacy (< 1.13)** a proposito.
+   ### [✅] Goditi l'esperienza giocando in diverse versioni **(tra 1.8 a 1.20)** e sperimenta il nostro impegno per rendere il KitPVP accessibile ad un'ampia comunità di giocatori. Sono stati aggiunti complementi **Legacy (< 1.13)** a proposito.
 # 🚀 Personalizzazione
    ### [✅] L'idea di questo KitPVP é stata renderlo il più custom possibile, evitando l'uso di plugin di terze e offrendo un'esperienza unica di pvp per gli utenti :D.
 # 🌟 Ringraziamenti e Invito
