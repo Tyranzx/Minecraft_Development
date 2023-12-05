@@ -108,12 +108,12 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 				- Aste -> /ah o /aste | Vendere oggetti con /sell <prezzo> o /ah sell <prezzo>
 				- Taglie
 				- Cestino tattico cauldron & hopper
-				- Economy system without Vault
-				- CombatLog -> Non puoi uscire durante il combattimento, devi aspettare 15 secondi. 
-				- Shop -> pozioni, item generali, libri con enchants
-				- Gangs [+Tags]
+				- Economy system and player system without Vault
+				- CombatLog
+				- Shop [Pozioni, item generali, libri]
+				- Gangs + Tags
 				- Hit della 1.20 fixate -> Hit 1.8.9
 				- Smooth autoRespawn
-				- Legacy addons
+				- Optional legacy addons
 
 us@stellarsquad - xJess
