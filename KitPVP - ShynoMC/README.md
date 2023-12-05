@@ -53,7 +53,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### [✅] Le vostre abilitá saranno riconosciute e rappresentate a tutti in diverse leaderboard - **Top uccisioni, morti, soldi, kdr, ecc**.
   ### **Ripeto un'informazione importante:** Questo mio progetto come tutti gli altri, non é compromesso con plugin di terzi, il plugin é unico e **NON** dipende da altri plugin.
   - ![finalLeaderboards](https://github.com/Lewysan/Minecraft_Development/assets/70720366/2bd8d5ad-12d0-414d-b182-cd3fafbe9481)
-  ### Per il momento é stata aggiunta solamnete una semplice ricarica automatica delle leaderboards. Ho un'idea per rendelo piu ottimizzato in futuro, almeno questo vi posso dire che é l'unica cosa alla quale ho lavorato un sacco e sono riuscita a farlo (La ricarica non gli hologram) ma non penso sia del tutto ottimizzato, peró fidatevi di me che lo renderó ottimizzato hehe.
+  ### Per il momento é stata aggiunta solamente una semplice ricarica automatica delle leaderboards, rimandando tutte gli hologram se neccesario. Ho un'idea per renderlo piu ottimizzato in futuro, almeno questo vi posso dire che é l'unica cosa alla quale ho lavorato un sacco e sono riuscita a farlo (La ricarica, non gli hologram) ma non penso sia del tutto ottimizzato, peró fidatevi di me che lo renderó ottimizzato prima o poi.
   ### [✅] Sistema di **Kill Streak** e assistenza. 
   ### Uccidi sempre 10 persone per raggiungere una nuova streak (Alla 10 streak ti sará data una taglia). O aiuti ad uccidere qualcuno e prendi la ricompensa di assistenza.
 # 🛍️ Negozio, aste e altri menu
