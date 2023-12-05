@@ -96,21 +96,24 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
    ### [✅] Apprezzo molto i commenti positivi riguardanti al plugin, l'ho fatto con passione e amore per tutta la comunitá di ShynoMC e Stellar. Spero che questa esperienza porti entusiasmo e divertimento a terzi. Invita i tuoi amici a unirsi nel nostro server discord e a noi , cosi da condividere esperienze piacevoli!
 
 ### Riassunto:
-				- Kits (Menu kit, default kit)
+				- Kits (GUI)
 				- Sistema di statistiche -> coins, morti, kills, streak, kdr, challenge/eventi completati
 				- Entitá (Mob) interagibili per questi menu (senza AI)
 				- Scoreboard
+    				- Unbreakables anvils 
 				- Tablist
 				- Crates
 				- Leaderboards
-				- KillStreaks + Assist
+				- KillStreaks system [10 = 500 - 20 = 1200, etc] + Assist award
 				- Aste -> /ah o /aste | Vendere oggetti con /sell <prezzo> o /ah sell <prezzo>
 				- Taglie
+    				- Cestino tattico cauldron & hopper
+				- Economy system without Vault
 				- CombatLog -> Non puoi uscire durante il combattimento, devi aspettare 15 secondi. 
 				- Shop -> pozioni, item generali, libri con enchants
-				- Gangs
+				- Gangs [+Tags]
 				- Hit della 1.20 fixate -> Hit 1.8.9
-				- Tags
+    				- Smooth autoRespawn
 				- Legacy addons
 
 us@stellarsquad - xJess
