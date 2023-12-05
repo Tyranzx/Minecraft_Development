@@ -107,7 +107,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 				- KillStreaks system [10 = 500 - 20 = 1200, etc] + Assist award
 				- Aste -> /ah o /aste | Vendere oggetti con /sell <prezzo> o /ah sell <prezzo>
 				- Taglie
-    				- Cestino tattico cauldron & hopper
+				- Cestino tattico cauldron & hopper
 				- Economy system without Vault
 				- CombatLog -> Non puoi uscire durante il combattimento, devi aspettare 15 secondi. 
 				- Shop -> pozioni, item generali, libri con enchants
