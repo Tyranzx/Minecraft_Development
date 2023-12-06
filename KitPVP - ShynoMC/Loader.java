@@ -1,34 +1,36 @@
 package net.stellarcraft.kitpvp;
 
 import net.stellarcraft.kitpvp.animations.PlayerAnimations;
-import net.stellarcraft.kitpvp.combat.CombatLog;
-import net.stellarcraft.kitpvp.events.player.management.PlayerManager;
+import net.stellarcraft.kitpvp.management.KitsManager;
+import net.stellarcraft.kitpvp.management.player.PlayerManager;
 import net.stellarcraft.kitpvp.gangs.GangsManager;
 import net.stellarcraft.kitpvp.gangs.commands.DefaultGangCommands;
 import net.stellarcraft.kitpvp.gangs.commands.PersonalGangCommands;
+import net.stellarcraft.kitpvp.holograms.Leaderboards;
 import net.stellarcraft.kitpvp.management.SpawnManager;
+import net.stellarcraft.kitpvp.management.player.PrivateChests;
 import net.stellarcraft.kitpvp.menus.Kits;
 import net.stellarcraft.kitpvp.objects.ActionBarLegacy;
+import net.stellarcraft.kitpvp.objects.HeaderFooterLegacy;
 import net.stellarcraft.kitpvp.objects.TitleLegacy;
-import net.stellarcraft.kitpvp.objects.Tablist;
+import net.stellarcraft.kitpvp.runnables.HologramsTask;
 import net.stellarcraft.kitpvp.scoreboard.PlayerBoard;
-import net.stellarcraft.kitpvp.api.StellarAPI;
 import net.stellarcraft.kitpvp.commands.AdvancedCommands;
 import net.stellarcraft.kitpvp.commands.DefaultCommands;
 import net.stellarcraft.kitpvp.commands.PersonalCommands;
 import net.stellarcraft.kitpvp.events.EventListener;
-
 import net.stellarcraft.kitpvp.events.advanced.KryptonListener;
-import net.stellarcraft.kitpvp.menus.Aste;
 import net.stellarcraft.kitpvp.providers.DataProvider;
 import net.stellarcraft.kitpvp.scoreboard.PlayerBoardManager;
 import net.stellarcraft.kitpvp.tags.TagsManager;
 import net.stellarcraft.kitpvp.utilities.StellarSource;
-import net.stellarcraft.kitpvp.utilities.player.PlayerVectors;
+
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
-
 import org.bukkit.plugin.java.JavaPlugin;
+import net.stellarcraft.kitpvp.events.player.management.PlayerManager;
+import net.stellarcraft.kitpvp.objects.Tablist;
+import net.stellarcraft.kitpvp.utilities.player.PlayerVectors;
 
 import java.util.List;
 
@@ -42,18 +44,22 @@ public final class Loader extends JavaPlugin {
     private DefaultGangCommands defaultGangCommands;
     private PersonalGangCommands personalGangCommands;
     private SpawnManager spawnManager;
-    
+
     public PlayerBoard playerBoard;
-    public Tablist tablist;
+    public HologramsTask hologramsTask;
+    public Leaderboards leaderboards;
+    public PrivateChests privateChests;
     public PlayerBoardManager playerBoardManager;
-    public PlayerManager playerManager;
     public TagsManager tagsManager;
     public GangsManager gangsManager;
     public PlayerAnimations playerAnimations;
-    public PlayerVectors playerVectors;
     public TitleLegacy titleLegacy;
     public ActionBarLegacy actionBarLegacy;
+    public HeaderFooterLegacy tablistLegacy;
     public Kits kits;
+    public KitsManager kitsManager;
+    public Tablist tablist;
+    public PlayerVectors playerVectors;
 
     public static DataProvider settings = DataProvider.getInstance();
 
@@ -68,8 +74,14 @@ public final class Loader extends JavaPlugin {
         EventListener.registerListeners(this);
       
         kits = new Kits(this);
+        kitsManager = new KitsManager(this);
+        
         playerManager = new PlayerManager(this);
         playerBoardManager = new PlayerBoardManager(this);
+        
+        leaderboards = new Leaderboards(this);
+        hologramsTask = new HologramsTask(this);
+
         tagsManager = new TagsManager(this);
         gangsManager = new GangsManager(this);
         spawnManager = new SpawnManager(this);
@@ -101,6 +113,16 @@ public final class Loader extends JavaPlugin {
       
         spawnManager.startdoDaylightCycle();
         spawnManager.startDownFallControl();
+
+        Thread dThread = new Thread(() -> hologramsTask.chekear_holograms("deaths"));
+
+        Thread kThread = new Thread(() -> hologramsTask.chekear_holograms("kills"));
+
+        Thread sThread = new Thread(() -> hologramsTask.chekear_holograms("soldi"));
+
+        dThread.start();
+        kThread.start();
+        sThread.start();
       
         /* Addons */
       //--------------------------------------------------------------\\
