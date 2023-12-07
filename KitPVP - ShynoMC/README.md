@@ -78,12 +78,14 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### [✅] Le **Taglie** sono importanti, diventa il piú forte del server uccidendo tutti e raggiungendo una taglia pesante.
   ### Le taglie vengono rappresentate con i tags, questi diversi dagli altri, messa come suffix e con scritta la ricompensa per colui che riesce ad uccidere il giocatore con "x" taglia.
   - ![Taglie](https://github.com/Lewysan/Minecraft_Development/assets/70720366/195b4726-d5b5-4adb-b8df-f95ce8655ef5)
+# 🛠 Fix
   ### [✅] Fix delle hit 1.20.
   ### Le hit possono essere cambiate, io le ho divise in 3 modi, **SLOWNESS**, **NORMAL** e **COMBO**.
   ### A un certo punto, mentre cambiavo versione da 1.20 a 1.8, quando le hit del kit erano attive, sembravano quelle hit normali della 1.8, poi é da decidere e modificare in caso non sia quella giusta di configurazione. In ogni caso, é pensata per fare CPS (Click per second).
   - ![hitfixñ](https://github.com/Lewysan/Minecraft_Development/assets/70720366/1748c2a2-830f-466f-a31f-377b9bd41026)
   ### [✅] Vettori utili per certi oggetti con i quali i giocatori potrebbero interagire.
   ### [✅] Smooth AutoRespawn.
+# 🧪 Addons
   ### [✅] Bossbar principale custom | Devo ancora fare quello per le versioni Legacy.
   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/a666e00e-a030-4f1a-b93d-b94b200a8a52)
 # 👥 Gangs
