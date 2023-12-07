@@ -119,7 +119,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 				- Shop [Pozioni, item generali, libri]
 				- Gangs + Tags
 				- 1.20 Hit fix
-    				- Jumppads
+				- Jumppads
 				- Smooth autoRespawn
 				- Optional legacy addons
 				- Bossbar
