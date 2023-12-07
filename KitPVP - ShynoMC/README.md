@@ -84,6 +84,8 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   - ![hitfixñ](https://github.com/Lewysan/Minecraft_Development/assets/70720366/1748c2a2-830f-466f-a31f-377b9bd41026)
   ### [✅] Vettori utili per certi oggetti con i quali i giocatori potrebbero interagire.
   ### [✅] Smooth AutoRespawn.
+  ### [✅] Bossbar principale custom | Devo ancora fare quello per le versioni Legacy.
+  - ![BossbarS](https://github.com/Lewysan/Minecraft_Development/assets/70720366/34761c0e-adfb-44a0-9c4d-229a89b11164)
 # 👥 Gangs
    ### [✅] Entra nel mondo sociale del PvP con le gang. Collabora con altri giocatori, forma alleanze strategiche e conquista insieme la battaglia. State attenti, non sempre puoi fidarti di chi hai avanti!
    ### Stessa cosa dei tags qui, i tags rappresenteranno la tua gang come prefix in questo caso. É importante menzionare che solo si puó essere membro di una gang. Pensiamola cosi: che senso ha essere membro di vari gruppi in cui non sei sicuro di dove andrai a finire? di chi sará il colpevole della tua morte?
@@ -115,6 +117,6 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 				- Hit della 1.20 fixate -> Hit 1.8.9
 				- Smooth autoRespawn
 				- Optional legacy addons
-    				- Bossbar
+				- Bossbar
 
 us@stellarsquad - xJess
