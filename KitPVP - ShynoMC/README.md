@@ -115,5 +115,6 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 				- Hit della 1.20 fixate -> Hit 1.8.9
 				- Smooth autoRespawn
 				- Optional legacy addons
+    				- Bossbar
 
 us@stellarsquad - xJess
