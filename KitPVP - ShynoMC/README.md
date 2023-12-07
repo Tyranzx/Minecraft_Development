@@ -118,7 +118,8 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 				- CombatLog
 				- Shop [Pozioni, item generali, libri]
 				- Gangs + Tags
-				- Hit della 1.20 fixate -> Hit 1.8.9
+				- 1.20 Hit fix
+    				- Jumppads
 				- Smooth autoRespawn
 				- Optional legacy addons
 				- Bossbar
