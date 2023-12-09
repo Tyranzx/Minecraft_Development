@@ -1,37 +1,33 @@
 package net.stellarcraft.kitpvp;
 
 import net.stellarcraft.kitpvp.animations.PlayerAnimations;
+import net.stellarcraft.kitpvp.api.StellarAPI;
+import net.stellarcraft.kitpvp.combat.CombatLog;
 import net.stellarcraft.kitpvp.management.KitsManager;
+import net.stellarcraft.kitpvp.management.player.ForcedRespawn;
 import net.stellarcraft.kitpvp.management.player.PlayerManager;
 import net.stellarcraft.kitpvp.gangs.GangsManager;
-import net.stellarcraft.kitpvp.gangs.commands.DefaultGangCommands;
-import net.stellarcraft.kitpvp.gangs.commands.PersonalGangCommands;
+import net.stellarcraft.kitpvp.commands.gangs.DefaultGangCommands;
+import net.stellarcraft.kitpvp.commands.gangs.PersonalGangCommands;
 import net.stellarcraft.kitpvp.holograms.Leaderboards;
-import net.stellarcraft.kitpvp.management.SpawnManager;
+import net.stellarcraft.kitpvp.task.*;
 import net.stellarcraft.kitpvp.management.player.PrivateChests;
 import net.stellarcraft.kitpvp.menus.Kits;
 import net.stellarcraft.kitpvp.objects.ActionBarLegacy;
 import net.stellarcraft.kitpvp.objects.HeaderFooterLegacy;
 import net.stellarcraft.kitpvp.objects.TitleLegacy;
-import net.stellarcraft.kitpvp.runnables.HologramsTask;
 import net.stellarcraft.kitpvp.scoreboard.PlayerBoard;
 import net.stellarcraft.kitpvp.commands.AdvancedCommands;
 import net.stellarcraft.kitpvp.commands.DefaultCommands;
 import net.stellarcraft.kitpvp.commands.PersonalCommands;
 import net.stellarcraft.kitpvp.events.EventListener;
-import net.stellarcraft.kitpvp.events.advanced.KryptonListener;
+import net.stellarcraft.kitpvp.events.advanced.ChronosListener;
 import net.stellarcraft.kitpvp.providers.DataProvider;
 import net.stellarcraft.kitpvp.scoreboard.PlayerBoardManager;
 import net.stellarcraft.kitpvp.tags.TagsManager;
 import net.stellarcraft.kitpvp.utilities.StellarSource;
-
-import org.bukkit.Bukkit;
-import org.bukkit.entity.Player;
-import org.bukkit.plugin.java.JavaPlugin;
-import net.stellarcraft.kitpvp.events.player.management.PlayerManager;
 import net.stellarcraft.kitpvp.objects.Tablist;
 import net.stellarcraft.kitpvp.utilities.player.PlayerVectors;
-
 import java.util.List;
 
 @SuppressWarnings("deprecation")
@@ -43,10 +39,12 @@ public final class Loader extends JavaPlugin {
     private AdvancedCommands advancedCommands;
     private DefaultGangCommands defaultGangCommands;
     private PersonalGangCommands personalGangCommands;
-    private SpawnManager spawnManager;
+    private SpawnTask spawnTask;
+    private GangsTask gangsTask;
+    private HologramsTask hologramsTask;
+    private TaglieTask taglieTask;
 
     public PlayerBoard playerBoard;
-    public HologramsTask hologramsTask;
     public Leaderboards leaderboards;
     public PrivateChests privateChests;
     public PlayerBoardManager playerBoardManager;
@@ -58,6 +56,7 @@ public final class Loader extends JavaPlugin {
     public HeaderFooterLegacy tablistLegacy;
     public Kits kits;
     public KitsManager kitsManager;
+    public ForcedRespawn forcedRespawn;
     public Tablist tablist;
     public PlayerVectors playerVectors;
 
@@ -72,15 +71,32 @@ public final class Loader extends JavaPlugin {
       
         settings.setup(this);
         EventListener.registerListeners(this);
+
+        if (getVersion() > 9){
+            EventListener.registerListenerExact(this, PlayerAnimations.class); // 1.20 Hit Fix
+
+            playerAnimations = new PlayerAnimations(this);
+            playerAnimations.setHitDelay("1.8");
+
+            Bukkit.getScheduler().scheduleSyncDelayedTask(this, () ->  Bukkit.dispatchCommand(Bukkit.getConsoleSender(), "gamerule doImmediateRespawn"), 2L);
+        }
+        else {
+            titleLegacy = new TitleLegacy(this);
+            actionBarLegacy = new ActionBarLegacy(this);
+            tablistLegacy = new HeaderFooterLegacy(this);
+        }
       
         kits = new Kits(this);
         kitsManager = new KitsManager(this);
+        privateChests = new PrivateChests(this);
         
         playerManager = new PlayerManager(this);
         playerBoardManager = new PlayerBoardManager(this);
         
         leaderboards = new Leaderboards(this);
         hologramsTask = new HologramsTask(this);
+        spawnTask = new SpawnTask(this);
+        gangsTask = new GangsTask(this);
 
         tagsManager = new TagsManager(this);
         gangsManager = new GangsManager(this);
@@ -101,25 +117,21 @@ public final class Loader extends JavaPlugin {
       //--------------------------------------------------------------\\
         /* Addons */
       
-        playerAnimations = new PlayerAnimations(this);
         playerVectors = new PlayerVectors(this);
-      
-        tablist = new Tablist(this);
         playerBoard = new PlayerBoard(this);
-        titleLegacy = new TitleLegacy(this);
-        actionBarLegacy = new ActionBarLegacy(this);
+        forcedRespawn = new ForcedRespawn(this);
 
-        PlayerAnimations.playerHit = "1.8.9";
-      
-        spawnManager.startdoDaylightCycle();
-        spawnManager.startDownFallControl();
 
         Thread dThread = new Thread(() -> hologramsTask.chekear_holograms("deaths"));
 
         Thread kThread = new Thread(() -> hologramsTask.chekear_holograms("kills"));
 
         Thread sThread = new Thread(() -> hologramsTask.chekear_holograms("soldi"));
-
+        
+        spawnTask.startdoDaylightCycle();
+        spawnTask.startDownFallControl();
+        gangsTask.gangs_task();
+        
         dThread.start();
         kThread.start();
         sThread.start();
@@ -147,7 +159,6 @@ public final class Loader extends JavaPlugin {
         
       if (Bukkit.getServer().getOnlinePlayers().size() == 0) return;
             online.forEach(playerBoard::sendScoreboard);
-    }
       
     }
 
