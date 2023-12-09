@@ -84,6 +84,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### Le hit possono essere cambiate, io le ho divise in 3 modi, **SLOWNESS**, **NORMAL** e **COMBO**.
   ### A un certo punto, mentre cambiavo versione da 1.20 a 1.8, quando le hit del kit erano attive, sembravano quelle hit normali della 1.8, poi é da decidere e modificare in caso non sia quella giusta di configurazione. In ogni caso, é pensata per fare CPS (Click per second).
   - ![hitfixñ](https://github.com/Lewysan/Minecraft_Development/assets/70720366/1748c2a2-830f-466f-a31f-377b9bd41026)
+  - ![Hits](https://github.com/Lewysan/Minecraft_Development/assets/70720366/166f3a3f-51b3-47a6-b90b-6018a068cb06)
   ### [✅] Vettori utili per certi oggetti con i quali i giocatori potrebbero interagire.
   ### [✅] Smooth AutoRespawn.
 # 🧪 Addons
