@@ -26,7 +26,6 @@ import net.stellarcraft.kitpvp.providers.DataProvider;
 import net.stellarcraft.kitpvp.scoreboard.PlayerBoardManager;
 import net.stellarcraft.kitpvp.tags.TagsManager;
 import net.stellarcraft.kitpvp.utilities.StellarSource;
-import net.stellarcraft.kitpvp.objects.Tablist;
 import net.stellarcraft.kitpvp.utilities.player.PlayerVectors;
 import java.util.List;
 
@@ -57,7 +56,6 @@ public final class Loader extends JavaPlugin {
     public Kits kits;
     public KitsManager kitsManager;
     public ForcedRespawn forcedRespawn;
-    public Tablist tablist;
     public PlayerVectors playerVectors;
 
     public static DataProvider settings = DataProvider.getInstance();
