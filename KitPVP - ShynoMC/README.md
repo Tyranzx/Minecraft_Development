@@ -71,6 +71,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### [✅] Private chests.
   ### [✅] Cestino tattico.
   - ![TrashCest](https://github.com/Lewysan/Minecraft_Development/assets/70720366/fa233c2f-3196-4c05-ac6c-1944edeb77c7)
+  - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/92d32cd2-0642-4e63-b2ed-68a5648fa2a2)
 # ⚔️ Combattimento Tattico
   ### [✅] Ho implementato il **CombatLog**, impedendo i giocatori di uscire durante il combattimento e richiedendo un tempo di attesa di 15 secondi. La punizione é un'elliminazione completa del giocatore.
   ### La scoreboard aggiungerá un'etichetta per sapere quando finirá il tempo di pvp attuale, quando arriva a 0, il giocatore sará avvertito in chat.
