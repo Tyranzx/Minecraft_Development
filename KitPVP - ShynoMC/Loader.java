@@ -117,11 +117,11 @@ public final class Loader extends JavaPlugin {
         forcedRespawn = new ForcedRespawn(this);
 
 
-        Thread dThread = new Thread(() -> hologramsTask.chekear_holograms("deaths"));
+        Thread dThread = new Thread(() -> hologramsTask.chekear_hologramas("deaths"));
 
-        Thread kThread = new Thread(() -> hologramsTask.chekear_holograms("kills"));
+        Thread kThread = new Thread(() -> hologramsTask.chekear_hologramas("kills"));
 
-        Thread sThread = new Thread(() -> hologramsTask.chekear_holograms("soldi"));
+        Thread sThread = new Thread(() -> hologramsTask.chekear_hologramas("soldi"));
         
         spawnTask.startdoDaylightCycle();
         spawnTask.startDownFallControl();
