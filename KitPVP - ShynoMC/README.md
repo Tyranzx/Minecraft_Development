@@ -23,7 +23,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 
 - KitPVP:
 	- Logo: 
-  		- ![LogocXD](https://github.com/Lewysan/Minecraft_Development/assets/70720366/7b8d443c-c556-465f-b7d3-d16aa76ef11a)
+  		- ![ConsoleOut](https://github.com/Lewysan/Minecraft_Development/assets/70720366/1053a0f9-6e24-4bde-8b2e-e886a8b3fb61)
 
 # Caratteristiche Dettagliate:
 
