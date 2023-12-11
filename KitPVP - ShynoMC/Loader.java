@@ -107,9 +107,6 @@ public final class Loader extends JavaPlugin {
         defaultCommands = new DefaultCommands(this);
         personalComands = new PersonalCommands(this);
         advancedCommands = new AdvancedCommands(this);
-
-        defaultGangCommands = new DefaultGangCommands(this);
-        personalGangCommands = new PersonalGangCommands(this);
       
         /* Commands */
       //--------------------------------------------------------------\\
