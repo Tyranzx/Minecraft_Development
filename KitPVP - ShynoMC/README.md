@@ -70,8 +70,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   - ![itemsac](https://github.com/Lewysan/Minecraft_Development/assets/70720366/e790c038-ac70-4227-acd2-da946a73ce89)
   ### [✅] Private chests.
   ### [✅] Cestino tattico.
-  - ![TrashCest](https://github.com/Lewysan/Minecraft_Development/assets/70720366/fa233c2f-3196-4c05-ac6c-1944edeb77c7)
-  - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/92d32cd2-0642-4e63-b2ed-68a5648fa2a2)
+  - ![cestino](https://github.com/Lewysan/Minecraft_Development/assets/70720366/10f2a146-c27c-4aa3-8ea4-cce2df4dcb9a)
 # ⚔️ Combattimento Tattico
   ### [✅] Ho implementato il **CombatLog**, impedendo i giocatori di uscire durante il combattimento e richiedendo un tempo di attesa di 15 secondi. La punizione é un'elliminazione completa del giocatore.
   ### La scoreboard aggiungerá un'etichetta per sapere quando finirá il tempo di pvp attuale, quando arriva a 0, il giocatore sará avvertito in chat.
@@ -92,6 +91,9 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### [✅] Bossbar principale custom | Devo ancora fare quello per le versioni Legacy.
   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/a666e00e-a030-4f1a-b93d-b94b200a8a52)
   ### [✅] Jumppads
+  ### [✅] Due formati per identificare i soldi
+  - ![FormatoOne](https://github.com/Lewysan/Minecraft_Development/assets/70720366/7bd6ce05-efbb-4917-a08b-e924fd0e148c)
+  - ![FormatoCLassico](https://github.com/Lewysan/Minecraft_Development/assets/70720366/490a0e92-6caa-4d37-a5f0-f2ea12db68ea)
 # 👥 Gangs
    ### [✅] Entra nel mondo sociale del PvP con le gang. Collabora con altri giocatori, forma alleanze strategiche e conquista insieme la battaglia. State attenti, non sempre puoi fidarti di chi hai avanti!
    ### Stessa cosa dei tags qui, i tags rappresenteranno la tua gang come prefix in questo caso. É importante menzionare che solo si puó essere membro di una gang. Pensiamola cosi: che senso ha essere membro di vari gruppi in cui non sei sicuro di dove andrai a finire? di chi sará il colpevole della tua morte?
