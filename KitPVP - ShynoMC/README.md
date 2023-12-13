@@ -92,13 +92,15 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/a666e00e-a030-4f1a-b93d-b94b200a8a52)
   ### [✅] Jumppads
   ### [✅] Due formati per identificare i soldi
-  - ![FormatoOne](https://github.com/Lewysan/Minecraft_Development/assets/70720366/7bd6ce05-efbb-4917-a08b-e924fd0e148c)
   - ![FormatoCLassico](https://github.com/Lewysan/Minecraft_Development/assets/70720366/490a0e92-6caa-4d37-a5f0-f2ea12db68ea)
+  - ![FormatoOne](https://github.com/Lewysan/Minecraft_Development/assets/70720366/7bd6ce05-efbb-4917-a08b-e924fd0e148c)
 # 👥 Gangs
    ### [✅] Entra nel mondo sociale del PvP con le gang. Collabora con altri giocatori, forma alleanze strategiche e conquista insieme la battaglia. State attenti, non sempre puoi fidarti di chi hai avanti!
    ### Stessa cosa dei tags qui, i tags rappresenteranno la tua gang come prefix in questo caso. É importante menzionare che solo si puó essere membro di una gang. Pensiamola cosi: che senso ha essere membro di vari gruppi in cui non sei sicuro di dove andrai a finire? di chi sará il colpevole della tua morte?
    - ![GangsX](https://github.com/Lewysan/Minecraft_Development/assets/70720366/5129c92a-f787-42e3-b9b6-472a839011a4)
    - ![BossbarS](https://github.com/Lewysan/Minecraft_Development/assets/70720366/34761c0e-adfb-44a0-9c4d-229a89b11164)
+   ### Per creare una gang, é richiesto un minimo di 50,000$
+   - ![GangsPrize](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f463c500-404b-4b50-9553-0ac777367b61)
 # 🔄 Compatibilitá Estesa
    ### [✅] Goditi l'esperienza giocando in diverse versioni **(tra 1.8 e 1.20)** e sperimenta il nostro impegno per rendere il KitPVP accessibile ad un'ampia comunità di giocatori. Sono stati aggiunti complementi **Legacy (< 1.13)** a proposito.
 # 🚀 Personalizzazione
