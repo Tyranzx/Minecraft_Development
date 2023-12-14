@@ -93,7 +93,9 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/a666e00e-a030-4f1a-b93d-b94b200a8a52)
   ### [✅] Jumppads
   ### [✅] Due formati per identificare i soldi
+  #### Quantitá completa + separazione per virgolette 
   - ![FormatoCLassico](https://github.com/Lewysan/Minecraft_Development/assets/70720366/490a0e92-6caa-4d37-a5f0-f2ea12db68ea)
+  #### Quantitá incompleta + separazione per punti + M/K 
   - ![FormatoOne](https://github.com/Lewysan/Minecraft_Development/assets/70720366/7bd6ce05-efbb-4917-a08b-e924fd0e148c)
 # 👥 Gangs
    ### [✅] Entra nel mondo sociale del PvP con le gang. Collabora con altri giocatori, forma alleanze strategiche e conquista insieme la battaglia. State attenti, non sempre puoi fidarti di chi hai avanti!
