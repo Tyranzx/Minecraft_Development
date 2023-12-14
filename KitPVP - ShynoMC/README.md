@@ -61,6 +61,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### [✅] Shop: pozioni, libri, generali
   - ![AgregarEscreita](https://github.com/Lewysan/Minecraft_Development/assets/70720366/e1affae2-7026-469a-b4a8-93655c0c4868)
   - ![XD](https://github.com/Lewysan/Minecraft_Development/assets/70720366/5ec4f7fb-f51d-4d28-985c-d11c38c06250)
+  - ![Generali](https://github.com/Lewysan/Minecraft_Development/assets/70720366/907e5a83-9961-42f2-8b3f-76cc53d84b61)
   ### [✅] E le aste... non so, c'é qualcosa che vorresti vendere? Ti mancano dei soldi per prendere qualcosa dallo shop? Utilizza le **Aste** per vendere i tuoi oggetti e guardagnare soldi! :D.
   ### Aste organizzate in modo da rendere sicuro l'acquisto e transazione di soldi di tutti gli oggetti presenti in questo menu.
   - ![xdxadc3w](https://github.com/Lewysan/Minecraft_Development/assets/70720366/473f569d-47b1-46ed-a165-7d6915e764d5)
