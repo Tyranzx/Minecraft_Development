@@ -128,10 +128,13 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 				- CombatLog
 				- Shop [Pozioni, item generali, libri]
 				- Gangs + Tags
-				- 1.20 Hit fix
+				- 1.20 Hit fix + Hit Manager
 				- Jumppads
 				- Smooth autoRespawn
 				- Optional legacy addons
 				- Bossbar
+				- Private Chests
+				- No additional plugins, completely custom kitpvp core. 
+    
 
 us@stellarsquad - xJess
