@@ -75,6 +75,8 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### [✅] Puoi pure acquistare gli oggetti giá venduti da altri giocatori.
   - ![itemsac](https://github.com/Lewysan/Minecraft_Development/assets/70720366/e790c038-ac70-4227-acd2-da946a73ce89)
   ### [✅] Private chests.
+  ### [✅] Ender chests
+  - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/af31ee20-f3e0-42ca-ac56-41201f4d48c1)
   ### [✅] Cestino tattico.
   - ![cestino](https://github.com/Lewysan/Minecraft_Development/assets/70720366/10f2a146-c27c-4aa3-8ea4-cce2df4dcb9a)
 # ⚔️ Combattimento Tattico
@@ -85,7 +87,8 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### [✅] Le **Taglie** sono importanti, diventa il piú forte del server uccidendo tutti e raggiungendo una taglia pesante.
   ### Le taglie vengono rappresentate con i tags, questi diversi dagli altri, messo come suffix e con scritta la ricompensa per colui che riesce ad uccidere il giocatore di "x" taglia.
   - ![Tagliaaa](https://github.com/Lewysan/Minecraft_Development/assets/70720366/7bc1dfe8-d6f7-4c94-a1be-99c5f1af9d94)
-# 🛠 Fix
+# 🛠 Fix![Uploading image.png…]()
+
   ### [✅] Hit 1.20.
   ### Le hit possono essere cambiate, io le ho divise in 3 modi, **SLOWNESS**, **NORMAL** e **COMBO**.
   ### A un certo punto, mentre cambiavo versione da 1.20 a 1.8, quando le hit del kit erano attive, sembravano quelle hit normali della 1.8, poi é da decidere e modificare in caso non sia quella giusta di configurazione. In ogni caso, é pensata per fare CPS (Click per second).
