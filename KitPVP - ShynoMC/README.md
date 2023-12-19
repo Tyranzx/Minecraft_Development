@@ -50,7 +50,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### Per la **Tablist** invece, sono state utilizzate tecniche di costruzione di ogni singolo carattere che non sará per niente un problema di ottimizzazione.
   - ![Tablist](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f50ce6ae-00d0-4a42-a6a7-cc2509b0bf74)
 # 📦 Crates e Ricompense
-  ### [✅] Oggetti random? (Tra poco posteró degli screenshot, pazienza :D)
+  ### [✅] Oggetti random?
   - ![Crates](https://github.com/Lewysan/Minecraft_Development/assets/70720366/a1acb9d6-e583-4e16-ae32-65d57dc50354)
   - ![Keys](https://github.com/Lewysan/Minecraft_Development/assets/70720366/8b99819e-d5e7-4550-a62e-1e94514b7f23)
 # 🏆 Classifiche e Streak
