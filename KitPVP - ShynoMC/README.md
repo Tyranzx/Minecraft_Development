@@ -95,7 +95,8 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 # 🧪 Addons
   ### [✅] Bossbar principale custom | Devo ancora fare quello per le versioni Legacy.
   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/a666e00e-a030-4f1a-b93d-b94b200a8a52)
-  ### [✅] Jumppads
+  ### [✅] Jumppads 
+  - ![2023-12-18 19-44-36](https://github.com/Lewysan/Minecraft_Development/assets/70720366/4ef5d4d1-16ab-410a-9374-84d920533ff1)
   ### [✅] Due formati per identificare i soldi
   #### Quantitá completa + separazione per virgolette 
   - ![FormatoCLassico](https://github.com/Lewysan/Minecraft_Development/assets/70720366/490a0e92-6caa-4d37-a5f0-f2ea12db68ea)
