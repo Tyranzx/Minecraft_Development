@@ -64,8 +64,6 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 # 🛍️ Negozio, aste e altri menu
   ### [✅] Shop: pozioni, libri, generali
   - ![AgregarEscreita](https://github.com/Lewysan/Minecraft_Development/assets/70720366/e1affae2-7026-469a-b4a8-93655c0c4868)
-  - ![XD](https://github.com/Lewysan/Minecraft_Development/assets/70720366/5ec4f7fb-f51d-4d28-985c-d11c38c06250)
-  - ![Generali](https://github.com/Lewysan/Minecraft_Development/assets/70720366/907e5a83-9961-42f2-8b3f-76cc53d84b61)
   - ![shop](https://github.com/Lewysan/Minecraft_Development/assets/70720366/980d8f75-60cd-428a-8bac-07b3ce423230)
   - ![Special shop](https://github.com/Lewysan/Minecraft_Development/assets/70720366/70df7a20-121f-45bd-b899-f3fdf6c5d10c)
   ### [✅] E le aste... non so, c'é qualcosa che vorresti vendere? Ti mancano dei soldi per prendere qualcosa dallo shop? Utilizza le **Aste** per vendere i tuoi oggetti e guardagnare soldi! :D.
