@@ -46,10 +46,13 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### Scoreboard fatto con strumenti utili e ottimi per rendere il server piu ottimizzato possibile e rendere la esperienza del giocatore comoda.
   - ![2023-12-18 19-33-06](https://github.com/Lewysan/Minecraft_Development/assets/70720366/e30992dc-7dd6-4654-8e13-782cab9e4433)
   - ![scoreboard](https://github.com/Lewysan/Minecraft_Development/assets/70720366/523639c1-5347-46d5-9c1b-d11bce35b85c)
+  - ![taablist](https://github.com/Lewysan/Minecraft_Development/assets/70720366/2c0a989b-2f5e-4b33-b4a2-ef1683cf4fba)
   ### Per la **Tablist** invece, sono state utilizzate tecniche di costruzione di ogni singolo carattere che non sará per niente un problema di ottimizzazione.
   - ![Tablist](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f50ce6ae-00d0-4a42-a6a7-cc2509b0bf74)
 # 📦 Crates e Ricompense
   ### [✅] Oggetti random? (Tra poco posteró degli screenshot, pazienza :D)
+  - ![Crates](https://github.com/Lewysan/Minecraft_Development/assets/70720366/a1acb9d6-e583-4e16-ae32-65d57dc50354)
+  - ![Keys](https://github.com/Lewysan/Minecraft_Development/assets/70720366/8b99819e-d5e7-4550-a62e-1e94514b7f23)
 # 🏆 Classifiche e Streak
   ### [✅] Le vostre abilitá saranno riconosciute e rappresentate a tutti in diverse leaderboard - **Top uccisioni, morti, soldi, kdr, ecc**.
   ### **Ripeto un'informazione importante:** Questo mio progetto come tutti gli altri, non é compromesso con plugin di terzi, il plugin é unico e **NON** dipende da altri plugin.
@@ -63,6 +66,8 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   - ![AgregarEscreita](https://github.com/Lewysan/Minecraft_Development/assets/70720366/e1affae2-7026-469a-b4a8-93655c0c4868)
   - ![XD](https://github.com/Lewysan/Minecraft_Development/assets/70720366/5ec4f7fb-f51d-4d28-985c-d11c38c06250)
   - ![Generali](https://github.com/Lewysan/Minecraft_Development/assets/70720366/907e5a83-9961-42f2-8b3f-76cc53d84b61)
+  - ![shop](https://github.com/Lewysan/Minecraft_Development/assets/70720366/980d8f75-60cd-428a-8bac-07b3ce423230)
+  - ![Special shop](https://github.com/Lewysan/Minecraft_Development/assets/70720366/70df7a20-121f-45bd-b899-f3fdf6c5d10c)
   ### [✅] E le aste... non so, c'é qualcosa che vorresti vendere? Ti mancano dei soldi per prendere qualcosa dallo shop? Utilizza le **Aste** per vendere i tuoi oggetti e guardagnare soldi! :D.
   ### Aste organizzate in modo da rendere sicuro l'acquisto e transazione di soldi di tutti gli oggetti presenti in questo menu.
   - ![xdxadc3w](https://github.com/Lewysan/Minecraft_Development/assets/70720366/473f569d-47b1-46ed-a165-7d6915e764d5)
