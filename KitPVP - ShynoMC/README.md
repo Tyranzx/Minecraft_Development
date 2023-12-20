@@ -52,7 +52,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   - ![Tablist](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f50ce6ae-00d0-4a42-a6a7-cc2509b0bf74)
 # 📦 Crates e Ricompense
   ### [✅] Oggetti random?
-  - ![Crates](https://github.com/Lewysan/Minecraft_Development/assets/70720366/a1acb9d6-e583-4e16-ae32-65d57dc50354)
+  - ![2023-12-20_00 24 18](https://github.com/Lewysan/Minecraft_Development/assets/70720366/69c3bf5c-88a7-44f8-89d9-3da441fb7eba)
   - ![Keys](https://github.com/Lewysan/Minecraft_Development/assets/70720366/8b99819e-d5e7-4550-a62e-1e94514b7f23)
 # 🏆 Classifiche e Streak
   ### [✅] Le vostre abilitá saranno riconosciute e rappresentate a tutti in diverse leaderboard - **Top uccisioni, morti, soldi, kdr, ecc**.
@@ -87,8 +87,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### [✅] Le **Taglie** sono importanti, diventa il piú forte del server uccidendo tutti e raggiungendo una taglia pesante.
   ### Le taglie vengono rappresentate con i tags, questi diversi dagli altri, messo come suffix e con scritta la ricompensa per colui che riesce ad uccidere il giocatore di "x" taglia.
   - ![Tagliaaa](https://github.com/Lewysan/Minecraft_Development/assets/70720366/7bc1dfe8-d6f7-4c94-a1be-99c5f1af9d94)
-# 🛠 Fix![Uploading image.png…]()
-
+# 🛠 Fix
   ### [✅] Hit 1.20.
   ### Le hit possono essere cambiate, io le ho divise in 3 modi, **SLOWNESS**, **NORMAL** e **COMBO**.
   ### A un certo punto, mentre cambiavo versione da 1.20 a 1.8, quando le hit del kit erano attive, sembravano quelle hit normali della 1.8, poi é da decidere e modificare in caso non sia quella giusta di configurazione. In ogni caso, é pensata per fare CPS (Click per second).
