@@ -5,7 +5,7 @@
 Concludendo un intenso periodo di sviluppo, sono ansiosa ma sopratutto contenta di presentarvi un mio progetto speciale di kitpvp per rendere l'esperienza di combattimento unica e coinvolgente wazaaaaa 👻👻👻👻.
 
 
-## [**⚠ IMPORTANTE ⚠**] Non é ancora disponibile su ShynoMC e, evidentemente, é da dire che ho le sufficienti prove veridiche per dimostrare la creazione di questo plugin, che é stato fatto da zero e che ogni singolo successo del plugin é stato registrato/fatto screenshot. StellarSquad possiede una copia del source code in caso venga perso inutilmente.
+## [**⚠ IMPORTANTE ⚠**] Non é ancora disponibile su ShynoMC e, evidentemente, é da dire che ho le sufficienti prove veridiche per dimostrare la creazione di questo plugin, che é stato fatto da zero e che ogni singolo successo e dettaglio del plugin é stato registrato/fatto screenshot e fatto da me in compagnia della mia gente. A propoisito, ringrazio StellarSquad che possiede una copia del source code in caso venga perso inutilmente.
 
 
 Ringrazio **ShynoMC** per darmi l'opportunitá di dare il mio massimo di conoscenze ed imparare un sacco di cose durante sto percorso di creazione del plugin.
