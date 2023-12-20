@@ -1,4 +1,4 @@
-# [⚔] KitPVP
+![Smooth autorespawn](https://github.com/Lewysan/Minecraft_Development/assets/70720366/ba4d3aee-4d1e-4817-9655-3acb1d6b5a33)# [⚔] KitPVP
 		by xJess - Contributors: StellarSquad 🎲 | 1.8 - 1.20 
   	      SpigotMC: https://www.spigotmc.org/members/jessia.1858326/
     
@@ -95,6 +95,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   - ![Hits](https://github.com/Lewysan/Minecraft_Development/assets/70720366/166f3a3f-51b3-47a6-b90b-6018a068cb06)
   ### [✅] Vettori utili e construiti bene per la grappling hook.
   ### [✅] Smooth AutoRespawn.
+  - ![Smooth autorespawn](https://github.com/Lewysan/Minecraft_Development/assets/70720366/ca4aec81-a66c-403c-a6e8-ee465f96dd47)
 # 🧪 Addons
   ### [✅] Bossbar principale custom | Devo ancora fare quello per le versioni Legacy.
   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/a666e00e-a030-4f1a-b93d-b94b200a8a52)
