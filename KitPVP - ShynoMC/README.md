@@ -1,4 +1,4 @@
-![2023-12-21 12-20-51](https://github.com/Lewysan/Minecraft_Development/assets/70720366/508524c3-ddce-44cc-924f-c34dbb2dc4c6)![2023-12-21 12-20-51](https://github.com/Lewysan/Minecraft_Development/assets/70720366/c6c0b852-d7a0-4cf3-a72e-050d534c72d2)# [⚔] KitPVP
+# [⚔] KitPVP
 		by xJess - Contributors: StellarSquad 🎲 | 1.8 - 1.20 
   	      SpigotMC: https://www.spigotmc.org/members/jessia.1858326/
     
