@@ -110,6 +110,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
    ### [✅] Entra nel mondo sociale del PvP con le gang. Collabora con altri giocatori, forma alleanze strategiche e conquista insieme la battaglia. State attenti, non sempre puoi fidarti di chi hai avanti!
    ### Stessa cosa dei tags qui, i tags rappresenteranno la tua gang come prefix in questo caso. É importante menzionare che solo si puó essere membro di una gang. Pensiamola cosi: che senso ha essere membro di vari gruppi in cui non sei sicuro di dove andrai a finire? di chi sará il colpevole della tua morte?
    - ![GangsX](https://github.com/Lewysan/Minecraft_Development/assets/70720366/5129c92a-f787-42e3-b9b6-472a839011a4)
+   - ![2023-12-20 16-12-18](https://github.com/Lewysan/Minecraft_Development/assets/70720366/1a2b5132-a530-485d-87c0-4a47e5bf5b05)
    - ![BossbarS](https://github.com/Lewysan/Minecraft_Development/assets/70720366/34761c0e-adfb-44a0-9c4d-229a89b11164)
    ### Per creare una gang, é richiesto un minimo di 50,000$
    - ![GangsPrize](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f463c500-404b-4b50-9553-0ac777367b61)
