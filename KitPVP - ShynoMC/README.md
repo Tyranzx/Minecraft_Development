@@ -1,4 +1,4 @@
-![Smooth autorespawn](https://github.com/Lewysan/Minecraft_Development/assets/70720366/ba4d3aee-4d1e-4817-9655-3acb1d6b5a33)# [⚔] KitPVP
+![2023-12-21 12-20-51](https://github.com/Lewysan/Minecraft_Development/assets/70720366/508524c3-ddce-44cc-924f-c34dbb2dc4c6)![2023-12-21 12-20-51](https://github.com/Lewysan/Minecraft_Development/assets/70720366/c6c0b852-d7a0-4cf3-a72e-050d534c72d2)# [⚔] KitPVP
 		by xJess - Contributors: StellarSquad 🎲 | 1.8 - 1.20 
   	      SpigotMC: https://www.spigotmc.org/members/jessia.1858326/
     
@@ -51,9 +51,12 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### Per la **Tablist** invece, sono state utilizzate tecniche di costruzione di ogni singolo carattere che non sará per niente un problema di ottimizzazione.
   - ![Tablist](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f50ce6ae-00d0-4a42-a6a7-cc2509b0bf74)
 # 📦 Crates e Ricompense
-  ### [✅] Oggetti random?
+  ### [✅] Apri una crate utilizzando la sua chiave corrispettiva. Le crates, una volta aperte, ti sceglieranno aleatoriamente un unico item appartenente a un gruppo di oggetti utilizzati come premio per i giocatori!
+  ### Gruppo di oggetti che possono essere visualizzati facendo click sinistro.
+  ### Col click destro succedono questo: Se non hai nessuna chiave, o se hai una chiave falsa senza un codice identificatore, o la chiave non corrisponde alla crate interagita, non potrai aprire nessuna crate.
   - ![2023-12-20_00 24 18](https://github.com/Lewysan/Minecraft_Development/assets/70720366/69c3bf5c-88a7-44f8-89d9-3da441fb7eba)
   - ![Keys](https://github.com/Lewysan/Minecraft_Development/assets/70720366/8b99819e-d5e7-4550-a62e-1e94514b7f23)
+  - ![2023-12-21 12-20-51](https://github.com/Lewysan/Minecraft_Development/assets/70720366/bfea329d-e175-4bf9-b1ba-a1b5e513ae68)
 # 🏆 Classifiche e Streak
   ### [✅] Le vostre abilitá saranno riconosciute e rappresentate a tutti in diverse leaderboard - **Top uccisioni, morti, soldi, kdr, ecc**.
   ### **Ripeto un'informazione importante:** Questo mio progetto come tutti gli altri, non é compromesso con plugin di terzi, il plugin é unico e **NON** dipende da altri plugin.
