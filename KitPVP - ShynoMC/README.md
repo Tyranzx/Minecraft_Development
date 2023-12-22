@@ -119,8 +119,10 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
    - ![BossbarS](https://github.com/Lewysan/Minecraft_Development/assets/70720366/34761c0e-adfb-44a0-9c4d-229a89b11164)
    ### Per creare una gang, é richiesto un minimo di 50,000$
    - ![GangsPrize](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f463c500-404b-4b50-9553-0ac777367b61)
-# 🔄 Compatibilitá Estesa
+# 🔄 Compatibilitá Estesa & Compatibilitá
    ### [✅] Goditi l'esperienza giocando in diverse versioni **(tra 1.8 e 1.20)** e sperimenta il nostro impegno per rendere il KitPVP accessibile ad un'ampia comunità di giocatori. Sono stati aggiunti complementi **Legacy (< 1.13)** a proposito.
+   ### [✅] Sincronizzazione con LuckPerms
+   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/45d9a693-3997-42f3-bb9f-59aeb7653e18)
 # 🚀 Personalizzazione
    ### [✅] L'idea di questo KitPVP é stata renderlo il più custom possibile, evitando l'uso di plugin di terze e offrendo un'esperienza unica di pvp per gli utenti :D.
 # 🌟 Ringraziamenti e Invito
@@ -150,6 +152,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 				- Bossbar
 				- Private Chests
 				- No additional plugins, completely custom kitpvp core. 
+				- API di LuckPerms per sincronizzazione della chat (Solo questo al momento) 
     
 
 us@stellarsquad - xJess
