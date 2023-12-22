@@ -87,6 +87,8 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### La scoreboard aggiungerá un'etichetta per sapere quando finirá il tempo di pvp attuale, quando arriva a 0, il giocatore sará avvertito in chat.
   - ![combact](https://github.com/Lewysan/Minecraft_Development/assets/70720366/afc3c498-3faf-43f3-9a15-ea02ba8b7543)
   - ![nomore](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f113c097-c60b-459a-88cb-caa4bc963daa)
+  - ![1](https://github.com/Lewysan/Minecraft_Development/assets/70720366/4afc0c8c-9a3b-4b5d-bb98-d50c222a7076)
+  - ![2](https://github.com/Lewysan/Minecraft_Development/assets/70720366/2791a9bc-6aaf-4210-85ba-031e35baa92d)
   ### [✅] Le **Taglie** sono importanti, diventa il piú forte del server uccidendo tutti e raggiungendo una taglia pesante.
   ### Le taglie vengono rappresentate con i tags, questi diversi dagli altri, messo come suffix e con scritta la ricompensa per colui che riesce ad uccidere il giocatore di "x" taglia.
   - ![Tagliaaa](https://github.com/Lewysan/Minecraft_Development/assets/70720366/7bc1dfe8-d6f7-4c94-a1be-99c5f1af9d94)
