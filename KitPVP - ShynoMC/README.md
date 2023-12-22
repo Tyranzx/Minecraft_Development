@@ -123,6 +123,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
    ### [✅] Goditi l'esperienza giocando in diverse versioni **(tra 1.8 e 1.20)** e sperimenta il nostro impegno per rendere il KitPVP accessibile ad un'ampia comunità di giocatori. Sono stati aggiunti complementi **Legacy (< 1.13)** a proposito.
    ### [✅] Sincronizzazione con LuckPerms
    - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/45d9a693-3997-42f3-bb9f-59aeb7653e18)
+   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/c532c66c-2d65-4dca-9fbb-7fedb780c5ce)
 # 🚀 Personalizzazione
    ### [✅] L'idea di questo KitPVP é stata renderlo il più custom possibile, evitando l'uso di plugin di terze e offrendo un'esperienza unica di pvp per gli utenti :D.
 # 🌟 Ringraziamenti e Invito
