@@ -65,6 +65,8 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### Per il momento é stata aggiunta solamente una semplice ricarica automatica delle leaderboards, rimandando tutte gli hologram se neccesario. Ho un'idea per renderlo piu ottimizzato in futuro, almeno questo vi posso dire che é l'unica cosa alla quale ho lavorato un sacco e sono riuscita a farlo (La ricarica, non gli hologram) ma non penso sia del tutto ottimizzato, peró fidatevi di me che lo renderó ottimizzato prima o poi.
   ### [✅] Sistema di **Kill Streak** e assistenza. 
   ### Uccidi sempre 10 persone per raggiungere una nuova streak (Alla 10 streak ti sará data una taglia). O aiuti ad uccidere qualcuno e prendi la ricompensa di assistenza.
+  - ![Tags](https://github.com/Lewysan/Minecraft_Development/assets/70720366/5d23b80f-40f0-4a84-ad45-b1ac1c9cec6a)
+  - ![Tags2Taglia](https://github.com/Lewysan/Minecraft_Development/assets/70720366/d162be70-acf7-4581-9d98-e89a6d3cf098)
 # 🛍️ Negozio, aste e altri menu
   ### [✅] Shop: pozioni, libri, generali
   - ![AgregarEscreita](https://github.com/Lewysan/Minecraft_Development/assets/70720366/e1affae2-7026-469a-b4a8-93655c0c4868)
