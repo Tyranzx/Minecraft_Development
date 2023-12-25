@@ -80,10 +80,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### [✅] Puoi pure acquistare gli oggetti giá venduti da altri giocatori.
   - ![itemsac](https://github.com/Lewysan/Minecraft_Development/assets/70720366/e790c038-ac70-4227-acd2-da946a73ce89)
   ### [✅] Vaults.
-  #### É da dire che le private chests si ricaricano in caso il server venga riavviato, quindi gli oggetti sono permanenti.
-  #### Si salvano, non solo gli enchant, ma anche tutta la quantitá solo di certi oggetti, displays, lores, e altre tante proprietá.
-  #### Per esempio, le chiavi per le crates vengono salvate in modo sicuro per evitare chiavi false, ecc.
-  #### Le pozioni, bottiglie di EXP, libri, ecc, si salvano e permanentemente.
+  #### É da dire che le private chests si ricaricano in caso il server venga riavviato, quindi gli oggetti sono permanenti. Si salvano, non solo gli enchant, ma anche tutta la quantitá solo di certi oggetti, displays, lores, e altre tante proprietá. Per esempio, le chiavi per le crates vengono salvate in modo sicuro per evitare chiavi false, ecc. Le pozioni, bottiglie di EXP, libri, ecc, si salvano e permanentemente.
   ### É CONSIGLIABILE NON FIDARSI DEL TUTTO DELLE VAULT, C'É L'ENDERCHEST DEL QUALE POSSIAMO FIDARCI AL 100%.
   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/5603eaf6-573b-477f-ba81-d53ea292b668)
   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/5d7906d1-a2f5-4a6e-8563-d03eb1f057b1)
