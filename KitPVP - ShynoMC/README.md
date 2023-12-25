@@ -102,7 +102,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   - ![Hits](https://github.com/Lewysan/Minecraft_Development/assets/70720366/166f3a3f-51b3-47a6-b90b-6018a068cb06)
   ### [✅] Damage Fix
   ### [✅] Strength Fix
-  ### [✅] Vettori utili e construiti bene per la grappling hook.
+  ### [✅] Grappling hook
   ### [✅] Smooth AutoRespawn.
   - ![Smooth autorespawn](https://github.com/Lewysan/Minecraft_Development/assets/70720366/ca4aec81-a66c-403c-a6e8-ee465f96dd47)
 # 🧪 Addons
