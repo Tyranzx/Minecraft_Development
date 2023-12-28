@@ -153,12 +153,13 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 				- Economy system and player system without Vault
 				- CombatLog
 				- Shop [Pozioni, item generali, libri]
-				- Gangs + Tags
+				- Gangs
 				- 1.20 Hit fix + Hit Manager
 				- Jumppads
 				- Smooth autoRespawn
 				- Optional legacy addons
 				- Bossbar
+				- Meta prefixes & suffixes
 				- Private Chests
 				- No additional plugins, completely custom kitpvp core. 
 				- API di LuckPerms per sincronizzazione della chat (Solo questo al momento) 
