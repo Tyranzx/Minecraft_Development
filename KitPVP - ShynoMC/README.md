@@ -57,6 +57,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   - ![2023-12-20_00 24 18](https://github.com/Lewysan/Minecraft_Development/assets/70720366/69c3bf5c-88a7-44f8-89d9-3da441fb7eba)
   - ![Keys](https://github.com/Lewysan/Minecraft_Development/assets/70720366/8b99819e-d5e7-4550-a62e-1e94514b7f23)
   - ![2023-12-21 12-20-51](https://github.com/Lewysan/Minecraft_Development/assets/70720366/bfea329d-e175-4bf9-b1ba-a1b5e513ae68)
+  - ![2023-12-29 23-42-31](https://github.com/Lewysan/Minecraft_Development/assets/70720366/ff242b8a-fc6c-40ea-864d-1ec38df7fc75)
 # 🏆 Classifiche e Streak
   ### [✅] Le vostre abilitá saranno riconosciute e rappresentate a tutti in diverse leaderboard - **Top uccisioni, morti, soldi, kdr, ecc**.
   ### **Ripeto un'informazione importante:** Questo mio progetto come tutti gli altri, non é compromesso con plugin di terzi, il plugin é unico e **NON** dipende da altri plugin.
