@@ -162,6 +162,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 				- Bossbar
 				- Meta prefixes & suffixes
 				- Private Chests
+				- Trade
 				- No additional plugins, completely custom kitpvp core. 
 				- API di LuckPerms per sincronizzazione della chat (Solo questo al momento) 
     
