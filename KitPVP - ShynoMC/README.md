@@ -29,7 +29,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 
 # 🛡️ Kits organizzati
   ### [✅] Menu di kit separati per rank e permessi, alcuni piu op di altri.
-  -  ![kitspvp](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f43a8eec-76b2-4a0d-bca2-1a6421351d0d)
+  -  ![Kits](https://github.com/Lewysan/Minecraft_Development/assets/70720366/579d0c3c-5ac2-40b3-8f96-94c78858869f)
   -  ![kpvp1](https://github.com/Lewysan/Minecraft_Development/assets/70720366/b3c6d1a5-d7ed-469d-9ba4-535b11d1fe6c)
   -  ![2023-12-18 19-49-57](https://github.com/Lewysan/Minecraft_Development/assets/70720366/27052696-7147-4866-a9a0-12fb9b0b420e)
 # 📊 Sistema di Statistiche
@@ -38,7 +38,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   - ![MoneySystem](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f1217297-83cf-4b09-ade6-0211814e1440)
   ### [✅] Potete vedere le vostre statistiche e quelle altrui.
   - ![State personali](https://github.com/Lewysan/Minecraft_Development/assets/70720366/b286c6b7-35e4-4c5d-96b3-75458cc114c4)
-  - ![Stat di giocatori](https://github.com/Lewysan/Minecraft_Development/assets/70720366/df758555-493e-4e54-ae08-97961eda42ea)
+  - ![Stats](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f38ed9f0-1154-4a18-b8d8-a368090ab863)
 # 🦴 Entitá Interattive
   ### [✅] Ho aggiunto l'opportunitá di aggiungere mob custom da cliccare e successivamente aprire un menu.
   - ![entitiesClickablili](https://github.com/Lewysan/Minecraft_Development/assets/70720366/3e2762d4-b00a-4cb3-b278-2f7b46fb9368)
@@ -47,9 +47,9 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### Scoreboard fatto con strumenti utili e ottimi per rendere il server piu ottimizzato possibile e rendere la esperienza del giocatore comoda.
   - ![2023-12-18 19-33-06](https://github.com/Lewysan/Minecraft_Development/assets/70720366/e30992dc-7dd6-4654-8e13-782cab9e4433)
   - ![scoreboard](https://github.com/Lewysan/Minecraft_Development/assets/70720366/523639c1-5347-46d5-9c1b-d11bce35b85c)
-  - ![taablist](https://github.com/Lewysan/Minecraft_Development/assets/70720366/2c0a989b-2f5e-4b33-b4a2-ef1683cf4fba)
   ### Per la **Tablist** invece, sono state utilizzate tecniche di costruzione di ogni singolo carattere che non sará per niente un problema di ottimizzazione.
   - ![Tablist](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f50ce6ae-00d0-4a42-a6a7-cc2509b0bf74)
+  - ![Tablist](https://github.com/Lewysan/Minecraft_Development/assets/70720366/9eb81e9a-a080-4e95-9673-b48ce56066b0)
 # 📦 Crates e Ricompense
   ### [✅] Apri una crate utilizzando la sua chiave corrispettiva. Le crates, una volta aperte, ti sceglieranno aleatoriamente un unico item appartenente a un gruppo di oggetti utilizzati come premio per i giocatori!
   ### Gruppo di oggetti che possono essere visualizzati facendo click sinistro.
@@ -62,19 +62,20 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### [✅] Le vostre abilitá saranno riconosciute e rappresentate a tutti in diverse leaderboard - **Top uccisioni, morti, soldi, kdr, ecc**.
   ### **Ripeto un'informazione importante:** Questo mio progetto come tutti gli altri, non é compromesso con plugin di terzi, il plugin é unico e **NON** dipende da altri plugin.
   - ![finalLeaderboards](https://github.com/Lewysan/Minecraft_Development/assets/70720366/2bd8d5ad-12d0-414d-b182-cd3fafbe9481)
-  - ![Holograms](https://github.com/Lewysan/Minecraft_Development/assets/70720366/e1b4b610-2deb-413c-b48f-8d9527ab3163)
+  - ![Top](https://github.com/Lewysan/Minecraft_Development/assets/70720366/8779854b-66c9-41ec-8a64-8ef6f2ab32fa)
   ### Per il momento é stata aggiunta solamente una semplice ricarica automatica delle leaderboards, rimandando tutte gli hologram se neccesario. Ho un'idea per renderlo piu ottimizzato in futuro, almeno questo vi posso dire che é l'unica cosa alla quale ho lavorato un sacco e sono riuscita a farlo (La ricarica, non gli hologram) ma non penso sia del tutto ottimizzato, peró fidatevi di me che lo renderó ottimizzato prima o poi.
   ### [✅] Sistema di **Kill Streak** e assistenza. 
   ### Uccidi sempre 10 persone per raggiungere una nuova streak (Alla 10 streak ti sará data una taglia). O aiuti ad uccidere qualcuno e prendi la ricompensa di assistenza.
   - ![Tags](https://github.com/Lewysan/Minecraft_Development/assets/70720366/5d23b80f-40f0-4a84-ad45-b1ac1c9cec6a)
   - ![Tags2Taglia](https://github.com/Lewysan/Minecraft_Development/assets/70720366/d162be70-acf7-4581-9d98-e89a6d3cf098)
+  #### Per quanto riguardano le assistenze, ogni giocatore avrá un gruppo di giocatori, senza contare il proprio assassino, che riceveranno una ricompensa se non superano i 5 minuti dopo aver attaccato il giocatore, ricompensa per aver aiutato ad uccidere "x" giocatore. 
 # 💰 Trade
   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/3bbd604b-e1ce-4b62-9ea2-5c2a8970284b)
 # 🛍️ Negozio, aste e altri menu
-  ### [✅] Shop: pozioni, libri, generali
-  - ![AgregarEscreita](https://github.com/Lewysan/Minecraft_Development/assets/70720366/e1affae2-7026-469a-b4a8-93655c0c4868)
-  - ![shop](https://github.com/Lewysan/Minecraft_Development/assets/70720366/980d8f75-60cd-428a-8bac-07b3ce423230)
-  - ![Special shop](https://github.com/Lewysan/Minecraft_Development/assets/70720366/70df7a20-121f-45bd-b899-f3fdf6c5d10c)
+  ### [✅] Shop di pozioni, libri, generali e speciali
+  - ![Shop](https://github.com/Lewysan/Minecraft_Development/assets/70720366/83c81f5a-8f12-469a-a20a-ad6388d9e427)
+  - ![Shop](https://github.com/Lewysan/Minecraft_Development/assets/70720366/ff3cfc94-f607-4228-8389-cc3cd06d00af)
+
   ### [✅] E le aste... non so, c'é qualcosa che vorresti vendere? Ti mancano dei soldi per prendere qualcosa dallo shop? Utilizza le **Aste** per vendere i tuoi oggetti e guardagnare soldi! :D.
   ### Aste organizzate in modo da rendere sicuro l'acquisto e transazione di soldi di tutti gli oggetti presenti in questo menu.
   - ![xdxadc3w](https://github.com/Lewysan/Minecraft_Development/assets/70720366/473f569d-47b1-46ed-a165-7d6915e764d5)
@@ -99,14 +100,17 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   - ![1](https://github.com/Lewysan/Minecraft_Development/assets/70720366/4afc0c8c-9a3b-4b5d-bb98-d50c222a7076)
   - ![2](https://github.com/Lewysan/Minecraft_Development/assets/70720366/2791a9bc-6aaf-4210-85ba-031e35baa92d)
   ### [✅] Le **Taglie** sono importanti, diventa il piú forte del server uccidendo tutti e raggiungendo una taglia pesante.
-  ### Le taglie vengono rappresentate con i tags, questi diversi dagli altri, messo come suffix e con scritta la ricompensa per colui che riesce ad uccidere il giocatore di "x" taglia.
+  #### Le taglie vengono rappresentate con i tags, questi diversi dagli altri, messo come suffix e con scritta la ricompensa per colui che riesce ad uccidere il giocatore di "x" taglia.
+  #### Le taglie sono infinite, aumentano 800$ ogni 10 kills (KillStreak)
   - ![Tagliaaa](https://github.com/Lewysan/Minecraft_Development/assets/70720366/7bc1dfe8-d6f7-4c94-a1be-99c5f1af9d94)
+  ### [✅] KillStreak
+  - ![KillStreak](https://github.com/Lewysan/Minecraft_Development/assets/70720366/0511befc-8345-4f7c-8174-15d14fd80360)
 # 🛠 Fix
   ### [✅] Hit 1.20.
   ### Le hit possono essere cambiate, io le ho divise in 3 modi, **SLOWNESS**, **NORMAL** e **COMBO**.
   ### A un certo punto, mentre cambiavo versione da 1.20 a 1.8, quando le hit del kit erano attive, sembravano quelle hit normali della 1.8, poi é da decidere e modificare in caso non sia quella giusta di configurazione. In ogni caso, é pensata per fare CPS (Click per second).
   - ![hitfixñ](https://github.com/Lewysan/Minecraft_Development/assets/70720366/1748c2a2-830f-466f-a31f-377b9bd41026)
-  - ![Hits](https://github.com/Lewysan/Minecraft_Development/assets/70720366/166f3a3f-51b3-47a6-b90b-6018a068cb06)
+  - 
   ### [✅] Damage Fix
   ### [✅] Strength Fix
   ### [✅] Grappling hook
@@ -125,9 +129,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 # 👥 Gangs
    ### [✅] Entra nel mondo sociale del PvP con le gang. Collabora con altri giocatori, forma alleanze strategiche e conquista insieme la battaglia. State attenti, non sempre puoi fidarti di chi hai avanti!
    ### Stessa cosa dei tags qui, i tags rappresenteranno la tua gang come prefix in questo caso. É importante menzionare che solo si puó essere membro di una gang. Pensiamola cosi: che senso ha essere membro di vari gruppi in cui non sei sicuro di dove andrai a finire? di chi sará il colpevole della tua morte?
-   - ![GangsX](https://github.com/Lewysan/Minecraft_Development/assets/70720366/5129c92a-f787-42e3-b9b6-472a839011a4)
-   - ![2023-12-20 16-12-18](https://github.com/Lewysan/Minecraft_Development/assets/70720366/1a2b5132-a530-485d-87c0-4a47e5bf5b05)
-   - ![BossbarS](https://github.com/Lewysan/Minecraft_Development/assets/70720366/34761c0e-adfb-44a0-9c4d-229a89b11164)
+   - ![Gangs](https://github.com/Lewysan/Minecraft_Development/assets/70720366/67e51b2b-01f7-4510-b72d-ac69bacdf76f)
    ### Per creare una gang, é richiesto un minimo di 50,000$
    - ![GangsPrize](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f463c500-404b-4b50-9553-0ac777367b61)
 # 🔄 Compatibilitá Estesa & Compatibilitá
@@ -167,6 +169,5 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 				- Trade
 				- No additional plugins, completely custom kitpvp core. 
 				- API di LuckPerms per sincronizzazione della chat (Solo questo al momento) 
-    
 
 us@stellarsquad - xJess
