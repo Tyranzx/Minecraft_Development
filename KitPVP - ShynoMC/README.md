@@ -65,7 +65,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### Uccidi sempre 10 persone per raggiungere una nuova streak (Alla 10 streak ti sará data una taglia). O aiuti ad uccidere qualcuno e prendi la ricompensa di assistenza.
   - ![KillStreak](https://github.com/Lewysan/Minecraft_Development/assets/70720366/0511befc-8345-4f7c-8174-15d14fd80360)
   - ![Tags2Taglia](https://github.com/Lewysan/Minecraft_Development/assets/70720366/d162be70-acf7-4581-9d98-e89a6d3cf098)
-  #### Per quanto riguardano le assistenze, ogni giocatore avrá un gruppo di giocatori, senza contare il proprio assassino, che riceveranno una ricompensa se non superano i 5 minuti dopo aver attaccato il giocatore, ricompensa per aver aiutato ad uccidere "x" giocatore. 
+  ### Per quanto riguardano le assistenze, ogni giocatore avrá un gruppo di giocatori, senza contare il proprio assassino, che riceveranno una ricompensa se non superano i 5 minuti dopo aver attaccato il giocatore, ricompensa per aver aiutato ad uccidere "x" giocatore. 
 # 💰 Trade
   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/3bbd604b-e1ce-4b62-9ea2-5c2a8970284b)
 # 🛍️ Negozio, aste e altri menu
