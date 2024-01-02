@@ -8,7 +8,7 @@ Concludendo un intenso periodo di sviluppo, sono ansiosa ma sopratutto contenta 
 ## [**⚠ IMPORTANTE ⚠**] Non é ancora disponibile su ShynoMC e, evidentemente, é da dire che ho le sufficienti prove veridiche per dimostrare la creazione di questo plugin, che é stato fatto da zero e che ogni singolo successo e dettaglio del plugin é stato registrato/fatto screenshot e fatto da me in compagnia della mia gente. A propoisito, ringrazio StellarSquad che possiede una copia del source code in caso venga perso inutilmente.
 
 
-Ringrazio **ShynoMC** per darmi l'opportunitá di dare il mio massimo di conoscenze ed imparare un sacco di cose durante sto percorso di creazione del plugin.
+## Ringrazio **ShynoMC** per darmi l'opportunitá di dare il mio massimo di conoscenze ed imparare un sacco di cose durante sto percorso di creazione del plugin.
 **Riferenza:**
 https://discord.gg/BHAwgrBAC6
 ![ShynoMC KitPVP](https://github.com/Lewysan/Minecraft_Development/assets/70720366/11019b02-93ad-45f7-afc4-52f6023bc3df)
