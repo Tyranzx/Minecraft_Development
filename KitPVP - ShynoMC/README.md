@@ -22,8 +22,8 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 	⭐ Special mentions: AfreCito,  Warmiz,  SkizZeR,  Dark_Overlord,  NekuSempai,  Joshet18💖
 
 - KitPVP:
-	- Logo: 
-  		- ![ConsoleOut](https://github.com/Lewysan/Minecraft_Development/assets/70720366/1053a0f9-6e24-4bde-8b2e-e886a8b3fb61)
+	- Console out: 
+  		- ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/fd333ae7-c81c-4856-ae10-347dce12c08d)
 
 # Caratteristiche Dettagliate:
 
