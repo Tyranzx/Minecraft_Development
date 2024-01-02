@@ -65,7 +65,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### Per il momento é stata aggiunta solamente una semplice ricarica automatica delle leaderboards, rimandando tutte gli hologram se neccesario. Ho un'idea per renderlo piu ottimizzato in futuro, almeno questo vi posso dire che é l'unica cosa alla quale ho lavorato un sacco e sono riuscita a farlo (La ricarica, non gli hologram) ma non penso sia del tutto ottimizzato, peró fidatevi di me che lo renderó ottimizzato prima o poi.
   ### [✅] Sistema di **Kill Streak** e assistenza. 
   ### Uccidi sempre 10 persone per raggiungere una nuova streak (Alla 10 streak ti sará data una taglia). O aiuti ad uccidere qualcuno e prendi la ricompensa di assistenza.
-  - ![Tags](https://github.com/Lewysan/Minecraft_Development/assets/70720366/5d23b80f-40f0-4a84-ad45-b1ac1c9cec6a)
+  - ![KillStreak](https://github.com/Lewysan/Minecraft_Development/assets/70720366/0511befc-8345-4f7c-8174-15d14fd80360)
   - ![Tags2Taglia](https://github.com/Lewysan/Minecraft_Development/assets/70720366/d162be70-acf7-4581-9d98-e89a6d3cf098)
   #### Per quanto riguardano le assistenze, ogni giocatore avrá un gruppo di giocatori, senza contare il proprio assassino, che riceveranno una ricompensa se non superano i 5 minuti dopo aver attaccato il giocatore, ricompensa per aver aiutato ad uccidere "x" giocatore. 
 # 💰 Trade
@@ -82,7 +82,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### [✅] Puoi pure acquistare gli oggetti giá venduti da altri giocatori.
   - ![itemsac](https://github.com/Lewysan/Minecraft_Development/assets/70720366/e790c038-ac70-4227-acd2-da946a73ce89)
   ### [✅] Vaults.
-  #### É da dire che le private chests si caricano quando il server viene avviato, solo se esistono private chests disponibili, quindi gli oggetti sono permanenti. Si salvano, non solo gli enchant, ma anche tutta la quantitá solo di certi oggetti, displays, lores, e altre tante proprietá. Per esempio, le chiavi per le crates vengono salvate in modo sicuro per evitare chiavi false, ecc. Le pozioni, bottiglie di EXP, libri, ecc, si salvano e permanentemente.
+  #### É da dire che le vaults si caricano quando il server viene avviato, solo se esistono private chests disponibili, quindi gli oggetti sono permanenti. Si salvano, non solo gli enchant, ma anche tutta la quantitá solo di certi oggetti, displays, lores, e altre tante proprietá. Per esempio, le chiavi per le crates vengono salvate in modo sicuro per evitare chiavi false, ecc. Le pozioni, bottiglie di EXP, libri, ecc, si salvano e permanentemente.
   ### É CONSIGLIABILE NON FIDARSI DEL TUTTO DELLE VAULT, C'É L'ENDERCHEST DEL QUALE POSSIAMO FIDARCI AL 100%.
   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/5603eaf6-573b-477f-ba81-d53ea292b668)
   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/5d7906d1-a2f5-4a6e-8563-d03eb1f057b1)
@@ -101,8 +101,6 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   #### Le taglie vengono rappresentate con i tags, questi diversi dagli altri, messo come suffix e con scritta la ricompensa per colui che riesce ad uccidere il giocatore di "x" taglia.
   #### Le taglie sono infinite, aumentano 800$ ogni 10 kills (KillStreak)
   - ![Tagliaaa](https://github.com/Lewysan/Minecraft_Development/assets/70720366/7bc1dfe8-d6f7-4c94-a1be-99c5f1af9d94)
-  ### [✅] KillStreak
-  - ![KillStreak](https://github.com/Lewysan/Minecraft_Development/assets/70720366/0511befc-8345-4f7c-8174-15d14fd80360)
 # 🛠 Fix
   ### [✅] Hit 1.20.
   ### Le hit possono essere cambiate, io le ho divise in 3 modi, **SLOWNESS**, **NORMAL** e **COMBO**.
@@ -126,6 +124,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 # 👥 Gangs
    ### [✅] Entra nel mondo sociale del PvP con le gang. Collabora con altri giocatori, forma alleanze strategiche e conquista insieme la battaglia. State attenti, non sempre puoi fidarti di chi hai avanti!
    ### Stessa cosa dei tags qui, i tags rappresenteranno la tua gang come prefix in questo caso. É importante menzionare che solo si puó essere membro di una gang. Pensiamola cosi: che senso ha essere membro di vari gruppi in cui non sei sicuro di dove andrai a finire? di chi sará il colpevole della tua morte?
+   - ![Tags](https://github.com/Lewysan/Minecraft_Development/assets/70720366/5d23b80f-40f0-4a84-ad45-b1ac1c9cec6a)
    - ![Gangs](https://github.com/Lewysan/Minecraft_Development/assets/70720366/67e51b2b-01f7-4510-b72d-ac69bacdf76f)
    ### Per creare una gang, é richiesto un minimo di 50,000$
    - ![GangsPrize](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f463c500-404b-4b50-9553-0ac777367b61)
