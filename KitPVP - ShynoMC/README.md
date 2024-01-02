@@ -75,7 +75,6 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### [✅] Shop di pozioni, libri, generali e speciali
   - ![Shop](https://github.com/Lewysan/Minecraft_Development/assets/70720366/83c81f5a-8f12-469a-a20a-ad6388d9e427)
   - ![Shop](https://github.com/Lewysan/Minecraft_Development/assets/70720366/ff3cfc94-f607-4228-8389-cc3cd06d00af)
-
   ### [✅] E le aste... non so, c'é qualcosa che vorresti vendere? Ti mancano dei soldi per prendere qualcosa dallo shop? Utilizza le **Aste** per vendere i tuoi oggetti e guardagnare soldi! :D.
   ### Aste organizzate in modo da rendere sicuro l'acquisto e transazione di soldi di tutti gli oggetti presenti in questo menu.
   - ![xdxadc3w](https://github.com/Lewysan/Minecraft_Development/assets/70720366/473f569d-47b1-46ed-a165-7d6915e764d5)
@@ -110,7 +109,6 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### Le hit possono essere cambiate, io le ho divise in 3 modi, **SLOWNESS**, **NORMAL** e **COMBO**.
   ### A un certo punto, mentre cambiavo versione da 1.20 a 1.8, quando le hit del kit erano attive, sembravano quelle hit normali della 1.8, poi é da decidere e modificare in caso non sia quella giusta di configurazione. In ogni caso, é pensata per fare CPS (Click per second).
   - ![hitfixñ](https://github.com/Lewysan/Minecraft_Development/assets/70720366/1748c2a2-830f-466f-a31f-377b9bd41026)
-  - 
   ### [✅] Damage Fix
   ### [✅] Strength Fix
   ### [✅] Grappling hook
