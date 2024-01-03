@@ -107,6 +107,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   #### Le taglie vengono rappresentate con i tags, questi diversi dagli altri, messo come suffix e con scritta la ricompensa per colui che riesce ad uccidere il giocatore di "x" taglia.
   #### Le taglie sono infinite, aumentano 800$ ogni 10 kills (KillStreak)
   - ![Tagliaaa](https://github.com/Lewysan/Minecraft_Development/assets/70720366/7bc1dfe8-d6f7-4c94-a1be-99c5f1af9d94)
+  - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/78b6e05a-020e-408e-8f36-7ed15f6b2bc5)
 # 🛠 Fix
   ### [✅] Hit 1.20.
   ### Le hit sono lavorate, cosi tanto che sembrano quasi quasi quelle **Legacy**, ovviamente con qualche delusione da parte di queste ma non é gravissimo.
