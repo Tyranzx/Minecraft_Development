@@ -71,6 +71,9 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/34400646-d354-497f-9bcc-8fed491ac45d)
   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/9d091cc5-4621-4667-b72e-2c7b3807e516)
   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/e82d5918-8e16-4027-9fca-79f0fe0cd949)
+  ### [✅] Comando /trade [giocatore] o cliccando il giocatore mentre shifti **NON SE SEI IN COMBATTIMENTO**
+  - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/74e35520-9c34-4cf1-8157-ea52a93df8d6)
+  - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/07828c9e-98f8-4da8-8470-a3f429adf520)
 # 🛍️ Negozio, aste e altri menu
   ### [✅] Shop di pozioni, libri, generali e speciali
   - ![Shop](https://github.com/Lewysan/Minecraft_Development/assets/70720366/83c81f5a-8f12-469a-a20a-ad6388d9e427)
