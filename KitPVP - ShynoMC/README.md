@@ -139,6 +139,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
    ### [✅] Sincronizzazione con LuckPerms
    - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/45d9a693-3997-42f3-bb9f-59aeb7653e18)
    - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/31d75cc3-0b0e-44ce-b77e-d05bdb58b40e)
+   - ![2024-01-03 02-52-05](https://github.com/Lewysan/Minecraft_Development/assets/70720366/2cad1c98-9ad0-4837-b24b-48bd5f95fe39)
 # 🚀 Personalizzazione
    ### [✅] L'idea di questo KitPVP é stata renderlo il più custom possibile, evitando l'uso di plugin di terze e offrendo un'esperienza unica di pvp per gli utenti :D.
 # 🌟 Ringraziamenti e Invito
