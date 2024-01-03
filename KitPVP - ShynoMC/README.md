@@ -1,11 +1,11 @@
 # [⚔] KitPVP
-		by xJess - Contributors: StellarSquad 🎲 | 1.8 - 1.20 
+		by xJess (Lewysan) - Contributors: StellarSquad 🎲 | 1.8 - 1.20 
   	      SpigotMC: https://www.spigotmc.org/members/jessia.1858326/
     
 Concludendo un intenso periodo di sviluppo, sono ansiosa ma sopratutto contenta di presentarvi un mio progetto speciale di kitpvp per rendere l'esperienza di combattimento unica e coinvolgente wazaaaaa 👻👻👻👻.
 
 
-## [**⚠ IMPORTANTE ⚠**] Non é ancora disponibile su ShynoMC, ed è evidente che ho sufficienti prove veridiche per dimostrare la creazione di questo plugin. É stato sviluppato da zero, e ogni singolo successo e dettaglio del plugin è stato registrato o catturato tramite screenshot da me e dalla mia squad. A proposito, ringrazio StellarSquad e Nightfall Network per il loro supporto morale; inoltre, posseggono una copia del progetto KitPVP  nel caso in cui venga perso inutilmente come ho sentito in giro.
+## [**⚠ IMPORTANTE ⚠**] Non é ancora disponibile su ShynoMC, ed è evidente che ho sufficienti prove veridiche per dimostrare la creazione di questo plugin. É stato sviluppato da zero, e ogni singolo successo e dettaglio del plugin è stato registrato o catturato tramite screenshot da me e dalla mia squad. A proposito, ringrazio StellarSquad e Nightfall Network per il loro supporto morale; inoltre, posseggono una copia del progetto KitPVP  nel caso in cui venga perso inutilmente come ho sentito in giro. La conseguenza di voler dimostrare un ipotetico contrario, sará il confronto di entrambe le comunitá, in piú server come StaryMC, il quale alcuni membri del suo staff sono stati presente durante la creazione.
 
 
 ### Ringrazio **ShynoMC** per darmi l'opportunitá di dare il mio massimo di conoscenze ed imparare un sacco di cose durante sto percorso di creazione del plugin.
