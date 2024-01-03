@@ -67,7 +67,10 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   - ![Tags2Taglia](https://github.com/Lewysan/Minecraft_Development/assets/70720366/d162be70-acf7-4581-9d98-e89a6d3cf098)
   ### Per quanto riguardano le assistenze, ogni giocatore avrá un gruppo di giocatori, senza contare il proprio assassino, che riceveranno una ricompensa se non superano i 5 minuti dopo aver attaccato il giocatore, ricompensa per aver aiutato ad uccidere "x" giocatore. 
 # 💰 Trade
-  - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/3bbd604b-e1ce-4b62-9ea2-5c2a8970284b)
+  - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/c9af7ff5-da04-4f1b-a99e-b17b1ce3e960)
+  - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/34400646-d354-497f-9bcc-8fed491ac45d)
+  - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/9d091cc5-4621-4667-b72e-2c7b3807e516)
+  - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/e82d5918-8e16-4027-9fca-79f0fe0cd949)
 # 🛍️ Negozio, aste e altri menu
   ### [✅] Shop di pozioni, libri, generali e speciali
   - ![Shop](https://github.com/Lewysan/Minecraft_Development/assets/70720366/83c81f5a-8f12-469a-a20a-ad6388d9e427)
