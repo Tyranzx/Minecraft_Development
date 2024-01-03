@@ -5,7 +5,7 @@
 Concludendo un intenso periodo di sviluppo, sono ansiosa ma sopratutto contenta di presentarvi un mio progetto speciale di kitpvp per rendere l'esperienza di combattimento unica e coinvolgente wazaaaaa 👻👻👻👻.
 
 
-## [**⚠ IMPORTANTE ⚠**] Non é ancora disponibile su ShynoMC e, evidentemente, é da dire che ho le sufficienti prove veridiche per dimostrare la creazione di questo plugin, che é stato fatto da zero e che ogni singolo successo e dettaglio del plugin é stato registrato/fatto screenshot e fatto da me in compagnia della mia gente. A propoisito, ringrazio StellarSquad che possiede una copia del source code in caso venga perso inutilmente.
+## [**⚠ IMPORTANTE ⚠**] Non é ancora disponibile su ShynoMC, ed è evidente che ho sufficienti prove veridiche per dimostrare la creazione di questo plugin. É stato sviluppato da zero, e ogni singolo successo e dettaglio del plugin è stato registrato o catturato tramite screenshot da me e dalla mia squad. A proposito, ringrazio StellarSquad e Nightfall Network per il loro supporto morale; inoltre, posseggono una copia del progetto KitPVP  nel caso in cui venga perso inutilmente come ho sentito in giro.
 
 
 ### Ringrazio **ShynoMC** per darmi l'opportunitá di dare il mio massimo di conoscenze ed imparare un sacco di cose durante sto percorso di creazione del plugin.
@@ -19,7 +19,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 
  	(!) Per i bambini vanitosi: Ho lasciato un 1% del progetto, la classe principale, cosi date un'occhiata e non so, forse rubate qualcosa :P.
 
-	⭐ Special mentions: AfreCito,  Warmiz,  SkizZeR,  Dark_Overlord,  NekuSempai,  Joshet18💖
+	⭐ Special mentions: AfreCito,  Warmiz,  SkizZeR,  DarkOverlord,  NekuSempai,  Joshet18💖
 
 - KitPVP:
 	- Console out: 
