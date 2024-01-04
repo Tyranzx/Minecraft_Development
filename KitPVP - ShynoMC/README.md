@@ -96,6 +96,8 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/af31ee20-f3e0-42ca-ac56-41201f4d48c1)
   ### [✅] Cestino tattico.
   - ![cestino](https://github.com/Lewysan/Minecraft_Development/assets/70720366/10f2a146-c27c-4aa3-8ea4-cce2df4dcb9a)
+# 🏹 Bow Boosting
+- ![2024-01-04 13-45-08](https://github.com/Lewysan/Minecraft_Development/assets/70720366/d3343b3e-3f29-42f5-b25c-9efead5b6335)
 # ⚔️ Combattimento Tattico
   ### [✅] Ho implementato il **CombatLog**, impedendo i giocatori di uscire durante il combattimento e richiedendo un tempo di attesa di 15 secondi. La punizione é un'elliminazione completa del giocatore.
   ### La scoreboard aggiungerá un'etichetta per sapere quando finirá il tempo di pvp attuale, quando arriva a 0, il giocatore sará avvertito in chat.
@@ -171,6 +173,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 				- Bossbar
 				- Player meta prefixes & suffixes
 				- Private Chests
+				- Bow Boosting
 				- Trades
 				- No additional plugins, completely custom kitpvp core. 
 				- API di LuckPerms per sincronizzazione della chat (Solo questo al momento) 
