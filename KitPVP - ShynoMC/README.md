@@ -97,7 +97,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### [✅] Cestino tattico.
   - ![cestino](https://github.com/Lewysan/Minecraft_Development/assets/70720366/10f2a146-c27c-4aa3-8ea4-cce2df4dcb9a)
 # 🏹 Bow Boosting
-### L'implementazione del bow boosting non era nella mia lista di desideri per il kitpvp, é stata idea del proprietario e ho cercato di fare il mio massimo. É minimanente buggato, ma é difficilmente possibile.
+### L'implementazione del bow boosting non era nella mia lista di desideri per il kitpvp, é stata idea del proprietario e, come con tutto il resto, ho cercato di fare del mio meglio. É minimanente buggato, ma é difficilmente possibile.
 - ![2024-01-04 13-45-08](https://github.com/Lewysan/Minecraft_Development/assets/70720366/d3343b3e-3f29-42f5-b25c-9efead5b6335)
 # ⚔️ Combattimento Tattico
   ### [✅] Ho implementato il **CombatLog**, impedendo i giocatori di uscire durante il combattimento e richiedendo un tempo di attesa di 15 secondi. La punizione é un'elliminazione completa del giocatore.
