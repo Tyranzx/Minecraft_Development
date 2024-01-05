@@ -47,7 +47,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### Scoreboard fatto con strumenti utili e ottimi per rendere il server piu ottimizzato possibile e rendere la esperienza del giocatore comoda.
   - ![2023-12-18 19-33-06](https://github.com/Lewysan/Minecraft_Development/assets/70720366/e30992dc-7dd6-4654-8e13-782cab9e4433)
   - ![scoreboard](https://github.com/Lewysan/Minecraft_Development/assets/70720366/523639c1-5347-46d5-9c1b-d11bce35b85c)
-  ### Per la **Tablist** invece, sono state utilizzate tecniche di costruzione di ogni singolo carattere che non sará per niente un problema di ottimizzazione.
+  ### Per la **Tablist** invece, sono state utilizzate tecniche di costruzione di ogni singolo carattere che non sará per niente un problema di ottimizzazione. Diviso in 3 e in Teams.
   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/6fb69815-3d94-4343-92c6-436e8ab84074)
 # 📦 Crates e Ricompense
   ### [✅] Apri una crate utilizzando la sua chiave corrispettiva. Le crates, una volta aperte, ti sceglieranno aleatoriamente un unico item appartenente a un gruppo di oggetti utilizzati come premio per i giocatori!
