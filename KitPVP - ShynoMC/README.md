@@ -48,8 +48,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   - ![2023-12-18 19-33-06](https://github.com/Lewysan/Minecraft_Development/assets/70720366/e30992dc-7dd6-4654-8e13-782cab9e4433)
   - ![scoreboard](https://github.com/Lewysan/Minecraft_Development/assets/70720366/523639c1-5347-46d5-9c1b-d11bce35b85c)
   ### Per la **Tablist** invece, sono state utilizzate tecniche di costruzione di ogni singolo carattere che non sará per niente un problema di ottimizzazione.
-  - ![Tablist](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f50ce6ae-00d0-4a42-a6a7-cc2509b0bf74)
-  - ![Tablist](https://github.com/Lewysan/Minecraft_Development/assets/70720366/9eb81e9a-a080-4e95-9673-b48ce56066b0)
+  - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/6fb69815-3d94-4343-92c6-436e8ab84074)
 # 📦 Crates e Ricompense
   ### [✅] Apri una crate utilizzando la sua chiave corrispettiva. Le crates, una volta aperte, ti sceglieranno aleatoriamente un unico item appartenente a un gruppo di oggetti utilizzati come premio per i giocatori!
   ### Gruppo di oggetti che possono essere visualizzati facendo click sinistro.
@@ -99,6 +98,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 # 🏹 Bow Boosting
 ### L'implementazione del bow boosting non era nella mia lista di desideri per il kitpvp, é stata idea del proprietario e, come con tutto il resto, ho cercato di fare del mio meglio. É minimanente buggato, ma é difficilmente possibile.
 - ![2024-01-04 13-45-08](https://github.com/Lewysan/Minecraft_Development/assets/70720366/d3343b3e-3f29-42f5-b25c-9efead5b6335)
+- ![2024-01-05 05-16-27](https://github.com/Lewysan/Minecraft_Development/assets/70720366/80d5ccbe-8aad-486b-936c-82e2a826c358)
 # ⚔️ Combattimento Tattico
   ### [✅] Ho implementato il **CombatLog**, impedendo i giocatori di uscire durante il combattimento e richiedendo un tempo di attesa di 15 secondi. La punizione é un'elliminazione completa del giocatore.
   ### La scoreboard aggiungerá un'etichetta per sapere quando finirá il tempo di pvp attuale, quando arriva a 0, il giocatore sará avvertito in chat.
