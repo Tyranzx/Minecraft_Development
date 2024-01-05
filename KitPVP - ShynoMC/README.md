@@ -176,7 +176,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 				- Private Chests
 				- Bow Boosting
 				- Trades
-				- No additional plugins, completely custom kitpvp core. 
+				- KitPVP Totalmente custom, senza contare Luckperms.
 				- API di LuckPerms per sincronizzazione della chat (Solo questo al momento) 
 
 us@stellarsquad - xJess
