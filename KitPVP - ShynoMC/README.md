@@ -167,17 +167,17 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 				- KillStreaks system [10 = 500 - 20 = 1200, etc] + Assist award
 				- Aste -> /ah o /aste | Vendere oggetti con /sell <prezzo> o /ah sell <prezzo>
 				- Taglie
-				- Cestino tattico cauldron & hopper
-				- Economy system and player system without Vault
+				- Cestino tattico [Cauldron]
+				- Sistema di economia e giocatore senza Vault o EssentialsX
 				- CombatLog
-				- Shop [Pozioni, item generali, libri]
+				- Shop [Pozioni, item generali, libri, speciali]
 				- Gangs
 				- 1.20 Hit fix + Hit Manager
 				- Jumppads
 				- Smooth autoRespawn
 				- Optional legacy addons
 				- Bossbar
-				- Player meta prefixes & suffixes
+				- Player meta [prefixes & suffixes]
 				- Private Chests
 				- Bow Boosting
 				- Trades
