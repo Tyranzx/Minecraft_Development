@@ -175,13 +175,12 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 				- 1.20 Hit fix + Hit Manager
 				- Jumppads
 				- Smooth autoRespawn
-				- Optional legacy addons
 				- Bossbar
 				- Player meta [prefixes & suffixes]
-				- Private Chests
+				- PlayerVaults
 				- Bow Boosting
 				- Trades
-				- KitPVP Totalmente custom, senza contare Luckperms.
 				- API di LuckPerms per sincronizzazione della chat (Solo questo al momento) 
+				- KitPVP Totalmente custom, senza contare Luckperms.
 
 us@stellarsquad - xJess
