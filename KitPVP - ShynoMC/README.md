@@ -147,7 +147,9 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
    - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/45d9a693-3997-42f3-bb9f-59aeb7653e18)
    - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/31d75cc3-0b0e-44ce-b77e-d05bdb58b40e)
    - ![2024-01-03 02-52-05](https://github.com/Lewysan/Minecraft_Development/assets/70720366/2cad1c98-9ad0-4837-b24b-48bd5f95fe39)
+   #### Chat
    - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/35d0fd1a-3723-442f-b74d-d97af64c4146)
+   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/b3df0cee-070d-4df9-88d2-cd8d5ecb035c)
 # 🚀 Personalizzazione
    ### [✅] L'idea di questo KitPVP é stata renderlo il più custom possibile, evitando l'uso di plugin di terze e offrendo un'esperienza unica di pvp per gli utenti :D.
 # 🌟 Ringraziamenti e Invito
