@@ -174,12 +174,18 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 				- Gangs
 				- 1.20 Hit fix + Hit Manager
 				- Jumppads
+				- Bounties (Gestore bounty)
 				- Smooth autoRespawn
 				- Bossbar
 				- Player meta [prefixes & suffixes]
 				- PlayerVaults
-				- Bow Boosting
+				- Bow Boosting (1.20 fix & modo Legacy)
 				- Trades
+				- Comandi "Stack" e "pot" completi.
+				- Money bags
+				- GoldenHeads
+				- Spawn protection
+				- Fabbro XD😁🤣
 				- API di LuckPerms per sincronizzazione della chat (Solo questo al momento) 
 				- KitPVP Totalmente custom, senza contare Luckperms.
 
