@@ -152,13 +152,11 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
    ### [✅] Goditi l'esperienza giocando in diverse versioni **(tra 1.7 , 1.8 e 1.20)** e sperimenta il nostro impegno per rendere il KitPVP accessibile ad un'ampia comunità di giocatori. Sono stati aggiunti complementi **Legacy (< 1.13)** a proposito.
    ### [✅] Sincronizzazione con LuckPerms
    - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/45d9a693-3997-42f3-bb9f-59aeb7653e18)
-   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/31d75cc3-0b0e-44ce-b77e-d05bdb58b40e)
    - ![2024-01-03 02-52-05](https://github.com/Lewysan/Minecraft_Development/assets/70720366/2cad1c98-9ad0-4837-b24b-48bd5f95fe39)
    ### [✅] Chat
    #### Gestione della chat, non c'é piú bisogno di LPC.
    #### Formato: Gang solo se esiste, uccisioni, rank solo se esiste e non é solo il nome del giocatore, il nome del giocatore, messaggio del giocatore; i giocatori hanno colori della chat diversi, indipendentemnete dal rank.
-   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/09ae3f68-8bb3-4ff2-9475-69c2888f6726)
-   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/35d0fd1a-3723-442f-b74d-d97af64c4146)
+   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/bea68a9f-ddd2-4932-8436-a19b693a5b8e)
    - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/b3df0cee-070d-4df9-88d2-cd8d5ecb035c)
 # 🚀 Personalizzazione
    ### [✅] L'idea di questo KitPVP é stata renderlo il più custom possibile, evitando l'uso di plugin di terze e offrendo un'esperienza unica di pvp per gli utenti :D.
