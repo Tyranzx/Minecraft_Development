@@ -1,4 +1,4 @@
-# [⚔] KitPVP
+![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/2cb6239c-fba3-49f5-a712-93e6673bc9b2)# [⚔] KitPVP
 		by xJess (Lewysan) - Contributors: StellarSquad 🎲 | 1.7 - 1.8 - 1.20 
   	      SpigotMC: https://www.spigotmc.org/members/jessia.1858326/
     
@@ -146,6 +146,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
    #### In questo esempio: Gang "Krypton", nome del giocatore colorato col proprio prefix del rank (LuckPerms), in questo caso "Manager". Taglia come suffix, questo e prefix personalizzabili ovviamente.
    - ![2024-01-17_22 51 57](https://github.com/Lewysan/Minecraft_Development/assets/70720366/c004956d-71b0-4bda-8af1-26c75b0ca74f)
    - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/8486e65a-097e-4e27-a3e1-2e1255ca39fb)
+   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/4a98b319-cd07-472d-898e-47e5a4f3aab6)
    - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/05078e41-d6eb-4fb4-89e0-142ea5d10020)
 # 🔄 Compatibilitá Estesa & Compatibilitá
    ### [✅] Goditi l'esperienza giocando in diverse versioni **(tra 1.7 , 1.8 e 1.20)** e sperimenta il nostro impegno per rendere il KitPVP accessibile ad un'ampia comunità di giocatori. Sono stati aggiunti complementi **Legacy (< 1.13)** a proposito.
@@ -153,7 +154,10 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
    - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/45d9a693-3997-42f3-bb9f-59aeb7653e18)
    - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/31d75cc3-0b0e-44ce-b77e-d05bdb58b40e)
    - ![2024-01-03 02-52-05](https://github.com/Lewysan/Minecraft_Development/assets/70720366/2cad1c98-9ad0-4837-b24b-48bd5f95fe39)
-   #### Chat
+   ### [✅] Chat
+   #### Gestione della chat, non c'é piú bisogno di LPC.
+   #### Formato: Gang solo se esiste, uccisioni, rank solo se esiste e non é solo il nome del giocatore, il nome del giocatore, messaggio del giocatore; i giocatori hanno colori della chat diversi, indipendentemnete dal rank.
+   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/09ae3f68-8bb3-4ff2-9475-69c2888f6726)
    - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/35d0fd1a-3723-442f-b74d-d97af64c4146)
    - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/b3df0cee-070d-4df9-88d2-cd8d5ecb035c)
 # 🚀 Personalizzazione
