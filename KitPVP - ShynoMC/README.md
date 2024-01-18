@@ -164,7 +164,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 				- Unbreakables anvils 
 				- Tablist
 				- Crates
-				- Leaderboards
+				- Leaderboards: [Uccisioni, Uccisioni gang, Morti, Soldi, KDR]
 				- KillStreaks system [10 = 500 - 20 = 1200, etc] + Assist award
 				- Aste -> /ah o /aste | Vendere oggetti con /sell <prezzo> o /ah sell <prezzo>
 				- Taglie
@@ -181,6 +181,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 				- Player meta [prefixes & suffixes]
 				- PlayerVaults
 				- Bow Boosting (1.20 fix & modo Legacy)
+				- Sistema di Ragnatela & Ossidiana (Simple & Smoothed)
 				- Trades
 				- Comandi "Stack" e "pot" completi.
 				- Money bags
