@@ -1,4 +1,4 @@
-![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/2cb6239c-fba3-49f5-a712-93e6673bc9b2)# [⚔] KitPVP
+# [⚔] KitPVP
 		by xJess (Lewysan) - Contributors: StellarSquad 🎲 | 1.7 - 1.8 - 1.20 
   	      SpigotMC: https://www.spigotmc.org/members/jessia.1858326/
     
