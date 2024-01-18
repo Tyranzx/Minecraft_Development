@@ -133,6 +133,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/a666e00e-a030-4f1a-b93d-b94b200a8a52)
   ### [✅] Jumppads 
   - ![2023-12-18 19-44-36](https://github.com/Lewysan/Minecraft_Development/assets/70720366/4ef5d4d1-16ab-410a-9374-84d920533ff1)
+  ### [✅] Drop settings
   ### [✅] Due formati per identificare i soldi
   #### Quantitá completa + separazione per virgolette 
   - ![FormatoCLassico](https://github.com/Lewysan/Minecraft_Development/assets/70720366/490a0e92-6caa-4d37-a5f0-f2ea12db68ea)
@@ -141,6 +142,8 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 # 👥 Gangs
    ### [✅] Entra nel mondo sociale del PvP con le gang. Collabora con altri giocatori, forma alleanze strategiche e conquista insieme la battaglia. State attenti, non sempre puoi fidarti di chi hai avanti!
    ### Stessa cosa dei tags qui, i tags rappresenteranno la tua gang come prefix in questo caso. É importante menzionare che solo si puó essere membro di una gang. Pensiamola cosi: che senso ha essere membro di vari gruppi in cui non sei sicuro di dove andrai a finire? di chi sará il colpevole della tua morte?
+   #### In questo esempio: Gang "Krypton", tag colorato usando il colore del prefix del giocatore (Luckeperms), in questo caso "Manager". Taglia come suffix, questo e prefix personalizzabili ovviamente.
+   - ![2024-01-17_22 51 57](https://github.com/Lewysan/Minecraft_Development/assets/70720366/c004956d-71b0-4bda-8af1-26c75b0ca74f)
    - ![Tags](https://github.com/Lewysan/Minecraft_Development/assets/70720366/5d23b80f-40f0-4a84-ad45-b1ac1c9cec6a)
    - ![Gangs](https://github.com/Lewysan/Minecraft_Development/assets/70720366/67e51b2b-01f7-4510-b72d-ac69bacdf76f)
    - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/05078e41-d6eb-4fb4-89e0-142ea5d10020)
@@ -187,6 +190,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 				- Trades
 				- Comandi "Stack" e "pot" completi.
 				- Money bags
+				- Drop settings
 				- GoldenHeads
 				- Spawn protection
 				- Fabbro XD😁🤣
