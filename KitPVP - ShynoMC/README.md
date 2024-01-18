@@ -189,13 +189,14 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 				- Bow Boosting (1.20 fix & modo Legacy)
 				- Sistema di Ragnatela & Ossidiana (Simple & Smoothed)
 				- Trades
-				- Comandi "Stack" e "pot" completi.
+				- Comandi "Stack" e "pot" completi
+				- Spawn protection custom
 				- Money bags
 				- Drop settings
 				- GoldenHeads
 				- Spawn protection
 				- Fabbro XD😁🤣
 				- API di LuckPerms per sincronizzazione della chat (Solo questo al momento) 
-				- KitPVP Totalmente custom, senza contare Luckperms.
+				- KitPVP Totalmente custom, senza contare Luckperms
 
 us@stellarsquad - xJess
