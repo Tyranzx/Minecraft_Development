@@ -47,6 +47,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### Scoreboard fatto con strumenti utili e ottimi per rendere il server piu ottimizzato possibile e rendere la esperienza del giocatore comoda.
   - ![2023-12-18 19-33-06](https://github.com/Lewysan/Minecraft_Development/assets/70720366/e30992dc-7dd6-4654-8e13-782cab9e4433)
   - ![scoreboard](https://github.com/Lewysan/Minecraft_Development/assets/70720366/523639c1-5347-46d5-9c1b-d11bce35b85c)
+  - ![2024-01-17_22 56 17](https://github.com/Lewysan/Minecraft_Development/assets/70720366/8b40330c-f751-4bab-b6b1-fa9ae6721e34)
   ### Per la **Tablist** invece, sono state utilizzate tecniche di costruzione di ogni singolo carattere che non sará per niente un problema di ottimizzazione. Team divisi in 3, quindi sincronizzato con Luckperms.
   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/6fb69815-3d94-4343-92c6-436e8ab84074)
   - t![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/8502817c-8ea2-48b5-a10e-2830cf7ceb98)
