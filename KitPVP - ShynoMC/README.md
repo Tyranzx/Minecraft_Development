@@ -55,6 +55,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### [✅] Apri una crate utilizzando la sua chiave corrispettiva. Le crates, una volta aperte, ti sceglieranno aleatoriamente un unico item appartenente a un gruppo di oggetti utilizzati come premio per i giocatori!
   ### Gruppo di oggetti che possono essere visualizzati facendo click sinistro.
   ### Col click destro succedono questo: Se non hai nessuna chiave, o se hai una chiave falsa senza un codice identificatore, o la chiave non corrisponde alla crate interagita, non potrai aprire nessuna crate.
+  - ![2024-01-17_22 45 05](https://github.com/Lewysan/Minecraft_Development/assets/70720366/4d696893-f3d5-4561-b80b-ccc620aca949)
   - ![2023-12-20_00 24 18](https://github.com/Lewysan/Minecraft_Development/assets/70720366/69c3bf5c-88a7-44f8-89d9-3da441fb7eba)
   - ![Keys](https://github.com/Lewysan/Minecraft_Development/assets/70720366/8b99819e-d5e7-4550-a62e-1e94514b7f23)
   - ![2023-12-21 12-20-51](https://github.com/Lewysan/Minecraft_Development/assets/70720366/bfea329d-e175-4bf9-b1ba-a1b5e513ae68)
