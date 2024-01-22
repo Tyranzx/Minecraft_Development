@@ -26,6 +26,8 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 - KitPVP:
 	- Console out: 
   		- ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/fd333ae7-c81c-4856-ae10-347dce12c08d)
+	- Risultato:
+		- ![asdasd](https://github.com/Lewysan/Minecraft_Development/assets/70720366/63095c09-be22-445f-80db-7284eef2e28d)
 
 # Caratteristiche Dettagliate:
 
