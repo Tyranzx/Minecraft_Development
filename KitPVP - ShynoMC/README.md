@@ -193,6 +193,8 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 				- Jumppads
 				- Bounties (Gestore bounty)
 				- Smooth autoRespawn
+				- Danno all'armadura fatta dall'ascia
+				- Sugar speed boost
 				- Bossbar
 				- Player meta [prefixes & suffixes]
 				- PlayerVaults
