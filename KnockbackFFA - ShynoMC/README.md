@@ -1,4 +1,4 @@
-# [/] KnockbackFFA
+# [🥢] KnockbackFFA
 		by xJess (Lewysan) - Contributors: StellarSquad 🎲 | 1.7+
   	      SpigotMC: https://www.spigotmc.org/members/jessia.1858326/
 
