@@ -133,6 +133,10 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### [✅] Smooth AutoRespawn.
   - ![Smooth autorespawn](https://github.com/Lewysan/Minecraft_Development/assets/70720366/ca4aec81-a66c-403c-a6e8-ee465f96dd47)
 # 🧪 Addons
+  ### [✅] Fabbro
+  - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/baf7827f-8a18-4a79-ad0e-725500cd1a8e)
+  ### [✅] Drop settings
+  - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/13a36790-d98f-4c94-bba6-859937a4d80d)
   ### [✅] Bossbar principale custom | Devo ancora fare quello per le versioni Legacy.
   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/a666e00e-a030-4f1a-b93d-b94b200a8a52)
   ### [✅] Jumppads 
