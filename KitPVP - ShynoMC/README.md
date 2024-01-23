@@ -68,6 +68,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### **Ripeto un'informazione importante:** Questo mio progetto come sicuramente tutti gli altri, non é fatto con plugin di terzi, il plugin é unico e **NON** dipende da altri plugin, é totalmente custom a parte il collegamento con Luckperms, il resto sono scuse.
   - ![finalLeaderboards](https://github.com/Lewysan/Minecraft_Development/assets/70720366/2bd8d5ad-12d0-414d-b182-cd3fafbe9481)
   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/28565bb7-96e2-46f5-9b6f-fd54fa53b171)
+  - ![2024-01-22_21 56 06](https://github.com/Lewysan/Minecraft_Development/assets/70720366/3becf2c0-d5c2-4485-85d9-123e835e00c8)
   ### Per il momento é stata aggiunta solamente una semplice ricarica automatica delle leaderboards, rimandando tutte gli hologram se neccesario. Ho un'idea per renderlo piu ottimizzato in futuro, almeno questo vi posso dire che é l'unica cosa alla quale ho lavorato un sacco e sono riuscita a farlo (La ricarica, non gli hologram) ma non penso sia del tutto ottimizzato, peró fidatevi di me che lo renderó ottimizzato prima o poi.
   ### [✅] Sistema di **Kill Streak** e assistenza. 
   ### Uccidi sempre 10 persone per raggiungere una nuova streak (Alla 10 streak ti sará data una taglia). O aiuti ad uccidere qualcuno e prendi la ricompensa di assistenza.
