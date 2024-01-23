@@ -32,6 +32,13 @@ Plugin totalmente custom. Sia kitpvp che kffa non hanno bisogno di plugins di te
    - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/9fbfcbc0-585c-4908-a3c1-be241624c9a2)
 
 ### Contenuto:
-				- Kits (GUI)
+				- Auto respawn
+				- Hotbar personalizzabile
+				- TNT Lanciabili
+				- Scoreboard
+				- Tablist
+				- Player meta (prefixes & sufixes)
+				- Bow boosting
+				- Spawn protection (TNT, NO PVP on Spawn, ecc)
 
 us@stellarsquad - xJess
