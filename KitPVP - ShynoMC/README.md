@@ -27,6 +27,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 	- Console out: 
   		- ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/fd333ae7-c81c-4856-ae10-347dce12c08d)
 	- Risultato:
+                - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/8fa11b6a-5b64-4a4c-b527-0318fc315e5c)
 		- ![asdasd](https://github.com/Lewysan/Minecraft_Development/assets/70720366/63095c09-be22-445f-80db-7284eef2e28d)
 
 # Caratteristiche Dettagliate:
@@ -94,12 +95,12 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   - ![aste](https://github.com/Lewysan/Minecraft_Development/assets/70720366/0263e619-d921-47ac-860a-efa5cbc52ca8)
   ### [✅] Puoi pure acquistare gli oggetti giá venduti da altri giocatori.
   - ![itemsac](https://github.com/Lewysan/Minecraft_Development/assets/70720366/e790c038-ac70-4227-acd2-da946a73ce89)
-  ### [✅] Vaults.
+  ### [✅] Player Vaults.
   #### É da dire che le vaults si caricano quando il server viene avviato, solo se esistono private chests disponibili, quindi gli oggetti sono permanenti. Si salvano, non solo gli enchant, ma anche tutta la quantitá solo di certi oggetti, displays, lores, e altre tante proprietá. Per esempio, le chiavi per le crates vengono salvate in modo sicuro per evitare chiavi false, ecc. Le pozioni, bottiglie di EXP, libri, ecc, si salvano e permanentemente.
   ### É CONSIGLIABILE NON FIDARSI DEL TUTTO DELLE VAULT, C'É L'ENDERCHEST DEL QUALE POSSIAMO FIDARCI AL 100%.
   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/5603eaf6-573b-477f-ba81-d53ea292b668)
   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/5d7906d1-a2f5-4a6e-8563-d03eb1f057b1)
-  ### [✅] Ender chests
+  ### [✅] Ender Chests
   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/af31ee20-f3e0-42ca-ac56-41201f4d48c1)
   ### [✅] Cestino tattico.
   - ![cestino](https://github.com/Lewysan/Minecraft_Development/assets/70720366/10f2a146-c27c-4aa3-8ea4-cce2df4dcb9a)
@@ -137,7 +138,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/baf7827f-8a18-4a79-ad0e-725500cd1a8e)
   ### [✅] Drop settings
   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/13a36790-d98f-4c94-bba6-859937a4d80d)
-  ### [✅] Bossbar principale custom | Devo ancora fare quello per le versioni Legacy.
+  ### [✅] Bossbar principale custom (Non Legacy)
   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/a666e00e-a030-4f1a-b93d-b94b200a8a52)
   ### [✅] Jumppads 
   - ![2023-12-18 19-44-36](https://github.com/Lewysan/Minecraft_Development/assets/70720366/4ef5d4d1-16ab-410a-9374-84d920533ff1)
