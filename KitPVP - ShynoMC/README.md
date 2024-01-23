@@ -154,7 +154,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
    ### Stessa cosa dei tags qui, i tags rappresenteranno la tua gang come prefix in questo caso. É importante menzionare che solo si puó essere membro di una gang. Pensiamola cosi: che senso ha essere membro di vari gruppi in cui non sei sicuro di dove andrai a finire? chi sará il colpevole della tua morte?
    #### In questo esempio: Gang "Krypton", nome del giocatore colorato col proprio prefix del rank (LuckPerms), in questo caso "Manager". Taglia come suffix, questo e prefix personalizzabili ovviamente.
    - ![2024-01-17_22 51 57](https://github.com/Lewysan/Minecraft_Development/assets/70720366/c004956d-71b0-4bda-8af1-26c75b0ca74f)
-   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/8486e65a-097e-4e27-a3e1-2e1255ca39fb)
+   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f08ed246-edec-452e-89d1-47ff9ed6af71)
    - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/4a98b319-cd07-472d-898e-47e5a4f3aab6)
    - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/05078e41-d6eb-4fb4-89e0-142ea5d10020)
 # 🔄 Compatibilitá Estesa & Compatibilitá
