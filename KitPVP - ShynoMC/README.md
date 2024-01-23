@@ -18,7 +18,8 @@ Concludendo un intenso periodo di sviluppo, sono ansiosa ma sopratutto contenta 
 
 Il plugin l'ho fatto da sola in meno di due mesi, sono riuscita pure a creare delle API pronte per i miei membri di StellarSquad e, ripeto, ad imparare nuove cose importanti.
 Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del giocatore e per altre tante cose. Il plugin é stato fatto per server di versioni superiori a 1.8
-Plugin totali nel server di prova: 9
+
+#### Plugin totali nel server di prova: 9
 
  	(!) Per i bambini vanitosi: Ho lasciato un 1% del progetto, la classe principale, cosi date un'occhiata e non so, forse rubate qualcosa :P.
 
