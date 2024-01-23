@@ -138,6 +138,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/baf7827f-8a18-4a79-ad0e-725500cd1a8e)
   ### [✅] Drop settings
   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/13a36790-d98f-4c94-bba6-859937a4d80d)
+  - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/2af3f494-8b49-4fa0-8418-aa769517f53b)
   ### [✅] Bossbar principale custom (Non Legacy)
   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/a666e00e-a030-4f1a-b93d-b94b200a8a52)
   ### [✅] Jumppads 
