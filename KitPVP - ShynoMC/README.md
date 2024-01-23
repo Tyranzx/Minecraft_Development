@@ -12,7 +12,7 @@ Concludendo un intenso periodo di sviluppo, sono ansiosa ma sopratutto contenta 
 
 ### Ringrazio **ShynoMC** per darmi l'opportunitá di dare il mio massimo di conoscenze ed imparare un sacco di cose durante sto percorso di creazione del plugin.
 ### **Riferenza:**
-### https://discord.gg/BHAwgrBAC6
+### discord.shynomc.it
 ![ShynoMC KitPVP](https://github.com/Lewysan/Minecraft_Development/assets/70720366/11019b02-93ad-45f7-afc4-52f6023bc3df)
 
 
@@ -170,7 +170,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 # 🌟 Ringraziamenti e Invito
    ### [✅] Apprezzo molto i commenti positivi riguardanti al plugin, l'ho fatto con passione e amore per tutta la comunitá di ShynoMC e Stellar. Spero che questa esperienza porti entusiasmo e divertimento a terzi. Invita i tuoi amici a unirsi nel nostro server discord e a noi , cosi da condividere esperienze piacevoli!
 
-### Riassunto:
+### Contenuto:
 				- Kits (GUI)
 				- Sistema di statistiche -> coins, morti, kills, streak, kdr, challenge/eventi completati
 				- Entitá (Mob) interagibili per questi menu (senza AI)
