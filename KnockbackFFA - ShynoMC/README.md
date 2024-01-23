@@ -1,5 +1,5 @@
 # [🥢] KnockbackFFA
-		by xJess (Lewysan) - Contributors: StellarSquad 🎲 | 1.7+
+		by xJess - Contributors: StellarSquad 🎲 | 1.7+
   	      SpigotMC: https://www.spigotmc.org/members/jessia.1858326/
 
 ### Ringrazio **ShynoMC** per darmi l'opportunitá di dare il mio massimo di conoscenze ed imparare un sacco di cose durante sto percorso di creazione del plugin.
