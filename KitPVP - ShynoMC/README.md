@@ -136,6 +136,8 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### [✅] Smooth AutoRespawn.
   - ![Smooth autorespawn](https://github.com/Lewysan/Minecraft_Development/assets/70720366/ca4aec81-a66c-403c-a6e8-ee465f96dd47)
 # 🧪 Addons
+  ### [✅] Kill Streaks
+  - ![2024-01-24 01-33-35](https://github.com/Lewysan/Minecraft_Development/assets/70720366/80354cb7-8f65-463a-8f0f-44e6e19efba7)
   ### [✅] Fabbro
   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/baf7827f-8a18-4a79-ad0e-725500cd1a8e)
   ### [✅] Drop settings
