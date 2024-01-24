@@ -178,7 +178,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 # 🚀 Personalizzazione
    ### [✅] L'idea di questo KitPVP é stata renderlo il più custom possibile, evitando l'uso di plugin di terze e offrendo un'esperienza unica di pvp per gli utenti :D.
 # 🌟 Ringraziamenti e Invito
-   ### [✅] Apprezzo molto i commenti positivi riguardanti al plugin, l'ho fatto con passione e amore per tutta la comunitá di ShynoMC e Stellar. Spero che questa esperienza porti entusiasmo e divertimento a terzi. Invita i tuoi amici a unirsi nel nostro server discord e a noi , cosi da condividere esperienze piacevoli!
+   ### [✅] Apprezzo molto i commenti positivi riguardanti al plugin, l'ho fatto con passione e amore per tutta la comunitá di **ShynoMC** e **StellarSquad**. Spero che questa esperienza porti entusiasmo, divertimento e qualcosa da imparare a terzi. Invita i tuoi amici a unirsi nel nostro server discord e a noi membri di Stellar, cosi da condividere esperienze piacevoli!
 
 ### Contenuto:
 				- Kits (GUI)
