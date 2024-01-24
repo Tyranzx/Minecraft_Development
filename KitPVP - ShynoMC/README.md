@@ -139,6 +139,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### [✅] Kill Streaks
   - ![2024-01-24 01-33-35](https://github.com/Lewysan/Minecraft_Development/assets/70720366/80354cb7-8f65-463a-8f0f-44e6e19efba7)
   ### [✅] Quests
+  - ![2024-01-2404-35-25-ezgif com-speed](https://github.com/Lewysan/Minecraft_Development/assets/70720366/cab7427e-b0e2-4666-ad9b-1ceeb537e603)
   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/f2ab0f57-a348-4e6f-97a1-159cb6c4ab81)
   ### [✅] Fabbro
   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/baf7827f-8a18-4a79-ad0e-725500cd1a8e)
