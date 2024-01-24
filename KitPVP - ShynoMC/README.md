@@ -165,7 +165,6 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
    - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/992e16e4-73ca-48d9-97c9-2ed0c02de8b4)
    - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/4a98b319-cd07-472d-898e-47e5a4f3aab6)
    - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/05078e41-d6eb-4fb4-89e0-142ea5d10020)
-#### #Clown laughing at you.
 # 🔄 Compatibilitá Estesa & Compatibilitá
    ### [✅] Goditi l'esperienza giocando in diverse versioni **(tra 1.7 , 1.8 e 1.20)** e sperimenta il nostro impegno per rendere il KitPVP accessibile ad un'ampia comunità di giocatori. Sono stati aggiunti complementi **Legacy (< 1.13)** a proposito.
    ### [✅] Sincronizzazione con LuckPerms
@@ -176,6 +175,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
    #### Formato: Gang solo se esiste, uccisioni, rank solo se esiste e non é solo il nome del giocatore, il nome del giocatore, messaggio del giocatore; i giocatori hanno colori della chat diversi, indipendentemnete dal rank.
    - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/bea68a9f-ddd2-4932-8436-a19b693a5b8e)
    - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/b3df0cee-070d-4df9-88d2-cd8d5ecb035c)
+#### #Clown laughing at you.
 # 🚀 Personalizzazione
    ### [✅] L'idea di questo KitPVP é stata renderlo il più custom possibile, evitando l'uso di plugin di terze e offrendo un'esperienza unica di pvp per gli utenti :D.
 # 🌟 Ringraziamenti e Invito
