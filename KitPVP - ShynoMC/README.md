@@ -143,6 +143,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   ### [✅] Fabbro
   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/baf7827f-8a18-4a79-ad0e-725500cd1a8e)
   ### [✅] Drop settings
+  - ![2024-01-2404-45-02-ezgif com-speed](https://github.com/Lewysan/Minecraft_Development/assets/70720366/5b876f78-16c3-4b22-bedd-f3f9953b510e)
   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/13a36790-d98f-4c94-bba6-859937a4d80d)
   - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/2af3f494-8b49-4fa0-8418-aa769517f53b)
   ### [✅] Bossbar principale custom (Non Legacy)
