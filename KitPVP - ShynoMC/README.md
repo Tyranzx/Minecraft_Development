@@ -219,7 +219,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 				- GoldenHeads
 				- Spawn protection
 				- Fabbro XD😁🤣
-				- API di LuckPerms per sincronizzazione della chat (Solo questo al momento) 
+				- Sincronizzazione LuckPerms per la chat & scoreboard (Solo questo al momento) 
 				- KitPVP Totalmente custom, senza contare Luckperms
 
 us@stellarsquad - xJess
