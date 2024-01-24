@@ -207,6 +207,8 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 				- Spawn protection custom
 				- Money bags
 				- Drop settings
+				- Kill Streaks (Premi ogni 300 kill in su)
+				- Quests
 				- GoldenHeads
 				- Spawn protection
 				- Fabbro XD😁🤣
