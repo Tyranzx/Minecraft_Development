@@ -20,6 +20,7 @@ Il plugin l'ho fatto da sola in meno di due mesi, sono riuscita pure a creare de
 Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del giocatore e per altre tante cose. Il plugin é stato fatto per server di versioni superiori a 1.8
 
 #### Plugin totali nel server di prova: 9
+- ![2024-01-25_16 37 38](https://github.com/Lewysan/Minecraft_Development/assets/70720366/ad6ce45e-0153-4862-add9-2f676ebaa4ce)
 
  	(!) Per i bambini vanitosi: Ho lasciato un 1% del progetto, la classe principale, cosi date un'occhiata e non so, forse rubate qualcosa :P.
 
