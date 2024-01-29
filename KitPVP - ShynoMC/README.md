@@ -135,6 +135,8 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   #### (Screenshot fatto in un server locale versione 1.20.1)
   ### [✅] Damage Fix
   ### [✅] Strength Fix
+  ### [✅] Sugar speed boost
+  - ![2024-01-29 03-36-56](https://github.com/Lewysan/Minecraft_Development/assets/70720366/06199e99-de78-4852-ac99-cd9cbc19cd5d)
   ### [✅] Grappling hook
   ### [✅] Smooth AutoRespawn.
   - ![Smooth autorespawn](https://github.com/Lewysan/Minecraft_Development/assets/70720366/ca4aec81-a66c-403c-a6e8-ee465f96dd47)
