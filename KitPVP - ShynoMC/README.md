@@ -28,12 +28,12 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 ### BOB
 - ![Bob](https://github.com/Lewysan/Minecraft_Development/assets/70720366/ae42ae79-3707-4d6f-8008-32ec287c8c4b)
 
-- KitPVP:
-	- Console out: 
-  		- ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/fd333ae7-c81c-4856-ae10-347dce12c08d)
-	- Risultato:
-                - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/8fa11b6a-5b64-4a4c-b527-0318fc315e5c)
-		- ![asdasd](https://github.com/Lewysan/Minecraft_Development/assets/70720366/63095c09-be22-445f-80db-7284eef2e28d)
+### KitPVP:
+- Console out: 
+	- ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/fd333ae7-c81c-4856-ae10-347dce12c08d)
+- Risultato:
+        - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/8fa11b6a-5b64-4a4c-b527-0318fc315e5c)
+	- ![asdasd](https://github.com/Lewysan/Minecraft_Development/assets/70720366/63095c09-be22-445f-80db-7284eef2e28d)
 
 # Caratteristiche Dettagliate:
 
