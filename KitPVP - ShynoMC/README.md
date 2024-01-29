@@ -24,7 +24,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 
  	(!) Per i bambini vanitosi: Ho lasciato un 1% del progetto, la classe principale, cosi date un'occhiata e non so, forse rubate qualcosa :P.
 
-	##⭐ Special mentions: AfreCito,  Warmiz,  SkizZeR,  DarkOverlord,  NekuSempai,  Bob, Joshet18💖
+##⭐ Special mentions: AfreCito,  Warmiz,  SkizZeR,  DarkOverlord,  NekuSempai,  Bob, Joshet18💖
 ### BOB
 - ![Bob](https://github.com/Lewysan/Minecraft_Development/assets/70720366/ae42ae79-3707-4d6f-8008-32ec287c8c4b)
 
