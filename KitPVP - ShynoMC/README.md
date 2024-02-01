@@ -42,6 +42,8 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
   -  ![Kits](https://github.com/Lewysan/Minecraft_Development/assets/70720366/579d0c3c-5ac2-40b3-8f96-94c78858869f)
   -  ![kpvp1](https://github.com/Lewysan/Minecraft_Development/assets/70720366/b3c6d1a5-d7ed-469d-9ba4-535b11d1fe6c)
   -  ![2023-12-18 19-49-57](https://github.com/Lewysan/Minecraft_Development/assets/70720366/27052696-7147-4866-a9a0-12fb9b0b420e)
+  ### [✅] Menu di anteprima dei kits
+  - ![2024-01-31 23-54-21](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/1b18ac89-809e-4899-878e-3e9fbe44e183)
 # 📊 Sistema di Statistiche
   ### [✅] Soldi accumulati, morti, uccisioni, serie di uccisioni (Kill Streak), rapporto uccisioni/morti (KDR) e il completamento di sfide ed eventi speciali e in piú, oggetti acquistati.
   ### Cercheró di aggiungere piu statistiche possibili :)!
