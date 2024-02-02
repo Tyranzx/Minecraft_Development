@@ -188,45 +188,45 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 # 🌟 Ringraziamenti e Invito
    ### [✅] Apprezzo molto i commenti positivi riguardanti al plugin, l'ho fatto con passione e amore per tutta la comunitá di **ShynoMC** e **StellarSquad**. Spero che questa esperienza porti entusiasmo, divertimento e qualcosa da imparare a terzi. Invita i tuoi amici a unirsi nel nostro server discord e a noi membri di Stellar, cosi da condividere esperienze piacevoli!
 
-### Contenuto:
-				- Kits (GUI)
-				- Sistema di statistiche -> coins, morti, kills, streak, kdr, challenge/eventi completati
-				- Entitá (Mob) interagibili per questi menu (senza AI)
-				- Scoreboard
+### Contenuto CUSTOM:
+				- Kits (GUI) + Anteprima (GUI)
+				- Sistema di statistiche -> coins, morti, kills, streak, kdr, items acquistatI (aste), taglia, top [soldi/streak] challenge/eventi completati
+				- Entitá (Mob) interagibili per alcuni menu (senza AI)
+				- Scoreboard + Teams
 				- Unbreakables anvils 
-				- Tablist
+				- Tablist [%gang% %rank% %player% %taglia%]
 				- Crates
 				- Leaderboards: [Uccisioni, Uccisioni gang, Morti, Soldi, KDR]
 				- KillStreaks system [10 = 500 - 20 = 1200, etc] + Assist award
 				- Aste -> /ah o /aste | Vendere oggetti con /sell <prezzo> o /ah sell <prezzo>
-				- Taglie
-				- Cestino tattico [Cauldron]
+				- Taglie ( automatiche (?) )
+				- Cestino [Cauldron]
 				- Sistema di economia e giocatore senza Vault o EssentialsX
 				- CombatLog
 				- Shop [Pozioni, item generali, libri, speciali]
 				- Gangs
-				- 1.20 Hit fix + Hit Manager
+				- Fix knockback + Particles di sangue aleatorie
 				- Jumppads
-				- Bounties (Gestore bounty)
+				- Bounties
 				- Smooth autoRespawn
-				- Danno all'armadura fatta dall'ascia
+				- AxeInjury (Danno all'armadura fatta dall'ascia)
 				- Sugar speed boost
-				- Bossbar
+				- Bossbar (1.20+ SOLO)
 				- Player meta [prefixes & suffixes]
-				- PlayerVaults
-				- Bow Boosting (1.20 fix & modo Legacy)
+				- PlayerVaults (Private Chests)
+				- Bow Boosting (1.20 fix & Legacy)
 				- Sistema di Ragnatela & Ossidiana (Simple & Smoothed)
 				- Trades
-				- Comandi "Stack" e "pot" completi
-				- Spawn protection custom
+				- Comandi "/stack" e "/pots" completi
+				- Spawn area protection
 				- Money bags
 				- Drop settings
-				- Kill Streaks (Premi dalle 400 uccisioni in su)
+				- Streaks (Premi dalle 400 uccisioni in su)
 				- Quests (Sfide)
 				- GoldenHeads
+				- GrapplingHook
 				- Spawn protection
 				- Fabbro XD😁🤣
-				- Sincronizzazione LuckPerms per la chat & scoreboard (Solo questo al momento) 
-				- KitPVP Totalmente custom, senza contare Luckperms
+				- Sincronizzazione LuckPerms
 
 us@stellarsquad - xJess
