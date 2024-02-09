@@ -1,0 +1,8 @@
+# 🎨 Design Battles 🎨
+
+## Niente di particolare, una modalitá custom fatta specificamente per conoscere nuove cose da fare o mettere in pratica un sacco di conoscenze, non solo relative a Minecraft.
+
+ ![2024-02-09_10 13 30](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/75d00442-2b49-4381-ae60-d7d6fdf26750)
+
+# [🥢] Items in game
+![2024-02-09_09 21 52](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/55b4d770-5b08-4541-a92f-00eae89f4373)
