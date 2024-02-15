@@ -9,7 +9,7 @@
 # 📊 Scoreboard + Tablist + Player Meta 
   ### [✅] **PLAYER META**: 
   #### Voglio spiegare una cosa: Durante la creazione della modalitá KitPVP ho imparato a non dover dipendere da plugin che facciano la funzione di scoreboard, tablist e visiblitá del rank in ogni parte.
-  #### Utilizzo un'api, StellarAPI, fatta da me, per me e per tutta la mia comunitá di StellarSquad per automatizzare la creazione di questa sincronizzazione con Luckperms.
+  #### Utilizzo un'api, StellarAPI, fatta da me, per me e per tutta la mia comunitá di StellarSquad per automatizzare la creazione di questa sincronizzazione con Luckperms. E non solo, contiene anche metodi e strutture di codici pronte all'uso.
   ### [✅] **SCOREBOARD**: 
   #### Scoreboard, come tutte le altre modalitá che faró in futuro, sempre utilizzando il piú possibile, tecniche e risorse proprie dell'api di spigot per aumentare e mantenere la sua ottimizzazione. 
   ### [✅] **TABLIST**:
