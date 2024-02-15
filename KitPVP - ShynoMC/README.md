@@ -35,7 +35,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
         - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/8fa11b6a-5b64-4a4c-b527-0318fc315e5c)
 	- ![asdasd](https://github.com/Lewysan/Minecraft_Development/assets/70720366/63095c09-be22-445f-80db-7284eef2e28d)
 
-# Caratteristiche Dettagliate:
+# Caratteristiche dettagliate:
 
 # 🛡️ Kits organizzati
   ### [✅] Menu di kit separati per rank e permessi, alcuni piu op di altri.
