@@ -7,8 +7,24 @@
 # Caratteristiche dettagliate:
 
 # 📊 Scoreboard + Tablist + Player Meta 
-  ### [✅] **PLAYER META**: Voglio spiegare una cosa: Durante la creazione della modalitá KitPVP ho imparato a non dover dipendere da plugin che facciano la funzione di scoreboard, tablist e visiblitá del rank in ogni parte.
-  ### Utilizzo un'api, StellarAPI, fatta da me, per me e per tutta la mia comunitá di StellarSquad per automatizzare la creazione di questa sincronizzazione con Luckperms.
-  ### [✅] **SCOREBOARD**: Scoreboard, come tutte le altre modalitá che faró in futuro, sempre utilizzando il piú possibile, tecniche e risorse proprie dell'api di spigot per aumentare e mantenere la sua ottimizzazione. 
-  ### [✅] **TABLIST**: Per il tablist, utilizzeró, grazie al kitpvp che mi ha insegnato delle cose, tecniche e risorse di tipo legacy, ovviamente mantenendo la compatibilitá con piú versioni di minecraft ma non rendendo il plugin troppo pesante. 
-  -  ![Kits](https://github.com/Lewysan/Minecraft_Development/assets/70720366/579d0c3c-5ac2-40b3-8f96-94c78858869f)
+  ### [✅] **PLAYER META**: 
+  #### Voglio spiegare una cosa: Durante la creazione della modalitá KitPVP ho imparato a non dover dipendere da plugin che facciano la funzione di scoreboard, tablist e visiblitá del rank in ogni parte.
+  #### Utilizzo un'api, StellarAPI, fatta da me, per me e per tutta la mia comunitá di StellarSquad per automatizzare la creazione di questa sincronizzazione con Luckperms.
+  ### [✅] **SCOREBOARD**: 
+  #### Scoreboard, come tutte le altre modalitá che faró in futuro, sempre utilizzando il piú possibile, tecniche e risorse proprie dell'api di spigot per aumentare e mantenere la sua ottimizzazione. 
+  ### [✅] **TABLIST**:
+  #### Per il tablist, utilizzeró, grazie al kitpvp che mi ha insegnato delle cose, tecniche e risorse di tipo legacy, ovviamente mantenendo la compatibilitá con piú versioni di minecraft ma non rendendo il plugin troppo pesante. 
+  -  ![Todo](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/18de7e1b-b87e-4069-b33f-38198e96e55f)
+
+# 🎲 Sistema di Partite
+ ### [✅] Sistema di modi:
+ #### Questo core, ha la possibilitá di creare e di giocare, partite di tipo **SOLO**, quindi senza una squadra contro altri giocatori, e non solo, si é fatto pensando solo a 3 modi, Solo, Duo (double) e Trio.
+ ### [✅] Sistema di creazione mappe: 
+ #### Ho fatto il sistema di creazione il piú facile e capibile possibile, senza la urgenza di dover specificare manualmente ogni cosa, come per esempio, il letto del giocatore, lo si fa automaticamente.
+ ### [✅] Selezione automatica di modo e partita
+ ### [✅] Stato del giocatore:
+ #### Quando il giocatore entra nella partita, ho fatto in modo che si leggano e salvino le seguenti informazioni: Partita alla quale entra e Modo della partita (quindi solo, duo o trio)
+
+ # 🍀 SQLite3 (Database)
+ ### [✅] Database giocatore: La modalitá di kitpvp non utilizza un sistema di database ed é per questo che non é stato menzionato. Le bedwars peró faranno un giro inaspettato, non perché ci sia la voglia di farlo ma perche c'é la neccesitá di aggiungere una database per salvare le proprieta, informazioni e in generale le statistiche del giocatore.
+ ### [🔴] Database mappe:  Le mappe non sono salvate in un database, questo perche vogliamo la velocitá di modifica delle mappe in qualsiasi momento. 50% Opzionale 50% Utile
