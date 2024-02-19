@@ -26,6 +26,7 @@
  #### Quando il giocatore entra nella partita, ho fatto in modo che si leggano e salvino le seguenti informazioni: Partita alla quale entra e Modo della partita (quindi solo, duo o trio)
  ### [✅] Scoreboard automatica
  #### La scoreboard, conta quanti team ci sono, nella mappa di un modo di gioco, quindi "solo", "duo", "trio" hanno le proprie mappe.
+ #### Quindi, "X" per i team i quali sono vuoti e "V" per i team che hanno almeno un giocatore. Questo, vuol dire che i letti che vengono distrutti, se i team non esistono (o almeno i giocatori non ci sono) il letto conterá come esistente.
  - ![Teams](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/d3b0df96-0c80-4798-92e4-b73fe22e9697)
 
  # 🍀 SQLite3 (Database)
