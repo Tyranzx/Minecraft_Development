@@ -17,6 +17,8 @@
   -  ![Todo](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/18de7e1b-b87e-4069-b33f-38198e96e55f)
 
 # 🎲 Sistema di Partite
+ ### [✅] MatchMaking (?):
+ #### Il simbolo "?" é per il semplice motivo della mia poca conoscenza di questa parola. Peró so a cosa si riferiscono. Vi posso garantire, che sia modo, che mappa, che giocatori, generatori, ecc, son tutti isolati o in istanze diverse. Quindi non capiterá di trovare gli stessi giocatori, o vederli in giro, ecc.
  ### [✅] Sistema di modi:
  #### Questo core, ha la possibilitá di creare e di giocare, partite di tipo **SOLO**, quindi senza una squadra contro altri giocatori, e non solo, si é fatto pensando solo a 3 modi, Solo, Duo (double) e Trio.
  ### [✅] Sistema di creazione mappe: 
