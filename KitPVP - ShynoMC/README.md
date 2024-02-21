@@ -175,7 +175,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
    ### [✅] Gang Chat
    - ![image](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/51d548d7-9b82-4dc6-9d25-1c3bcde22868)
 # 🔄 Compatibilitá Estesa & Compatibilitá
-   ### [✅] Goditi l'esperienza giocando in diverse versioni **(versioni 1.7 , 1.8 e 1.20)** e sperimenta il nostro impegno per rendere il KitPVP accessibile ad un'ampia comunità di giocatori. Sono stati aggiunti complementi **Legacy (< 1.13)** a proposito.
+   ### [✅] Goditi l'esperienza giocando in diverse versioni **(1.7 , 1.8 e 1.20)** e sperimenta il nostro impegno per rendere il KitPVP accessibile ad un'ampia comunità di giocatori. Sono stati aggiunti complementi **Legacy (< 1.13)** a proposito.
    ### [✅] Sincronizzazione con LuckPerms
    - ![image](https://github.com/Lewysan/Minecraft_Development/assets/70720366/45d9a693-3997-42f3-bb9f-59aeb7653e18)
    - ![2024-01-03 02-52-05](https://github.com/Lewysan/Minecraft_Development/assets/70720366/2cad1c98-9ad0-4837-b24b-48bd5f95fe39)
