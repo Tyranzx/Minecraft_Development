@@ -17,10 +17,3 @@ mysql:
   username: root
   password: "you_a_fool_123"
   ssl: false
-#
-settings:
-  staffmode:
-    staffboard: true
-  scoreboard: false
-  join_items: false
-  tablist: false
