@@ -1,5 +1,12 @@
 # COMMANDS IDEAS
 - /clearchat
+- /bancount
+- /playerlist
+- /stafflist
+- /sql
+- /redis
+- /gm [0-1-2-3]
+- /gang
 - /lang
 - /randomteleport
 - /register & /login
