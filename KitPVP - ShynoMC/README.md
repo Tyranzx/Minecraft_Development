@@ -1,4 +1,4 @@
-# [⚔] KitPVP | 1.7 - 1.8 - 1.20
+# [⚔] KitPVP | 1.7+
 		by xJess (Lewysan) - Contributors: StellarSquad 🎲
   	      SpigotMC: https://www.spigotmc.org/members/jessia.1858326/
     
