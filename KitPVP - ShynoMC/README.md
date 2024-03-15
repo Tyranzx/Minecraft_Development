@@ -1,5 +1,5 @@
 # [⚔] KitPVP | 1.7+
-		by xJess (Lewysan) - Contributors: StellarSquad 🎲
+		by xJess (Tyranzx) - Contributors: StellarSquad 🎲
   	      SpigotMC: https://www.spigotmc.org/members/jessia.1858326/
     
 Concludendo un intenso periodo di sviluppo, sono ansiosa ma sopratutto contenta di presentarvi un mio progetto speciale di kitpvp per rendere l'esperienza di combattimento unica e coinvolgente wazaaaaa 👻👻👻👻.
