@@ -10,9 +10,8 @@
 - https://www.spigotmc.org/members/jessia.1858326/ 💓
 
 # MC DEVELOPMENT REPOSITORY:
-![image](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/39280e2e-3ad4-47bd-a86e-c171c18ee398)
-![B](https://github.com/Lewysan/Minecraft_Development/assets/70720366/cacaaef9-7c0c-4d59-a01f-3f1f4738fc45)
-![C](https://github.com/Lewysan/Minecraft_Development/assets/70720366/3e7f1c5d-0224-4ce3-b131-12f2478e348c)
+![image](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/79599737-b870-43c0-adef-50bfb3d1a7af)
+
 
 # DISCORD:
 Jessia#1557
