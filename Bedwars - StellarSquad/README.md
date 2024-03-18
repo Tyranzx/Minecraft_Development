@@ -35,6 +35,7 @@
  #### La scoreboard, conta quanti team ci sono, nella mappa di un modo di gioco, quindi "solo", "duo", "trio" hanno le proprie mappe.
  #### Quindi, "X" per i team i quali sono vuoti e "V" per i team che hanno almeno un giocatore. Questo, vuol dire che i letti che vengono distrutti, se i team non esistono (o almeno i giocatori non ci sono) il letto conterá come esistente.
  - ![Teams](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/d3b0df96-0c80-4798-92e4-b73fe22e9697)
+ - ![2024-03-18 05-26-11](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/601dd28b-93be-4808-a5e5-a7a50ad02487)
 
  # 🍀 SQLite3 (Database)
  ### [✅] Database giocatore: La modalitá di kitpvp non utilizza un sistema di database ed é per questo che non é stato menzionato. Le bedwars peró faranno un giro inaspettato, non perché ci sia la voglia di farlo ma perche c'é la neccesitá di aggiungere una database per salvare le proprieta, informazioni e in generale le statistiche del giocatore. Non é la prima volta che utilizzo database nei miei progetti, peró é una cosa che non volevo aggiungere al kitpvp ma alle bedwars si. Per renderlo, un progetto, non solamente completo ma anche ottimo da usare.
