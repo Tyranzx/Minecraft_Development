@@ -20,7 +20,7 @@
   ### [✅] **TABLIST**:
   #### Per il tablist, utilizzeró, grazie al kitpvp che mi ha insegnato delle cose, tecniche e risorse di tipo legacy, ovviamente mantenendo la compatibilitá con piú versioni di minecraft ma non rendendo il plugin troppo pesante. 
   -  ![Todo](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/18de7e1b-b87e-4069-b33f-38198e96e55f)
-
+![2024-03-18_05 43 10](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/47578d64-74ee-45e2-85dc-994be4a94720)
 # 🎲 Sistema di Partite
  ### [✅] MatchMaking (?):
  #### Il simbolo "?" é per il semplice motivo della mia poca conoscenza di questa parola. Peró so a cosa si riferiscono. Vi posso garantire, che sia modo, che mappa, che giocatori, generatori, ecc, son tutti isolati o in istanze diverse. Quindi non capiterá di trovare gli stessi giocatori, o vederli in giro, ecc.
@@ -37,6 +37,10 @@
  - ![Teams](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/d3b0df96-0c80-4798-92e4-b73fe22e9697)
  - ![2024-03-18 05-26-11](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/601dd28b-93be-4808-a5e5-a7a50ad02487)
  - ![2024-03-1805-25-03-ezgif com-optimize](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/6a4be0ed-40f6-49b0-ac58-a46ab5b8a6e8)
+ - ![2024-03-1805-27-31-ezgif com-optimize (1)](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/741b21e8-b625-4219-8a14-4d4f06f841b5)
+ - ![2024-03-1805-28-31-ezgif com-optimize](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/69beb525-f44c-42da-b447-f7438fe6df41)
+ - ![2024-03-18 05-29-05](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/dc3759ea-fc28-4dab-bcd1-4e79e81ed94e)
+ - ![2024-03-1805-31-01-ezgif com-optimize](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/953e62b2-0fa6-47b8-b332-dda106b1972d)
  # 🍀 SQLite3 (Database)
  ### [✅] Database giocatore: La modalitá di kitpvp non utilizza un sistema di database ed é per questo che non é stato menzionato. Le bedwars peró faranno un giro inaspettato, non perché ci sia la voglia di farlo ma perche c'é la neccesitá di aggiungere una database per salvare le proprieta, informazioni e in generale le statistiche del giocatore. Non é la prima volta che utilizzo database nei miei progetti, peró é una cosa che non volevo aggiungere al kitpvp ma alle bedwars si. Per renderlo, un progetto, non solamente completo ma anche ottimo da usare.
  ### [🔴] Database mappe:  Le mappe non sono salvate in un database, questo perche vogliamo la velocitá di modifica delle mappe in qualsiasi momento. 50% Opzionale 50% Utile
