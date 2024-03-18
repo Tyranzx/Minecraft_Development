@@ -20,7 +20,8 @@
   ### [✅] **TABLIST**:
   #### Per il tablist, utilizzeró, grazie al kitpvp che mi ha insegnato delle cose, tecniche e risorse di tipo legacy, ovviamente mantenendo la compatibilitá con piú versioni di minecraft ma non rendendo il plugin troppo pesante. 
   -  ![Todo](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/18de7e1b-b87e-4069-b33f-38198e96e55f)
-![2024-03-18_05 43 10](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/47578d64-74ee-45e2-85dc-994be4a94720)
+  -  ![PROPERTY_PROOF](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/c922a8c8-4d75-40c3-9ff1-8216bc1900bb)
+  -  ![2024-03-18_05 43 10](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/47578d64-74ee-45e2-85dc-994be4a94720)
 # 🎲 Sistema di Partite
  ### [✅] MatchMaking (?):
  #### Il simbolo "?" é per il semplice motivo della mia poca conoscenza di questa parola. Peró so a cosa si riferiscono. Vi posso garantire, che sia modo, che mappa, che giocatori, generatori, ecc, son tutti isolati o in istanze diverse. Quindi non capiterá di trovare gli stessi giocatori, o vederli in giro, ecc.
@@ -35,6 +36,7 @@
  #### La scoreboard, conta quanti team ci sono, nella mappa di un modo di gioco, quindi "solo", "duo", "trio" hanno le proprie mappe.
  #### Quindi, "X" per i team i quali sono vuoti e "V" per i team che hanno almeno un giocatore. Questo, vuol dire che i letti che vengono distrutti, se i team non esistono (o almeno i giocatori non ci sono) il letto conterá come esistente.
  - ![Teams](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/d3b0df96-0c80-4798-92e4-b73fe22e9697)
+ - ![Shop](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/0fab562b-11ee-4938-b44e-2f29b3de84f2)
  - ![2024-03-18 05-26-11](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/601dd28b-93be-4808-a5e5-a7a50ad02487)
  - ![2024-03-1805-25-03-ezgif com-optimize](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/6a4be0ed-40f6-49b0-ac58-a46ab5b8a6e8)
  - ![2024-03-1805-27-31-ezgif com-optimize (1)](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/741b21e8-b625-4219-8a14-4d4f06f841b5)
