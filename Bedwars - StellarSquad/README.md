@@ -7,7 +7,7 @@
 	⭐ Special mentions: GorditosSquad / StaryMC
  
    		(V) Ringrazio StaryMC per darmi l'idea di creare questo progetto,
-     		ShynoMC per l'esperienza, StellarSquad per la confidenza costante
+     		ShynoMC per l'esperienza, StellarSquad per la confidenza costante.
 
 # Caratteristiche dettagliate:
 
