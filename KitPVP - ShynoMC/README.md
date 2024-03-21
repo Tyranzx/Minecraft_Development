@@ -192,7 +192,7 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 
 ### Contenuto CUSTOM:
 				- Kits (GUI) + Anteprima (GUI)
-				- Sistema di statistiche -> coins, morti, kills, streak, kdr, items acquistatI (aste), taglia, top [soldi/streak] challenge/eventi completati
+				- Sistema di statistiche -> soldi, morti, kills, streak, kdr, items acquistatI (aste), taglia, top [soldi/streak] challenge/eventi completati
 				- Entitá (Mob) interagibili per alcuni menu (senza AI)
 				- Scoreboard + Teams
 				- Unbreakables anvils 
