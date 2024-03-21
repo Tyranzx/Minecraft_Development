@@ -46,3 +46,25 @@
  # 🍀 SQLite3 (Database)
  ### [✅] Database giocatore: La modalitá di kitpvp non utilizza un sistema di database ed é per questo che non é stato menzionato. Le bedwars peró faranno un giro inaspettato, non perché ci sia la voglia di farlo ma perche c'é la neccesitá di aggiungere una database per salvare le proprieta, informazioni e in generale le statistiche del giocatore. Non é la prima volta che utilizzo database nei miei progetti, peró é una cosa che non volevo aggiungere al kitpvp ma alle bedwars si. Per renderlo, un progetto, non solamente completo ma anche ottimo da usare.
  ### [🔴] Database mappe:  Le mappe non sono salvate in un database, questo perche vogliamo la velocitá di modifica delle mappe in qualsiasi momento. 50% Opzionale 50% Utile
+ ### Contenuto CUSTOM:
+				- GUI Shop + In game menus + Lobby menus
+				- Sistema di statistiche -> coins, morti, kills, streak, kdr, items acquistatI (aste), taglia, top [soldi/streak] challenge/eventi completati
+				- Entitá (Mob) interagibili per alcuni menu (senza AI)
+				- Scoreboard + Teams
+				- Tablist | Lobby: [%rank% %player% %clan%] - In game: [%squadra% %player% %clan%]
+				- Leaderboards: [Uccisioni, Uccisioni gang, Morti, Soldi, KDR]
+				- Sistema di statistiche generali, database, MySQL / Sqlite3 (Irrelevante)
+				- Clans
+				- Fix knockback
+				- Lobby jumppads
+				- In game smooth autoRespawn
+				- Non-hyper complex generators system (Credo)
+				- Lobby Bossbar
+				- Player meta [prefixes & suffixes]
+				- Fireball and TNT power
+				- Explosion management
+				- Zone protection
+				- Spawn area protection
+				- Sincronizzazione LuckPerms (Lobby)
+
+us@stellarsquad - xJess
