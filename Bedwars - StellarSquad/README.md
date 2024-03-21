@@ -48,7 +48,8 @@
  ### [🔴] Database mappe:  Le mappe non sono salvate in un database, questo perche vogliamo la velocitá di modifica delle mappe in qualsiasi momento. 50% Opzionale 50% Utile
  ### Contenuto CUSTOM:
 				- GUI Shop + In game menus + Lobby menus
-				- Sistema di statistiche -> coins, morti, kills, streak, kdr, items acquistatI (aste), taglia, top [soldi/streak] challenge/eventi completati
+				- Sistema di statistiche -> coins, morti, kills, streak, kdr, items acquistatI (aste),
+    					taglia, top [soldi/streak] challenge/eventi completati
 				- Entitá (Mob) interagibili per alcuni menu (senza AI)
 				- Scoreboard + Teams
 				- Tablist | Lobby: [%rank% %player% %clan%] - In game: [%squadra% %player% %clan%]
