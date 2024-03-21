@@ -203,17 +203,16 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 				- Aste -> /ah o /aste | Vendere oggetti con /sell <prezzo> o /ah sell <prezzo>
 				- Taglie ( automatiche (?) )
 				- Cestino [Cauldron]
-				- Sistema di economia e giocatore senza Vault o EssentialsX
+				- Sistema di economia e giocatore SENZA Vault o EssentialsX
 				- CombatLog
 				- Shop [Pozioni, item generali, libri, speciali]
 				- Gangs
-				- Fix knockback + Particles di sangue aleatorie
+				- Fix knockback
 				- Jumppads
 				- Bounties
 				- Smooth autoRespawn
 				- AxeInjury (Danno all'armadura fatta dall'ascia)
 				- Sugar speed boost
-				- Bossbar (1.20+ SOLO)
 				- Player meta [prefixes & suffixes]
 				- PlayerVaults (Private Chests)
 				- Bow Boosting (1.20 fix & Legacy)
@@ -227,7 +226,6 @@ Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del gio
 				- Quests (Sfide)
 				- GoldenHeads
 				- GrapplingHook
-				- Spawn protection
 				- Fabbro XD😁🤣
 				- Sincronizzazione LuckPerms
 
