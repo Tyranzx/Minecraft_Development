@@ -43,6 +43,7 @@
  - ![2024-03-1805-28-31-ezgif com-optimize](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/69beb525-f44c-42da-b447-f7438fe6df41)
  - ![2024-03-18 05-29-05](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/dc3759ea-fc28-4dab-bcd1-4e79e81ed94e)
  - ![2024-03-1805-31-01-ezgif com-optimize](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/953e62b2-0fa6-47b8-b332-dda106b1972d)
+ - ![image](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/4e73bd41-490c-47f5-9335-fac001bcf878)
  # 🍀 SQLite3 (Database)
  ### [✅] Database giocatore: La modalitá di kitpvp non utilizza un sistema di database ed é per questo che non é stato menzionato. Le bedwars peró faranno un giro inaspettato, non perché ci sia la voglia di farlo ma perche c'é la neccesitá di aggiungere una database per salvare le proprieta, informazioni e in generale le statistiche del giocatore. Non é la prima volta che utilizzo database nei miei progetti, peró é una cosa che non volevo aggiungere al kitpvp ma alle bedwars si. Per renderlo, un progetto, non solamente completo ma anche ottimo da usare.
  ### [🔴] Database mappe:  Le mappe non sono salvate in un database, questo perche vogliamo la velocitá di modifica delle mappe in qualsiasi momento. 50% Opzionale 50% Utile
