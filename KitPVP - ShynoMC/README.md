@@ -17,7 +17,7 @@ Concludendo un intenso periodo di sviluppo, sono ansiosa ma sopratutto contenta 
 
 
 Il plugin l'ho fatto da sola in meno di due mesi, sono riuscita pure a creare delle API pronte per i miei membri di StellarSquad e, ripeto, ad imparare nuove cose importanti.
-Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del giocatore e per altre tante cose. Il plugin é stato fatto per server di versioni superiori a 1.8
+Sono state utilizzate tecniche sia per oggetti legacy che per animazioni del giocatore e per altre tante cose. Il plugin é stato fatto per server di versioni 1.7 e superiori.
 
 - ![2024-04-26_02 32 04](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/c6242b02-4c5c-43f1-b91d-58f171a82fcf)
 
