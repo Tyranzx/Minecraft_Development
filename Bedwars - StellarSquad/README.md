@@ -57,12 +57,12 @@
 				- Tablist | Lobby: [%rank% %player% %clan%] - In game: [%squadra% %player% %clan%]
 				- Leaderboards: [Uccisioni, Uccisioni gang, Morti, Soldi, KDR]
 				- Sistema di statistiche generali, database, MySQL / Sqlite3 (Irrelevante)
-				- Clans
+				- Clans globali (Sia lobby che kitpvp)
+				- Abilitá globali (Sia kitpvp che altre modalitá)
 				- Fix knockback
 				- Lobby jumppads
 				- In game smooth autoRespawn
 				- Non-hyper complex generators system (Credo)
-				- Lobby Bossbar
 				- Player meta [prefixes & suffixes]
 				- Fireball and TNT power
 				- Explosion management
