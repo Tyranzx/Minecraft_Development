@@ -54,6 +54,8 @@
  - ![2024-04-2917-39-13-ezgif com-optimize](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/e5ba4aff-7fe9-4c03-9976-b09c13b9c25b)
  - ![2024-04-29 17-40-12](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/a7e6ea5a-826d-4bce-ac4c-1ac1ee9bd0e8)
  - ![2024-04-29 17-40-20](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/676e5eb2-34b4-49dc-97aa-477f6ba07940)
+ - ![2024-04-29 17-42-08](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/d05de868-0b47-4a11-a274-403cc812d831)
+
 
  # 🍀 SQLite3 (Database)
  ### [✅] Database giocatore: La modalitá di kitpvp non utilizza un sistema di database ed é per questo che non é stato menzionato. Le bedwars peró faranno un giro inaspettato, non perché ci sia la voglia di farlo ma perche c'é la neccesitá di aggiungere una database per salvare le proprieta, informazioni e in generale le statistiche del giocatore. Non é la prima volta che utilizzo database nei miei progetti, peró é una cosa che non volevo aggiungere al kitpvp ma alle bedwars si. Per renderlo, un progetto, non solamente completo ma anche ottimo da usare.
@@ -67,7 +69,10 @@
 				- Tablist | Lobby: [%rank% %player% %clan%] - In game: [%squadra% %player% %clan%]
 				- Leaderboards: [Uccisioni, Uccisioni gang, Morti, Soldi, KDR]
 				- Sistema di statistiche generali, database, MySQL / Sqlite3 (Irrelevante)
-				- Clans
+				- Clans/Gangs globali (Kitpvp & Lobby)
+				- Sistema di livelli in tutto il proxy + nelle partite delle bw
+				- "Multi istanza"
+				- Automatizzazione delle creazione di istanze per le partite.
 				- Fix knockback
 				- Lobby jumppads
 				- In game smooth autoRespawn
