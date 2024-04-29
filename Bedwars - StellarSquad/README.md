@@ -51,7 +51,9 @@
  - ![2024-04-2917-30-43-ezgif com-optimize](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/4e94d573-6ff5-491c-8d38-ee1f34fc1b09)
  - ![2024-04-2917-31-27-ezgif com-optimize](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/bf167456-5507-41cc-84c0-aaa1a19364c5)
  - ![2024-04-2917-31-49-ezgif com-optimize](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/a73016e1-50aa-4ef1-acd9-8e6c2a4f9912)
-
+ - ![2024-04-2917-39-13-ezgif com-optimize](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/e5ba4aff-7fe9-4c03-9976-b09c13b9c25b)
+ - ![2024-04-29 17-40-12](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/a7e6ea5a-826d-4bce-ac4c-1ac1ee9bd0e8)
+ - ![2024-04-29 17-40-20](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/676e5eb2-34b4-49dc-97aa-477f6ba07940)
 
  # 🍀 SQLite3 (Database)
  ### [✅] Database giocatore: La modalitá di kitpvp non utilizza un sistema di database ed é per questo che non é stato menzionato. Le bedwars peró faranno un giro inaspettato, non perché ci sia la voglia di farlo ma perche c'é la neccesitá di aggiungere una database per salvare le proprieta, informazioni e in generale le statistiche del giocatore. Non é la prima volta che utilizzo database nei miei progetti, peró é una cosa che non volevo aggiungere al kitpvp ma alle bedwars si. Per renderlo, un progetto, non solamente completo ma anche ottimo da usare.
