@@ -6,7 +6,7 @@
 
 	⭐ Special mentions: StellarSquad / NightFall Network / GorditosSquad / StaryMC / KSCraft / ShynoMC
  
-   		Bedwars Custom by Jess per DarkMine Network
+   		Bedwars Custom by Jess per DarkMine Network 1.7.x - 1.8.x - 1.20.1 (2024) 
 
 # Caratteristiche dettagliate:
 
