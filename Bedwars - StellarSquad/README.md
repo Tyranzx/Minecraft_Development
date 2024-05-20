@@ -55,6 +55,10 @@
  - ![2024-04-29 17-40-20](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/676e5eb2-34b4-49dc-97aa-477f6ba07940)
  - ![2024-04-29 17-42-08](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/d05de868-0b47-4a11-a274-403cc812d831)
  - ![image](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/b91df0ed-e50a-4fc6-8474-1d6d4157fdca)
+ - ![2024-05-19_22 06 00](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/9e9a8bb7-c22c-44e6-a2a4-a45dbd208d26)
+ - ![2024-05-19_22 38 34](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/70c141fe-192a-4930-8ebd-dc0bc5165e4e)
+ - ![2024-05-19_14 02 35](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/c9c93718-ff13-4a57-9ba4-44f8afa94255)
+ - ![2024-05-19_12 54 50](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/58f3507d-80a0-4dcf-9c2a-543df4662cd0)
 
 
  # 🍀 SQLite3 (Database)
