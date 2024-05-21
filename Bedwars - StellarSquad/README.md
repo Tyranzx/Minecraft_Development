@@ -1,4 +1,4 @@
-# 🛌 BEDWARS | 1.7+
+# 🛌 BEDWARS CUSTOM | DARKMINE | 1.7+
 		by xJess (Tyranzx) - Contributors: StellarSquad 🎲
   	      SpigotMC: https://www.spigotmc.org/members/jessia.1858326/
     
