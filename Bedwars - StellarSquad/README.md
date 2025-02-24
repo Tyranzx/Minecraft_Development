@@ -36,6 +36,7 @@
  #### Quindi, "X" per i team i quali sono vuoti e "V" per i team che hanno almeno un giocatore. Questo, vuol dire che i letti che vengono distrutti, se i team non esistono (o almeno i giocatori non ci sono) il letto conterá come esistente.
  - ![Teams](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/d3b0df96-0c80-4798-92e4-b73fe22e9697)
  - ![image](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/c2c19e0f-ec20-4068-9b7f-f6f95725c17f)
+ - ![Image](https://github.com/user-attachments/assets/559cb317-42c7-4925-a0db-353880f0cdd3)
  - ![2024-03-18 05-26-11](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/601dd28b-93be-4808-a5e5-a7a50ad02487)
  - ![2024-03-1805-25-03-ezgif com-optimize](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/6a4be0ed-40f6-49b0-ac58-a46ab5b8a6e8)
  - ![2024-03-1805-27-31-ezgif com-optimize (1)](https://github.com/Tyranzx/Minecraft_Development/assets/70720366/741b21e8-b625-4219-8a14-4d4f06f841b5)
