@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ae570902-4cc1-4e60-b9f5-5751ff08f338)# 🛌 BEDWARS CUSTOM | DARKMINE | 1.7+
+# 🛌 BEDWARS CUSTOM | DARKMINE | 1.7+
 		by xJess (Tyranzx) - Contributors: StellarSquad 🎲
   	      SpigotMC: https://www.spigotmc.org/members/jessia.1858326/
     
@@ -8,6 +8,7 @@
  
    		Bedwars Custom by Jess per DarkMine Network 1.7.x - 1.8.x - 1.20.1 (2024) 
 
+![image](https://github.com/user-attachments/assets/ae570902-4cc1-4e60-b9f5-5751ff08f338)
 https://www.youtube.com/watch?v=1Z7VVAK7noA&ab_channel=xJessia_
 
 # Caratteristiche dettagliate:
