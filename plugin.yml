@@ -1,9 +1,12 @@
-name: '${project.name}'
-main: us.com.stellarsquad.stellarcraft.StellarCore
-authors: ["Tyranzx", "Jess", "Lewysan", , "LewMacaco", "iNety_x", "IM", "EVERYONE"]
-description: '${project.description}'
-prefix: StellarSquad
-softdepend: [PlaceholderAPI]
-depend: [HamsterAPI]
-version: ${project.version}
+name: N_N
+main: us.com.stellarsquad.stellarcraft.Loader
+authors: ["Krypton", "Jess", "Lewysan", "Malakim", "LewMacaco", "iSystemLag_", "iNety_x", "I", "'M", "EVERYONE"]
+description: 'We are the 1%'
+prefix: "StellarSquad"
+softdepend: []
+depend: []
+version: 1.0
 api-version: 1.13
+commands:
+  test:
+    aliases: [xtest]
