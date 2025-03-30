@@ -8,7 +8,7 @@
  
    		Bedwars Custom by Jess per DarkMine Network 1.7.x - 1.8.x - 1.20.1 (2024) 
 
-https://www.youtube.com/watch?v=1Z7VVAK7noA&ab_channel=xJessia_
+https://www.youtube.com/@xJessia_
 
 # Caratteristiche dettagliate:
 
