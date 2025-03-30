@@ -16,3 +16,8 @@
 # DISCORD:
 Jessia#1557
    ~ us@stellarsquad
+
+# MY POM.XML
+```xml
+
+```
