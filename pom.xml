@@ -179,6 +179,13 @@
             <artifactId>json</artifactId>
             <version>LATEST</version>
         </dependency>
+
+         <!-- Nats -->
+         <dependency>
+             <groupId>io.nats</groupId>
+             <artifactId>nats-client</artifactId>
+             <version>LATEST</version>
+         </dependency>
              
     </dependencies>
 </project>
