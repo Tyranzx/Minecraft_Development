@@ -75,6 +75,13 @@
 
     <repositories>
         <repository>
+            <id>sonatype snapshots</id>
+            <url>https://oss.sonatype.org/content/repositories/snapshots</url>
+            <snapshots>
+                <enabled>true</enabled>
+            </snapshots>
+        </repository>
+        <repository>
             <id>jitpack.io</id>
             <url>https://jitpack.io</url>
         </repository>
@@ -104,14 +111,14 @@
             <version>8.0.33</version>
         </dependency>
 
-             <!-- SQLite JDBC -->
+        <!-- SQLite JDBC -->
         <dependency>
             <groupId>org.xerial</groupId>
             <artifactId>sqlite-jdbc</artifactId>
             <version>3.44.1.0</version>
         </dependency>
 
-             <!-- Jedis-->
+        <!-- Jedis-->
         <dependency>
             <groupId>redis.clients</groupId>
             <artifactId>jedis</artifactId>
@@ -120,7 +127,7 @@
             <scope>compile</scope>
         </dependency>
 
-             <!-- Mojang AuthLib -->
+        <!-- Mojang AuthLib -->
         <dependency>
             <groupId>com.mojang</groupId>
             <artifactId>authlib</artifactId>
@@ -128,7 +135,7 @@
             <scope>provided</scope>
         </dependency>
 
-             <!-- Spigot API (1.20.1) -->
+        <!-- Spigot API (1.20.1) -->
         <dependency>
             <groupId>org.spigotmc</groupId>
             <artifactId>spigot-api</artifactId>
@@ -136,7 +143,7 @@
             <scope>provided</scope>
         </dependency>
 
-             <!-- PlaceHolderAPI -->
+        <!-- PlaceHolderAPI -->
         <dependency>
             <groupId>me.clip</groupId>
             <artifactId>placeholderapi</artifactId>
@@ -144,7 +151,7 @@
             <scope>provided</scope>
         </dependency>
 
-             <!-- HamsterAPI -->
+        <!-- HamsterAPI -->
         <dependency>
             <groupId>com.github.arkflame</groupId>
             <artifactId>hamsterapi</artifactId>
@@ -152,40 +159,40 @@
             <scope>provided</scope>
         </dependency>
 
-             <!-- MariaDB Java Client -->
+        <!-- MariaDB Java Client -->
         <dependency>
             <groupId>org.mariadb.jdbc</groupId>
             <artifactId>mariadb-java-client</artifactId>
             <version>3.0.8</version>
         </dependency>
 
-             <!-- YAML -->
+        <!-- YAML -->
         <dependency>
             <groupId>com.github.Smuddgge</groupId>
             <artifactId>SquishyYaml</artifactId>
             <version>1.7.0</version>
         </dependency>
 
-             <!-- Logback -->
+        <!-- Logback -->
         <dependency>
             <groupId>ch.qos.logback</groupId>
             <artifactId>logback-classic</artifactId>
             <version>1.4.14</version>
         </dependency>
 
-             <!-- JSON -->
+        <!-- JSON -->
         <dependency>
             <groupId>org.json</groupId>
             <artifactId>json</artifactId>
             <version>LATEST</version>
         </dependency>
 
-         <!-- Nats -->
-         <dependency>
-             <groupId>io.nats</groupId>
-             <artifactId>nats-client</artifactId>
-             <version>LATEST</version>
-         </dependency>
-             
+        <!-- Nats -->
+        <dependency>
+            <groupId>io.nats</groupId>
+            <artifactId>jnats</artifactId>
+            <version>2.11.1</version>
+        </dependency>
+
     </dependencies>
 </project>
