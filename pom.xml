@@ -194,5 +194,13 @@
             <version>2.11.1</version>
         </dependency>
 
+             <!-- KeePass -->
+             
+      <dependency>
+          <groupId>org.linguafranca.pwdb</groupId>
+          <artifactId>KeePassJava2-jackson</artifactId>
+          <version>2.2.4</version>
+      </dependency>
+
     </dependencies>
 </project>
